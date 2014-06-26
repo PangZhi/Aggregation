@@ -1,0 +1,7441 @@
+usage: ./bin/main and enter aggregation_dimension in (0, 1, 2, 3)
+0: Date
+1: Hour
+2: State
+3: City
+
+usa-2014-02-19_2.txt
+/u/f/a/fanj/TwitterTag2//usa-2014-02-19_2.txt
+Function : AggregateByPost
+
+=======================================GenerateGraph for MT====================================
+missoula 4 1677.32
+bb tourney 3 1452.14
+bozeman 2 968.093
+mt 8 954.573
+nws billings 3 951.683
+bangladesh 1 484.047
+carlton 1 484.047
+kenley janssen 1 484.047
+black hills 1 484.047
+mustangs 1 419.33
+pineapple express 1 419.33
+mike rowe 1 419.33
+um 1 419.33
+sheriff 1 419.33
+johnny rockets 1 419.33
+originals #barcelona 2 1 419.33
+sloan 1 375.166
+jana 1 375.166
+yahoo 1 342.566
+veteran 1 342.566
+helena 1 317.228
+the mountain 1 253.263
+bbc 1 242.523
+timmy 1 233.048
+montana 1 233.048
+rodeo 1 233.048
+bridge 1 224.607
+northern 1 224.607
+pink floyd 1 217.025
+puig 1 210.165
+carol 1 210.165
+assoc 1 210.165
+titan 1 203.92
+jabari parker 1 198.203
+harley 1 198.203
+chuck bass 1 179.377
+sb 1 179.377
+merica 1 175.456
+kellogg 1 171.783
+costco 1 162.016
+michael jackson 1 153.753
+new york city 1 151.269
+chuck 1 146.644
+nikki 1 146.644
+canada latvia 1 134.973
+buffalo wild wings 1 130.1
+kansas 1 127.131
+brazil 1 127.131
+louisville 1 112.803
+bob 1 110.859
+morgan 1 107.256
+wendy 1 103.986
+jacksonville 1 103.214
+minnesota 1 98.9237
+im 1 93.9623
+kd 1 92.2872
+walmart 1 88.2279
+drew 1 85.95
+ashley 1 80.4123
+ryan 1 80.4123
+san antonio 1 79.019
+homer bailey 1 76.4392
+latvia 4 70.7595
+cali 1 70.7217
+facebook 2 70.4845
+nick 1 66.1339
+chris 1 62.6794
+lebron 1 58.0598
+alex 1 57.7962
+pandora 1 55.9295
+mn 1 55.8115
+canada 4 54.9588
+adidas originals 1 44.3788
+usa 2 33.2675
+russia 1 30.361
+twitter 1 16.3548
+black eagle 2 12
+havre 2 12
+sheriff edwards 2 12
+us congress 2 12
+fastlifts 1 6
+dinars 1 6
+shinning lighthouse 1 6
+richie sexson 1 6
+yellowstone river 1 6
+the light of god never fail 1 6
+arenas 1 6
+lucinda williams 1 6
+the great 1 6
+barbara pulley &amp associates p.c. missoula 1 6
+holiday inn grand… 1 6
+tig notaro 1 6
+la boulange 1 6
+pat robertson 1 6
+lookout pass 1 6
+black eagle dam 1 6
+assistive 1 6
+river road 1 6
+golda meir” #goodadvice 1 6
+montana dmv 1 6
+
+=======================================GenerateGraph for KS====================================
+ks 72 6981.95
+overland park 10 2655.75
+ku 13 2576.63
+wsu 14 2570.04
+lawrence 11 1889.61
+wichita state 8 1864.38
+topeka 5 1712.83
+wichita 8 1681.32
+hale library 3 1452.14
+dillons 3 1452.14
+shockers 3 1452.14
+kansas 11 1398.44
+shawnee 3 1257.99
+super nintendo 2 968.093
+skyler 2 968.093
+wichita state : the unbeaten monsters 2 968.093
+teal 2 968.093
+chanute 2 968.093
+manhattan 7 944.809
+cass 5 896.883
+kim yuna 8 858.047
+kansas city 7 819.169
+hailey owens 4 771.773
+seneca 2 750.331
+twister 2 750.331
+royals 2 685.131
+sporting kc 2 685.131
+isaiah rashad 2 685.131
+sports illustrated 4 660.33
+brad 3 630.496
+sonny 3 630.496
+kc 3 630.496
+lhs 2 593.608
+national 2 593.608
+law abiding citizen 2 593.608
+teal bunbury 2 593.608
+mercy health 3 564.249
+jb 2 531.151
+hb 2 506.526
+midwest 2 506.526
+missouri 3 486.047
+czech republic 5-2 2 485.046
+mickey mouse 2 485.046
+jv 2 485.046
+iron maiden 1 484.047
+gardner 1 484.047
+sacramento kings 1 484.047
+mckinley 1 484.047
+andrew wiggins 1 484.047
+2-0 arsenal 1 484.047
+verve 1 484.047
+yazmin 1 484.047
+no english 1 484.047
+sean connery 1 484.047
+roadhouse 1 484.047
+douglass 1 484.047
+capturing olympic 1 484.047
+bible study 1 484.047
+gates 1 484.047
+dbz 1 484.047
+guinness 1 484.047
+chris kaman 1 484.047
+rudy gay 1 484.047
+parking structure 1 484.047
+garth brooks 1 484.047
+botany 1 484.047
+wichita st 1 484.047
+gamma 1 484.047
+nicklaus 1 484.047
+craig michael wood 1 484.047
+ap stats 1 484.047
+lara 1 484.047
+meek milly 1 484.047
+hca #practicewithus 1 484.047
+northface 1 484.047
+chad 3 469.092
+glen 2 466.096
+tristan 2 449.214
+scotty 2 449.214
+adrianna 1 419.33
+the robinsons 1 419.33
+santa claus 1 419.33
+cisco 1 419.33
+macro 1 419.33
+rascal flatts 1 419.33
+hutch 1 419.33
+the grizzlies 1 419.33
+h2h 1 419.33
+cristian 1 419.33
+hardaway jr 1 419.33
+great dane 1 419.33
+yo momma's house 1 419.33
+bible belt 1 419.33
+nick jonas 1 419.33
+ronald reagan 1 419.33
+electric 1 419.33
+the czechs 1 419.33
+star trek 1 419.33
+hungary 1 419.33
+ward 1 419.33
+
+=======================================GenerateGraph for Zacatecas====================================
+zacatecas 9 2390.18
+zac 5 1399.43
+rectoría 3 1125.5
+jacqueline 1 484.047
+centro histórico 1 484.047
+guadalupe 2 420.33
+maduro 1 279.887
+marina 1 210.165
+nunca 1 198.203
+diana 1 183.574
+nutella 1 144.486
+burger king 1 120.523
+mcdonald 1 64.6101
+venezuela 1 49.7122
+starbucks 1 30.289
+god 1 27.6989
+prepa tec 2 12
+centro zacatecas 2 12
+día del ejército 2 12
+alberto 1 6
+izea 1 6
+cerrajería villarreal 1 6
+clínica santa elena 1 6
+laboratorio 1 1 6
+muchas felicidades 1 6
+hermanos venezolanos 1 6
+una caminera 1 6
+catedral 1 6
+cuando el sabio señala la luna 1 6
+zacatecas la energía 1 6
+cerveza y champions 1 6
+cher lloyd 1 6
+la mÚsica 1 6
+el canto del loco 1 6
+galerías zacatecas 1 6
+the star room 1 6
+la huelga 1 6
+camerata manuel m 1 6
+mi casa su casa 1 6
+el chavo 1 6
+ciudad administrativa 1 6
+fuente de los faroles 1 6
+ismael house 1 6
+minnie mouse 1 6
+gorditas san rafael 1 6
+por estas calles 1 6
+unid 1 6
+fraccionamiento las colinas 1 6
+tronos 1 6
+el joejoe 1 6
+pasatela 1 6
+edificio e4 enfermeria 1 6
+secretaría de la función pública 1 6
+mi villanueva zacatecas 1 6
+natalia lafourcade 1 6
+cd administrativa 1 6
+julion alvarez 1 6
+venezuela soberana 1 6
+tortas ahogadas 1 6
+joe saldívar 1 6
+
+=======================================GenerateGraph for Tamaulipas====================================
+tamaulipas 19 3573.58
+tamps 10 2655.75
+tampico 9 2390.18
+ciudad victoria 8 2374.43
+ciudad madero 3 1452.14
+instituto tecnológico 2 968.093
+reynosa 2 968.093
+venga arsenal 2 838.66
+cd 2 531.151
+victoria 6 515.7
+siempre 2 506.526
+mona 2 485.046
+matamoros 1 484.047
+pura 1 484.047
+une 1 484.047
+h-e-b 1 484.047
+penal 1 419.33
+jajajajajaja 1 419.33
+día 1 419.33
+el arsenal 2 385.886
+sunrise 1 375.166
+westminster 1 375.166
+rr 1 375.166
+mi 7 349.148
+don 3 347.773
+torres 1 342.566
+reyna 1 317.228
+examen 1 317.228
+nos 1 317.228
+garcia 1 317.228
+vamos arsenal 1 317.228
+manuel 1 296.804
+aqui 1 296.804
+buenos 1 279.887
+saludos 1 279.887
+si 2 266.575
+casino 1 253.263
+venus 1 242.523
+madrid 2 241.046
+vida 1 224.607
+centro 1 224.607
+munich 1 224.607
+dios 1 198.203
+bien 1 192.943
+angie 1 188.083
+hoy 1 183.574
+manchester 1 183.574
+las 1 179.377
+felix 1 179.377
+tu 1 159.114
+demi 1 151.269
+pero 1 148.902
+nada 1 142.421
+voy 1 131.664
+al 2 126.377
+burger king 1 120.523
+cuba 1 120.523
+subway 1 101.722
+android 1 99.6014
+louis 1 86.3913
+milan 1 85.95
+buffalo 1 85.95
+brit awards 1 84.6661
+monterrey 1 84.6661
+london 1 83.4386
+la 2 82.8831
+obama 1 72.7431
+mexico 1 59.152
+venezuela 1 49.7122
+twitter 3 49.0644
+google 1 48.5192
+miami 1 45.8497
+amp 2 37.9542
+tx 1 26.1124
+tacos ana 2 12
+vikingo 2 12
+guenos 2 12
+madero 2 12
+sport club 2 12
+nuevo laredo 2 12
+the alternate studio 1 6
+la uat 1 6
+neveria la minerva 1 6
+fians 1 6
+plaza zona centro 1 6
+mar-la 1 6
+despacho 1 6
+atlético 1 6
+jenner 1 6
+mesil plaza verde limón 1 6
+club herbalife claudia &amp jorge 1 6
+presidencia municipal 1 6
+mariscos lauro villar 1 6
+imt victoria 1 6
+la calle 1 6
+la chelera cantina &amp 1 6
+las mujeres 1 6
+rotisisima 1 6
+palacio de gobierno 1 6
+planta mexichem altamira 1 6
+
+=======================================GenerateGraph for DE====================================
+de 20 2699.46
+rehoboth beach 6 2055.39
+delaware 8 1796.86
+newark 11 1431.1
+wilmington 9 1300.38
+dover 5 1050.83
+evgeni malkin 2 968.093
+beiber 2 838.66
+shell 2 750.331
+wii 2 506.526
+bron 2 485.046
+townsend 1 484.047
+comics 1 484.047
+new castle 1 484.047
+sammy adams 1 484.047
+🌵 1 484.047
+jakes 1 484.047
+sandis ozolins 1 484.047
+dill 1 484.047
+diva 1 484.047
+glasgow 1 484.047
+kobe 5 450.942
+bob 4 443.436
+middletown 2 434.05
+kirkwood 1 419.33
+verizon wireless 1 419.33
+tatum 1 419.33
+kid ink 1 419.33
+gs 1 419.33
+amp r block 1 419.33
+the champions 1 419.33
+accenture 1 419.33
+jeff carter 1 419.33
+ramen noodles 1 419.33
+dollartree 1 419.33
+athena 1 419.33
+h 1 375.166
+canada-usa 1 375.166
+czech rep 1 375.166
+teen mom 1 375.166
+jimmy walker 1 375.166
+poulter 1 375.166
+gotti 1 375.166
+canadian bacon 1 375.166
+jeff green 2 367.149
+rolloff driver 1 342.566
+lima 1 342.566
+ti 1 342.566
+the starbucks 1 342.566
+tío simón 1 342.566
+alex ovechkin 1 317.228
+farmington 1 317.228
+big bang 1 317.228
+karla 1 317.228
+toronto fc 1 317.228
+lhs 1 296.804
+ivy 1 296.804
+julio cesar 1 279.887
+mma 1 279.887
+isaiah 1 279.887
+fowler 1 279.887
+robinson 1 279.887
+clearwater 1 279.887
+pitt 1 279.887
+mary jane 2 269.946
+giroux 1 265.575
+rich homie quan 1 265.575
+nas 1 265.575
+the mountain 1 253.263
+cole 2 243.523
+pk subban 1 242.523
+chs 1 242.523
+libby 1 242.523
+o2 1 242.523
+ham 2 238.643
+rose 2 234.048
+kenley jansen 1 233.048
+kg 1 233.048
+pc 1 233.048
+chris brown 2 225.607
+munich 1 224.607
+madden 1 224.607
+vince 1 224.607
+bey 1 224.607
+canada 16 219.835
+waffle house 1 217.025
+puig 1 210.165
+president 1 210.165
+patty kane 1 210.165
+polina edmunds 1 210.165
+waste management 1 203.92
+jane 1 203.92
+topanga 1 203.92
+carmen 1 203.92
+center 1 203.92
+hooters 1 198.203
+suter 1 198.203
+minnesota 2 197.847
+wana 1 192.943
+roy 1 192.943
+
+=======================================GenerateGraph for WY====================================
+wy 19 3333.66
+jackson hole mountain resort 4 1677.32
+jackson hole 4 1500.66
+eastridge 3 1452.14
+cheyenne 5 1165.24
+casper 2 968.093
+wyoming 3 699.144
+medicaid 2 634.456
+medicaid expansion 1 484.047
+black hills 1 484.047
+pita pit 1 484.047
+john deere 1 419.33
+spice girls 1 419.33
+evansville 1 375.166
+tim horton 1 375.166
+beauty advisor 1 375.166
+rockies 1 375.166
+brewery 1 375.166
+gnc 1 317.228
+hilton garden inn 1 317.228
+rick pitino 1 296.804
+pbs 1 265.575
+senate 1 242.523
+bubba 1 233.048
+uncle 1 233.048
+jackson 2 231.849
+jr 1 224.607
+tupac 1 224.607
+train crew 1 217.025
+retail cosmetics sales 3 215.894
+dylan 2 212.818
+erik 1 210.165
+utah 2 204.92
+macy 4 195.315
+anderson 1 183.574
+kylie 1 179.377
+idaho 1 175.456
+baker hughes 1 175.456
+ted nugent 1 175.456
+united rentals 1 171.783
+sandy 1 171.783
+j 1 168.332
+bob marley 1 168.332
+sf 2 165.299
+hershey 1 162.016
+hannah montana 1 159.114
+shakespeare 1 156.364
+bio 1 151.269
+hump day 1 144.486
+mike 2 140.013
+union pacific 1 103.214
+eric 1 100.293
+virginia 1 93.9623
+miley 1 86.8396
+obama 1 72.7431
+denver 1 66.3322
+ukraine 1 56.0483
+heart 1 54.3435
+california 1 52.8875
+youtube 1 52.0121
+la 1 41.4416
+canada 3 41.2191
+usa hockey 1 39.3483
+usa 2 33.2675
+america 1 33.0139
+twitter 2 32.7096
+amp 1 18.9771
+bbr 2 12
+it’s hump day 2 12
+laramie 2 12
+david young 1 6
+the bulldog 1 6
+downtown clinic 1 6
+eastridge : retail sales 1 6
+prairie rose 1 6
+ta travel plaza 1 6
+melodicfate queensland 1 6
+the tram 1 6
+ben poulter 1 6
+library sports grill 1 6
+mangy moose 1 6
+eggingtons 1 6
+tennessee river 1 6
+justin hall 1 6
+greiner ford 1 6
+mountain resort 1 6
+nance 1 6
+shakespeare 's work 1 6
+arches national park 1 6
+sales representative 1 6
+potsdam inst 1 6
+josh adeyeye 1 6
+mmc 1 6
+sochi olympic 1 6
+steve loftin 1 6
+upper mountain 1 6
+anthony bouchard 1 6
+jackson hole wyoming 1 6
+stacie 1 6
+griz 1 6
+
+=======================================GenerateGraph for UT====================================
+ut 47 4681.27
+salt lake city 27 4151.32
+utah 31 3176.26
+slc 16 3087.09
+salt lake city international airport 11 2785.89
+st george 6 2055.39
+provo 5 1875.83
+salt lake 5 1712.83
+byu 4 1677.32
+west valley city 4 1677.32
+city creek center 3 1452.14
+youth day 3 1452.14
+lake city 3 1257.99
+layton 3 1125.5
+red robin 4 1013.05
+park city 4 970.092
+c.r. england 2 968.093
+butcher 2 968.093
+ogden 3 951.683
+cottonwood 2 838.66
+google fiber 8 717.487
+rhs 2 685.131
+the capitol 3 611.76
+dina 2 593.608
+alex pettyfer 2 593.608
+nikki 4 586.576
+macy 12 585.944
+google 10 485.192
+mahatma gandhi 1 484.047
+hca #practicewithus 1 484.047
+on wednesdays 1 484.047
+hhs 1 484.047
+feliz cumpleaños 1 484.047
+pretty little liars 1 484.047
+simón díaz 1 484.047
+st . jude 1 484.047
+ron burgundy 1 484.047
+red robin gourmet burgers 1 484.047
+kaskade 1 484.047
+teddy bridgewater 1 484.047
+olson 1 484.047
+gretchen 1 484.047
+the villa 1 484.047
+johan 1 484.047
+yesss 1 484.047
+zimbabwe 1 484.047
+jane jacobs 1 484.047
+kd'". stephen 1 484.047
+muere génesis carmona 1 484.047
+genesis carmona 1 484.047
+tatiana 1 484.047
+la valley 1 484.047
+samsung galaxy s5 1 484.047
+arianna 1 484.047
+seoul 1 484.047
+igor 1 484.047
+gotze 1 484.047
+millennium 1 484.047
+archer 1 484.047
+chelsey 1 484.047
+valley 2 449.214
+llc 2 449.214
+kay 2 434.05
+sochi 2014 1 419.33
+johns hopkins 1 419.33
+marci 1 419.33
+abc news 1 419.33
+calvin klein 1 419.33
+rachel ray 1 419.33
+jellyfish 1 419.33
+the kid 1 419.33
+edwards 1 419.33
+v 1 419.33
+bkn 1 419.33
+navy seals 1 419.33
+jim rohn 1 419.33
+weston 1 419.33
+el capitan 1 419.33
+george clooney 1 419.33
+joanne 1 419.33
+white gold 1 419.33
+nanaimo 1 419.33
+cadbury 1 419.33
+titan 2 407.84
+asu 2 396.405
+roy 2 385.886
+og bobby johnson 2 385.886
+insight 1 375.166
+morrissey 1 375.166
+vp 1 375.166
+american hustle 1 375.166
+lord of the rings 1 375.166
+dark souls 1 375.166
+jamba 1 375.166
+galaxy 1 375.166
+alana 1 375.166
+miss turismo 2013 1 375.166
+dvr 1 375.166
+flex team 1 375.166
+kai 1 375.166
+
+=======================================GenerateGraph for NE====================================
+omaha 34 4589.07
+ne 43 4040.38
+union pacific 22 2270.72
+ne assistant store manager 4 1677.32
+nebraska 8 1504.67
+ne customer service representative 3 1452.14
+unl 3 1452.14
+salvation army north corp 3 1452.14
+entertainment omaha 3 1452.14
+creighton 3 1125.5
+hy-vee 2 968.093
+lincoln 5 781.82
+genuine parts company napa 4 771.773
+patterson 2 750.331
+diesel engines 2 593.608
+service representative 2 531.151
+beatrice 1 484.047
+nique 1 484.047
+snape 1 484.047
+nu 1 484.047
+mile high 1 484.047
+vic mensa 1 484.047
+hoodie allen 1 484.047
+nettie 1 484.047
+larry david 1 484.047
+olaf 1 484.047
+beach house 1 484.047
+south hall 1 484.047
+unk 1 484.047
+wayne state 1 484.047
+papa roach 1 484.047
+american politics 1 484.047
+sammy adams 1 484.047
+oman 1 484.047
+systems engineer 1 484.047
+the league 1 484.047
+tamera 1 484.047
+pda 2 466.096
+iowa 4 447.273
+toni 2 420.33
+valentina 1 419.33
+gregory 1 419.33
+lj 1 419.33
+frisbee 1 419.33
+kearney 1 419.33
+playa 1 419.33
+district sales manager 1 419.33
+phoebe 1 419.33
+dougie 1 419.33
+usa olympic hockey 1 419.33
+carrie underwood 1 419.33
+fidel castro 1 419.33
+oss 1 419.33
+busch 1 419.33
+nikolas 1 419.33
+rucker 1 419.33
+usa 25 415.844
+justin timberlake 2 385.886
+jeremiah 2 376.166
+olympus 1 375.166
+joyce 1 375.166
+ffa 1 375.166
+clowney 1 375.166
+bellevue 1 375.166
+charley 1 375.166
+jason kidd 1 375.166
+empire state 1 375.166
+darth vader 1 375.166
+d1 1 375.166
+fb page 1 375.166
+cj 2 358.753
+alice 2 350.911
+bmw m3 1 342.566
+jason mraz 1 342.566
+jimmy kimmel 1 342.566
+yankee stadium 1 342.566
+blackhawks 1 342.566
+wonderland 1 342.566
+shaun 1 342.566
+channing tatum 1 342.566
+christ jesus 1 342.566
+chaz 1 342.566
+flappy birds 1 342.566
+hollister 1 342.566
+grape 1 342.566
+rs 1 342.566
+dat 1 342.566
+dee 1 342.566
+mills 1 342.566
+barnes 2 330.165
+ava 2 324.031
+nathan 2 318.228
+bmw 2 318.228
+kaleb 1 317.228
+bri 1 317.228
+adhd 1 317.228
+simone 1 317.228
+el mundo 1 317.228
+nat 1 317.228
+subway 3 305.166
+
+=======================================GenerateGraph for Québec====================================
+qc 37 5058.8
+montreal 30 3192.28
+quebec 15 2690.65
+northamerican youth 10 2655.75
+canada 137 1882.34
+walkers of the omushkegowuk 4 1677.32
+cabane 4 1677.32
+babcock 11 1589.35
+carey 7 1572.25
+pk 9 1485.74
+mont sutton 3 1452.14
+yul 3 1452.14
+concordia 3 1125.5
+subban 8 1053.32
+ville 3 1027.7
+service representative trainee 2 968.093
+toews 5 940.416
+kaillie humphries 4 840.661
+marleau 3 839.661
+mcgill 2 838.66
+latvia 45 796.044
+carey price 5 795.569
+duncan keith 2 750.331
+heather moyse 4 717.506
+patrick brazeau 3 699.144
+rbc dominion securities 2 685.131
+bergeron 2 685.131
+old spice 2 685.131
+pauline 2 685.131
+patrick sharp 4 636.456
+bon 2 634.456
+tcc 2 634.456
+ghana 2 634.456
+keith 4 595.608
+crosby 9 593.437
+doughty 3 578.83
+rbc 2 531.151
+mis 2 506.526
+jules 2 506.526
+rick nash 2 485.046
+amiga 1 484.047
+mighty ducks 2 1 484.047
+norris trophy 1 484.047
+eh 1 484.047
+crawford 1 484.047
+brazilian 1 484.047
+dupont 1 484.047
+ravenswood 1 484.047
+une 1 484.047
+lois 1 484.047
+calderon 1 484.047
+ai weiwei 1 484.047
+nuance 1 484.047
+j'ai 1 484.047
+g jason terry 1 484.047
+centre 1 484.047
+nimble 1 484.047
+ml 2.4 1 484.047
+team canada 7 468.567
+tavares 5 461.436
+weber 6 449.706
+carter 3 446.706
+andy 4 443.436
+finland 9 433.939
+playstation 1 419.33
+p.k. subban 1 419.33
+les mis 1 419.33
+marseille 1 419.33
+nacho libre 1 419.33
+adelina 1 419.33
+kyiv 1 419.33
+shea fucking weber 1 419.33
+blazer 1 419.33
+tonya 1 419.33
+cody simpson 1 419.33
+michaels 1 419.33
+nicolás maduro 1 419.33
+paulo coelho 1 419.33
+belle 1 419.33
+yr 1 419.33
+oxford 2 385.886
+bien 2 385.886
+dans 2 376.166
+bill murray 1 375.166
+gsp 1 375.166
+lb 1 375.166
+tamara 1 375.166
+village 1 375.166
+mclean 1 375.166
+graves 1 375.166
+chrome 1 375.166
+webber 1 375.166
+demo 1 375.166
+les 1 375.166
+vale 1 375.166
+shea weber 5 374.755
+russia 12 364.332
+ted nolan 4 360.753
+france 3 357.965
+don cherry 2 343.565
+
+=======================================GenerateGraph for MD====================================
+md 162 8456.86
+maryland 107 7898.95
+baltimore 43 4374.04
+towson 20 3587.53
+miller senate building 9 2518.98
+oxygen 18 8 2374.43
+parkville 7 2220.59
+glen burnie 7 2220.59
+annapolis 7 2077.63
+st baltimore 6 2055.39
+hht fitness 3681 offutt rd randallstown md 5 1875.83
+bethesda 4 1677.32
+ray rice 26 1651.91
+wheaton 5 1586.14
+frederick 6 1519.58
+dirty alley 3 1452.14
+baltimore city 3 1452.14
+prince georges 3 1452.14
+owings mills mall 3 1452.14
+ellicott city 3 1452.14
+deandre 3 1452.14
+greenbelt 3 1452.14
+white marsh 3 1452.14
+denise 6 1347.64
+rockville 4 1268.91
+graffiti 3 1257.99
+waldorf 3 1257.99
+dominion 3 1125.5
+iphone 27 1074.58
+ridley 3 1027.7
+oc 5 1019.6
+columbia 9 1006.36
+gordy 2 968.093
+nottingham 2 968.093
+new day 2 968.093
+la plata 2 968.093
+baden 2 968.093
+silver spring 2 968.093
+mary kay 2 968.093
+brooklyn park 2 968.093
+dragging unconscious 2 968.093
+von 2 968.093
+sinai 2 968.093
+bombay 2 968.093
+alvin 3 951.683
+darius 4 932.191
+lloyd 3 890.412
+essex 3 890.412
+bethenny 2 838.66
+gaithersburg 2 838.66
+johns hopkins 2 838.66
+julia roberts 2 838.66
+paul walker 2 838.66
+rey 2 838.66
+ovechkin 6 809.837
+android 8 796.811
+laguna beach 3 796.726
+bayer 2 750.331
+abingdon 2 750.331
+jai courtney 2 750.331
+ashleigh 2 750.331
+saudi arabia 2 750.331
+macy 15 732.43
+arthur 3 727.569
+twitter 44 719.611
+raven 4 717.506
+germantown 3 699.144
+teamusa hockey 2 685.131
+ellen 5 666.438
+podolski 2 634.456
+naomi 2 634.456
+berlin 2 634.456
+ej 2 634.456
+hilton garden inn 2 634.456
+dc 11 628.683
+russia 20 607.221
+rice 3 594.608
+salisbury 2 593.608
+steve wilkos 2 593.608
+wizards 2 593.608
+carroll 2 593.608
+holly 3 578.83
+latvia 32 566.076
+jones 4 561.774
+ahs 3 550.723
+usa usa usa 5 540.616
+ireland 3 538.13
+sami 2 531.151
+hall 2 531.151
+lolo jones 2 531.151
+tmz 2 531.151
+ups 2 531.151
+ben 6 526.546
+canada 38 522.109
+arsenal 13 517.39
+usa 31 515.646
+yu 3 515.348
+peter 4 514.358
+obama 7 509.202
+herpes 2 506.526
+
+=======================================GenerateGraph for IL====================================
+il 422 17065.9
+chicago 297 11845.2
+chicago o'hare international airport 38 5195.53
+ord 38 5128.96
+illinois 23 3186.56
+cooley foolie music 10 2655.75
+us 36 2599.97
+rockford 11 2470.68
+uic 8 2239.1
+biden 7 2220.59
+don 18 2086.64
+skokie 6 2055.39
+closeup2 chicago 6 2055.39
+highland park 7 1959.21
+usa 117 1946.15
+starbucks 64 1938.49
+metra 6 1903.37
+oak brook 5 1875.83
+cottage rose 5 1875.83
+niu 5 1875.83
+play-offs quarterfinals 5 1875.83
+angela corey 5 1875.83
+willis tower 4 1677.32
+evanston 4 1677.32
+epic burger 4 1677.32
+schaumburg 4 1677.32
+showings on sale properties 4 1677.32
+cooleyfooliemusic 4 1677.32
+mckendree 4 1677.32
+cta 4 1677.32
+granite city 4 1677.32
+twitter 101 1651.84
+peoria 6 1593.45
+sophie 7 1519.17
+carbondale 4 1500.66
+syg 4 1500.66
+loyola 4 1500.66
+fort sheridan 3 1452.14
+jim mclaughlin 3 1452.14
+ray lahood 3 1452.14
+ogden ave 3 1452.14
+bert green 3 1452.14
+river north 3 1452.14
+daley center 3 1452.14
+russy 3 1452.14
+rand rd 3 1452.14
+piazza dimaggio 3 1452.14
+chicago cultural center 3 1452.14
+northside college prep 3 1452.14
+wood dale 3 1452.14
+biathlon 3 1452.14
+portillo 3 1452.14
+roscoe village 3 1452.14
+leyden 3 1452.14
+east moline 3 1452.14
+boston marathon 5 1399.43
+canada 101 1387.71
+u.s. cellular 7 1387.42
+university park 4 1370.26
+house of blues 5 1266.31
+willowbrook 3 1257.99
+recruiters 3 1257.99
+sisi 3 1257.99
+wrigley field 3 1257.99
+mel reynolds 3 1257.99
+hash house 3 1257.99
+chi 7 1134.11
+peru 6 1128.5
+unity 3 1125.5
+cubs 3 1125.5
+village 3 1125.5
+larkin 3 1125.5
+pacu 3 1125.5
+northfield 3 1125.5
+decatur 5 1123.04
+america 34 1122.47
+springfield 9 1107.35
+bulls 6 1101.45
+keaton 12 1064.47
+jerry 10 1032.14
+aldi 3 1027.7
+sandy hook 3 1027.7
+kraft foods 3 1027.7
+dekalb 3 1027.7
+northside 3 1027.7
+windy city 3 1027.7
+god 37 1024.86
+russia 33 1001.91
+latvia 56 990.633
+retail wireless consultant 4 970.092
+hunters 2 968.093
+mcdicks 2 968.093
+delirium 2 968.093
+jefferson st 2 968.093
+forest park 2 968.093
+fatherland terror 2 968.093
+bette midler 2 968.093
+mariano 2 968.093
+tyler oakley 2 968.093
+eisenhower 2 968.093
+
+=======================================GenerateGraph for SC====================================
+sc 137 8084.64
+charleston 32 3517.56
+south carolina 16 1968.63
+folly beach 5 1875.83
+agora 5 1712.83
+columbia 14 1565.46
+martha lou 3 1452.14
+jeter #farewellcaptain 3 1452.14
+myrtle beach 8 1374.26
+benedict 3 1125.5
+clemson 6 1101.45
+yankee 10 1064.09
+usc 5 991.013
+cola 2 968.093
+jill scott 2 968.093
+wet willie 2 968.093
+college of charleston 2 968.093
+laird 3 839.661
+dudley 2 838.66
+fresh prince 2 838.66
+greenville 5 756.344
+greene st 2 750.331
+coastal 2 750.331
+charley 2 750.331
+manchester united 2 750.331
+citi 8 742.684
+anderson 4 734.297
+chick-fil-a 5 733.22
+emma watson 2 685.131
+myrtle 2 685.131
+greene 2 685.131
+jimmer 2 634.456
+the south 2 593.608
+irene 2 593.608
+hardee 2 593.608
+the beach 2 593.608
+jordan hill 4 586.576
+james beard 4 586.576
+tom petty 2 559.774
+ciaa 2 559.774
+biology 2 559.774
+carolina 5 540.616
+chapel 3 538.13
+craig 3 526.367
+florence 3 515.348
+starbucks 17 514.913
+the kings 2 485.046
+bridget 2 485.046
+jeremy roenick 1 484.047
+mighty ducks 2 1 484.047
+mem 1 484.047
+kori 1 484.047
+andrew wiggins 1 484.047
+al bayern 1 484.047
+david letterman 1 484.047
+jakes 1 484.047
+dan bylsma 1 484.047
+zoe barnes 1 484.047
+hilton head island 1 484.047
+fabolous 1 484.047
+popsicle 1 484.047
+wea 1 484.047
+king st 1 484.047
+gary neal 1 484.047
+peas 1 484.047
+marriott 1 484.047
+sigma chi 1 484.047
+stuart 1 484.047
+rock hill 1 484.047
+orange leaf 1 484.047
+beaufort 1 484.047
+peele 1 484.047
+breaking benjamin 1 484.047
+king street 1 484.047
+gold rush 1 484.047
+brazilian 1 484.047
+bilo 1 484.047
+jut 1 484.047
+calvin 2 466.096
+sun 4 422.33
+ole miss 2 420.33
+aiden 2 420.33
+eddie murphy 1 419.33
+lake city 1 419.33
+segway 1 419.33
+upstate 1 419.33
+sandy springs 1 419.33
+cameron diaz 1 419.33
+rhcp 1 419.33
+fedexoffice 1 419.33
+lemon 1 419.33
+american red cross 1 419.33
+mary poppins 1 419.33
+shs 1 419.33
+ahmad 1 419.33
+phoebe 1 419.33
+dropbox 1 419.33
+olympics hockey 1 419.33
+covington 1 419.33
+castillo 1 419.33
+
+=======================================GenerateGraph for VA====================================
+va 182 10542.8
+amber alert 60 5743.99
+valley health nurses 30 4467.06
+virginia 44 4134.34
+norfolk 26 4065.47
+amber 40 3956.95
+richmond 34 3458.54
+virginia beach 17 3049.4
+ronald reagan washington national airport 13 3029.62
+dca 13 3029.62
+charlottesville 10 2655.75
+arlington 18 2493.83
+blacksburg 8 2374.43
+newport news 8 2239.1
+alexandria 10 2101.65
+amber alerts 7 1959.21
+registered nurse job 7 1959.21
+odu 6 1903.37
+valley health 6 1903.37
+jmu 6 1780.82
+uva 6 1780.82
+lynchburg 5 1712.83
+roanoke 5 1712.83
+radford 5 1712.83
+burgundy mercedes 5 1712.83
+walker mountain 4 1677.32
+mercedes c240 4 1677.32
+rh 4 1677.32
+nutrition service aide job 4 1677.32
+monet dallas 4 1500.66
+fredericksburg 4 1500.66
+fairfax 4 1500.66
+hampton 5 1484.02
+george mason university 3 1452.14
+iad 3 1452.14
+amp wine 3 1452.14
+glen allen 3 1452.14
+keaton stromberg 3 1452.14
+courtland high school 3 1452.14
+washington dulles international airport 3 1452.14
+vsu 3 1452.14
+norfolk international airport 3 1452.14
+va beach 4 1370.26
+rosslyn 4 1370.26
+annandale 3 1257.99
+cooley 3 1257.99
+dulles 3 1257.99
+human resources internship 3 1257.99
+tropical smoothie cafe 3 1257.99
+hourly associate 9 1230.52
+vienna 5 1212.62
+orange 9 1144.18
+mclean 3 1125.5
+abingdon 3 1125.5
+twitter 68 1112.13
+orange county 5 1050.83
+samoas 3 1027.7
+sterling 3 1027.7
+golden state 2 968.093
+temple hills 2 968.093
+brook road 2 968.093
+portsmouth 2 968.093
+martínez 2 968.093
+svc rep rtl 2 968.093
+dodger 2 968.093
+the village 2 968.093
+al arsenal 3 951.683
+jordan 17 946.802
+starbucks 31 938.958
+mercedes 6 922.516
+usa 51 848.321
+kira 3 839.661
+cazorla 3 839.661
+lily allen 2 838.66
+virginia tech 2 838.66
+psa 2 838.66
+canon 2 838.66
+tre 2 838.66
+buckeye 2 838.66
+john carlson 2 838.66
+vt 5 825.413
+vicky 3 796.726
+st . vincent 2 750.331
+god 27 747.871
+dc 13 742.989
+mason 4 734.297
+norman 4 717.506
+canada 51 700.725
+ashland 2 685.131
+denmark 2 685.131
+tim mcgraw 2 685.131
+port 2 685.131
+earl 3 673.821
+rita 3 673.821
+blake 5 666.438
+burke 2 634.456
+gold 's gym 2 634.456
+prod 2 634.456
+halle berry 2 634.456
+robin thicke 2 634.456
+
+=======================================GenerateGraph for IN====================================
+indianapolis 48 5564.37
+indiana 37 3763.71
+nba trade 17 2920.3
+fort wayne 8 2124.6
+indy 12 1876.37
+iu 8 1796.86
+south bend 6 1679.32
+southlake mall 4 1677.32
+kyra 7 1631.33
+muncie 4 1500.66
+jeffersonville 3 1452.14
+fishers 3 1452.14
+minnesota timberwolves 3 1452.14
+indianapolis international airport 3 1452.14
+ball state 3 1452.14
+teavana 3 1452.14
+la porte hospital 3 1452.14
+gary metro center 3 1452.14
+taggart riverside park 3 1452.14
+goshen 4 1370.26
+bloomington 7 1350.6
+orton 3 1257.99
+elkhart 3 1257.99
+shelbyville 3 1257.99
+kokomo 3 1257.99
+julio 6 1223.52
+ivy 4 1187.22
+new albany 3 1125.5
+greenwood 3 1125.5
+flanagan 3 1125.5
+lafayette 5 1123.04
+scotty 5 1123.04
+cena 3 1027.7
+mac 14 1014.73
+gary 7 996.949
+morocco 2 968.093
+john glenn 2 968.093
+la porte 2 968.093
+lennie 2 968.093
+happy founders day 2 968.093
+flossin 2 968.093
+philadelphia 76ers 2 968.093
+cj 5 896.883
+adidas originals 20 887.576
+el rodeo 2 838.66
+wright 2 838.66
+bmv 2 838.66
+charlotte bobcats 2 838.66
+courtney love 2 838.66
+kappa 2 838.66
+murda 2 838.66
+i'm finna 2 750.331
+ind 2 750.331
+abbey 2 750.331
+evansville 2 750.331
+butler 2 750.331
+mgk 4 734.297
+anderson 4 734.297
+blackhawks 2 685.131
+greenfield 2 685.131
+ashland 2 685.131
+jameer nelson 2 685.131
+taco bell 12 682.82
+andrews 3 673.821
+decker 3 673.821
+rajon rondo 4 648.062
+eva 4 636.456
+kurt cobain 2 634.456
+speedway 2 634.456
+sheldon 2 634.456
+carmel 3 630.496
+twitter 38 621.483
+sana 2 593.608
+southlake 2 593.608
+america 17 561.236
+clarksville 2 559.774
+amc 2 531.151
+aidan 2 531.151
+cody riggs 2 531.151
+canada 37 508.369
+penn 3 495.248
+meredith 2 485.046
+taylor lautner 1 484.047
+jimmy neutron 1 484.047
+redacted 1 484.047
+zeke 1 484.047
+granger 1 484.047
+gretchen 1 484.047
+tory burch 1 484.047
+hoodie allen 1 484.047
+miami university” 1 484.047
+sodexo 1 484.047
+yessss 1 484.047
+mott 1 484.047
+katie couric 1 484.047
+carmelo anthony 1 484.047
+the world 1 484.047
+eastman 1 484.047
+cinci 1 484.047
+peanut butter brownie pizza 1 484.047
+
+=======================================GenerateGraph for ME====================================
+bangor 22 3860.03
+maine 14 2152.54
+lake region 4 1677.32
+interstate 95 south 4 1500.66
+brewer 5 1484.02
+north haven 5 1327.88
+austin mahone 3 1027.7
+augusta 5 1019.6
+freeport 2 968.093
+hyde 2 968.093
+wells 2 968.093
+blue hill 2 968.093
+annabelle 2 968.093
+jokers 2 968.093
+portland 22 915.901
+waterville 2 838.66
+stetson 2 750.331
+newport 4 636.456
+fairfield 2 531.151
+wal-mart 2 531.151
+service representative 2 531.151
+yassss 1 484.047
+phineas and ferb 1 484.047
+clinton i'm 1 484.047
+api 1 484.047
+god i'm 1 484.047
+crockett 1 484.047
+brandon gormley 1 484.047
+richards 1 484.047
+territory service representative 1 484.047
+van buren 1 484.047
+rylee 1 484.047
+plymouth 2 434.05
+ep 1 419.33
+caribou 1 419.33
+keene 1 419.33
+women 's 1 419.33
+lr 1 419.33
+young money 1 419.33
+saints 1 419.33
+cheese 1 419.33
+rockland 1 419.33
+circle k 1 419.33
+fergie 1 419.33
+vera bradley 1 419.33
+hannaford 1 419.33
+shell_us 1 419.33
+holden 1 419.33
+shamrock shake 1 419.33
+bryce 2 376.166
+landry 1 375.166
+civic center 1 375.166
+clifford 1 375.166
+yg 1 375.166
+st . joseph 1 375.166
+kyla 1 375.166
+planetfitness 1 375.166
+boston 8 374.79
+shakira 2 358.753
+australia 3 357.965
+kellogg 2 343.565
+danny ainge 1 342.566
+rolloff driver 1 342.566
+kesha 1 342.566
+kaetlyn osmond 1 342.566
+darius rucker 1 342.566
+paul pierce 1 342.566
+unplugged 1 342.566
+riley 2 330.165
+jamal 1 317.228
+greg abbott 1 317.228
+i 1 317.228
+pj 1 317.228
+governor 1 317.228
+nialls 1 317.228
+rosemary 1 317.228
+lincoln 2 312.728
+erica 2 297.804
+gillette 1 296.804
+capitol 1 296.804
+ruth 1 296.804
+ipad air 1 296.804
+penguin island 1 296.804
+us 4 288.885
+amy 2 280.887
+colby 1 279.887
+mackenzie 1 279.887
+home depot 1 279.887
+constitution 1 279.887
+ithaca 1 265.575
+enterprise 1 265.575
+papi 1 265.575
+broccoli 1 265.575
+perth 1 265.575
+cod 1 253.263
+eric decker 1 253.263
+dining hall 1 253.263
+cody 2 243.523
+compton 1 242.523
+brock 1 242.523
+
+=======================================GenerateGraph for AK====================================
+ak 10 1880.83
+anchorage 5 1875.83
+alaska 6 789.987
+yearbook 1 484.047
+nadine 1 484.047
+vlad 1 484.047
+dominica 1 484.047
+cudi 2 466.096
+imma 1 419.33
+english bulldog 1 419.33
+refs 1 419.33
+aly 1 375.166
+dark souls 1 375.166
+originals peru 1 375.166
+kurt 1 375.166
+aeropostale 1 375.166
+miranda 2 358.753
+subaru 1 342.566
+sherman 1 342.566
+janelle 1 342.566
+douglas 1 342.566
+krista 1 317.228
+nordstrom 1 317.228
+adidas originals 7 310.652
+american idol 1 296.804
+sheila 1 296.804
+kirby 1 296.804
+hilton 1 296.804
+muhammad ali 1 296.804
+valerie 1 296.804
+florida georgia 1 279.887
+trinity 1 279.887
+bruce lee 1 279.887
+tmz 1 265.575
+graham 1 253.263
+kit kat 1 242.523
+lady 1 242.523
+cuba 2 241.046
+hawaii 3 234.063
+david 3 225.725
+cooper 1 224.607
+adidas 3 222.298
+johnny 2 218.025
+avery 1 217.025
+lynn 1 210.165
+jay-z 1 210.165
+val 1 210.165
+bonnie 1 198.203
+area 1 198.203
+nae nae 1 198.203
+britney spears 1 198.203
+levi 1 188.083
+kyle 2 177.412
+carly 1 175.456
+bob marley 1 168.332
+kim kardashian 1 165.083
+joel 1 165.083
+cnn 1 162.016
+kentucky 1 153.753
+hca 1 151.269
+valencia 1 151.269
+originals 1 151.269
+trey 1 148.902
+czech republic 3 147.433
+robert 1 144.486
+pennsylvania 1 144.486
+tiffany 1 138.546
+alyssa 1 138.546
+danielle 1 125.722
+france 1 119.322
+rollin 1 117.024
+zach 1 114.855
+amp 6 113.863
+iowa 1 111.818
+bob 1 110.859
+ipod 1 107.256
+mark 1 106.409
+luke 1 102.46
+winter olympics 1 93.3937
+tavares 1 92.2872
+adam 1 84.2508
+vancouver 1 83.4386
+usa 5 83.1687
+brown 1 83.0413
+twitter 5 81.774
+christmas 1 79.3604
+john 1 79.3604
+ipad 1 75.8332
+nhl 1 72.2213
+canada 5 68.6985
+kanye 1 68.64
+america 2 66.0278
+mr 1 65.3585
+ms 1 59.7221
+ukraine 1 56.0483
+drake 1 55.2326
+latvia 3 53.0696
+jesus 1 52.0121
+venezuela 1 49.7122
+finland 1 48.2155
+
+=======================================GenerateGraph for CO====================================
+denver 115 7628.21
+international towne 30 4612.58
+boulder 21 3684.57
+colorado 42 3591.65
+denver international airport 9 2518.98
+colorado springs 10 2246.07
+co 6 1903.37
+agent reboot denver 5 1875.83
+colo 4 1677.32
+andy weir 4 1677.32
+fort collins 4 1677.32
+black forest 4 1500.66
+greenwood village 3 1452.14
+broomfield 3 1452.14
+sonja 3 1452.14
+breckenridge 4 1370.26
+englewood 3 1257.99
+black forrest 3 1257.99
+vail 4 1187.22
+aurora 5 1165.24
+pueblo 3 1125.5
+cu 3 1027.7
+community service 2 968.093
+junior league 2 968.093
+varly 2 968.093
+estes 2 968.093
+mile high 2 968.093
+ale house 2 968.093
+craig morgan 2 968.093
+singapore 3 951.683
+keegan 3 839.661
+nugent 3 796.726
+town center 2 750.331
+powell 2 750.331
+rockies 2 750.331
+harvey 3 699.144
+canada 50 686.985
+maddi 2 685.131
+doubletree 2 685.131
+mines 2 685.131
+lakewood 2 685.131
+omar 3 673.821
+latvia 37 654.525
+ogden 2 634.456
+simone 2 634.456
+hca 4 605.075
+wanda 2 593.608
+alameda 2 593.608
+dillon 3 578.83
+toyota 2 559.774
+charles schwab 2 559.774
+aspen 3 550.723
+cossack 2 531.151
+wc 2 531.151
+yo 3 495.248
+pacific 1 484.047
+münchen 1 484.047
+kristina 1 484.047
+vintage 1 484.047
+hector 1 484.047
+breck 1 484.047
+russian team 1 484.047
+mary mary 1 484.047
+odb 1 484.047
+dutch bros 1 484.047
+kellogg : part time merchandiser 1 484.047
+lodge 1 484.047
+everytime 1 484.047
+scad 1 484.047
+julius 1 484.047
+hidden valley 1 484.047
+kellogg #transportation #job : part time merchandiser 1 484.047
+staples 1 484.047
+south hall 1 484.047
+racine 1 484.047
+zima 1 484.047
+david backus 1 484.047
+diet pepsi 1 484.047
+mother russia 1 484.047
+bowie 1 484.047
+rolex 1 484.047
+discount tire 1 484.047
+walter 1 484.047
+land rover 1 484.047
+phil fucking kessel 1 484.047
+united states marine 1 484.047
+nato 1 484.047
+forbes 1 484.047
+chris pratt 2 466.096
+usa 28 465.745
+russia 15 455.415
+mariah 3 453.806
+sandis ozolinsh 2 449.214
+devin 3 446.706
+victor 3 433.459
+japan 4 422.33
+dom kennedy 2 420.33
+ted ligety 2 420.33
+sprint 2 420.33
+mcd 1 419.33
+
+=======================================GenerateGraph for Nova Scotia====================================
+halifax 7 1772.84
+deborah marshall 3 1452.14
+nova scotia 4 1370.26
+ns 6 1347.64
+sid crosby 2 838.66
+canada 51 700.725
+smu 2 685.131
+latvia 37 654.525
+joan 2 559.774
+bridgewater 2 531.151
+i’ve 2 485.046
+timhortons 1 484.047
+monte 1 484.047
+petro canada 1 484.047
+annnnd 1 484.047
+goodfellas 1 484.047
+louis v 1 484.047
+vic wild 1 484.047
+sunnyside 1 484.047
+johanna 1 419.33
+lee brice 1 419.33
+atlantic 1 419.33
+natalia 1 419.33
+jett 1 419.33
+teddy 1 375.166
+duncan keith 1 375.166
+webber 1 375.166
+investment advisor 1 375.166
+thank jesus 1 375.166
+matt duchene 1 375.166
+teddy nolan 1 375.166
+tim horton 1 375.166
+ted nolan 4 360.753
+don cherry 2 343.565
+mens hockey 1 342.566
+islanders 1 342.566
+nicaragua 1 342.566
+capri 1 342.566
+salem 2 336.664
+team canada 5 334.69
+bruce 2 330.165
+rockets 2 318.228
+nanny 1 317.228
+cup 1 317.228
+rim 1 317.228
+humphries 1 317.228
+jim hughson 1 317.228
+mercedes benz 1 317.228
+chai 1 317.228
+ej 1 317.228
+stanley 1 317.228
+weber 4 299.804
+oh canada 1 296.804
+arturs irbe 1 296.804
+pei 1 296.804
+records 1 296.804
+sydney 2 284.843
+turner 1 279.887
+swe 1 279.887
+sami 1 265.575
+windsor 1 265.575
+budweiser 1 265.575
+nicole 3 264.684
+bridget 1 242.523
+blues 1 233.048
+patrick brazeau 1 233.048
+jacobs 1 233.048
+michaela 1 224.607
+valley 1 224.607
+ikea 1 217.025
+iceland 1 203.92
+ahl 1 203.92
+olympic 3 202.054
+rob 2 199.203
+walker 1 198.203
+google 4 194.077
+doughty 1 192.943
+eric church 1 188.083
+giroud 1 188.083
+angie 1 188.083
+tim hortons 1 188.083
+tavares 2 184.574
+cass 1 179.377
+craig 1 175.456
+og 1 171.783
+huntsville 1 171.783
+bob marley 1 168.332
+nicki 1 165.083
+marissa 1 165.083
+pete 1 165.083
+endless love 1 165.083
+the olympics 3 165.019
+carey price 1 159.114
+cyrus 1 159.114
+selena 1 156.364
+matthew 1 156.364
+beyoncé 1 156.364
+kristen 1 151.269
+fa 1 148.902
+chuck 1 146.644
+
+=======================================GenerateGraph for RI====================================
+ri 38 4943.78
+providence 15 2690.65
+rhode island 8 2124.6
+warwick 6 1903.37
+sears ave 3 1452.14
+citizens financial group 6 1347.64
+braden 3 1125.5
+eg 2 968.093
+angela 19 758.574
+uri 2 750.331
+josh smith 2 634.456
+hobby lobby 2 593.608
+emergency service 2 559.774
+fm 2 506.526
+spongebob 2 506.526
+gavin 2 485.046
+johnston 1 484.047
+napoleon 1 484.047
+megan good 1 484.047
+hardaway 1 484.047
+vortex 1 484.047
+wales 1 484.047
+paul mitchell 1 484.047
+delts 1 484.047
+newport 3 477.342
+dave 4 436.05
+ace 2 420.33
+thea 1 419.33
+texas state university” 1 419.33
+black ops 1 419.33
+mari 1 419.33
+belize 1 419.33
+canada” 1 419.33
+keene 1 419.33
+era 1 419.33
+dempsey 1 419.33
+elf 1 419.33
+canon 1 419.33
+friday night lights 1 419.33
+bluff 1 419.33
+uggs 1 419.33
+boston sports club 1 419.33
+usa 24 399.21
+wood 1 375.166
+jags 1 375.166
+aly 1 375.166
+fleetwood mac 1 375.166
+cumberland 1 375.166
+shanghai 1 375.166
+elvis presley 1 375.166
+corny 1 375.166
+keenan 1 375.166
+vape 1 375.166
+mat 1 375.166
+springsteen 1 375.166
+bd 1 375.166
+neal 1 375.166
+audi 2 358.753
+kyrie 2 350.911
+new england 3 344.566
+iphones 2 343.565
+glo 1 342.566
+flappy birds 1 342.566
+mariana 1 342.566
+imperfection 1 342.566
+vikings 1 342.566
+champagne 1 342.566
+sorry canada 1 342.566
+yankee stadium 1 342.566
+urban outfitters 1 342.566
+abraham 1 342.566
+dos 1 342.566
+johnson 2 336.664
+pete 2 330.165
+papa 2 324.031
+allyson 1 317.228
+patty 1 317.228
+north korea 1 317.228
+pearl 1 317.228
+jonny 1 317.228
+falleció génesis carmona 1 317.228
+beta 1 296.804
+irene 1 296.804
+seth cohen 1 296.804
+chamberlain 1 296.804
+amelia 1 296.804
+avon 1 296.804
+cosmo 1 296.804
+bob costas 1 296.804
+brewed 1 296.804
+eve 1 296.804
+gudlevskis 2 293.288
+lana del rey 2 293.288
+ted 2 288.972
+kelsey 2 284.843
+derek jeter 6 281.922
+the netherlands 1 279.887
+nova 1 279.887
+central 1 279.887
+usa olympic 1 279.887
+
+=======================================GenerateGraph for LA====================================
+new orleans 74 5749.54
+la 132 5470.29
+laura plantation 14 3144.5
+mardi gras 31 2912.83
+baton rouge 15 2576.74
+tulane university 8 2374.43
+louisiana 15 2345.46
+nola 13 2146.07
+shreveport 7 2077.63
+ruston 6 2055.39
+audubon zoo 6 2055.39
+lsu 9 1835.28
+eunice 5 1712.83
+family gras 3 1452.14
+louis armstrong new orleans international airport 3 1452.14
+gonzales 3 1452.14
+bossier 3 1257.99
+rayne 3 1257.99
+middleton 3 1257.99
+tony stark 2 968.093
+tulane 2 968.093
+diesel 2 968.093
+nissan 2 968.093
+msy 2 968.093
+wade bosh 2 968.093
+king cake 3 951.683
+lake charles 3 951.683
+mardi 3 890.412
+mcalister 3 839.661
+kate sanders 2 838.66
+kali 2 838.66
+god 29 803.269
+twitter 49 801.385
+lakeside 3 796.726
+blake shelton 2 750.331
+bw 2 750.331
+pau 4 734.297
+domino 2 685.131
+ayden 2 685.131
+ray allen 2 634.456
+monique 2 634.456
+alexandria 3 630.496
+devin 4 595.608
+moms 2 593.608
+jeezy 2 559.774
+su 2 559.774
+cody 4 487.047
+gasol 2 485.046
+ii 2 485.046
+lbj 2 485.046
+bret 1 484.047
+buffy 1 484.047
+kam 1 484.047
+chelsey 1 484.047
+gordo 1 484.047
+lauren london 1 484.047
+wade bowen 1 484.047
+lucky day 1 484.047
+hammond 1 484.047
+get high 1 484.047
+colt ford 1 484.047
+vicki 1 484.047
+gaia 1 484.047
+wrk 1 484.047
+exum 1 484.047
+ramsey 1 484.047
+the feds 1 484.047
+ipads 1 484.047
+seafood service team member 1 484.047
+lg 1 484.047
+trade deadline mania 1 484.047
+capital city 1 484.047
+zimbabwe 1 484.047
+mca 1 484.047
+gerry 1 484.047
+southeastern 1 484.047
+truckin 1 484.047
+dvds 1 484.047
+arizona state 1 484.047
+magic johnson 1 484.047
+northwestern mutual 1 484.047
+the suns 1 484.047
+california pizza kitchen 1 484.047
+crackerbarrel old country store 1 484.047
+romney 1 484.047
+bebo 1 484.047
+slu 1 484.047
+dr pepper 1 484.047
+barbados 1 484.047
+amp white 1 484.047
+noooope 1 484.047
+southern 1 484.047
+fuck bitches 1 484.047
+gregg 1 484.047
+mazda 1 484.047
+english language 1 484.047
+the bridge 1 484.047
+king center 1 484.047
+shepherd 1 484.047
+waller 1 484.047
+
+=======================================GenerateGraph for US====================================
+crab orchard 39 5263.94
+usa 284 4723.98
+twitter 280 4579.35
+ky 66 4473.01
+canada 316 4341.75
+san francisco international airport 21 3855.06
+florida 104 3729.53
+sfo 21 3684.57
+latvia 182 3219.56
+ga 70 3139.71
+bo 22 3089.76
+miami international airport 13 3029.62
+fl 94 3024.97
+god 103 2852.99
+oklahoma 25 2845.38
+oak alley plantation 11 2785.89
+kennesaw 10 2655.75
+sc 42 2478.5
+pa 58 2406.36
+fll 8 2374.43
+champaign 10 2330.48
+edmond 10 2330.48
+nws desmoines 11 2243.12
+fort lauderdale-hollywood international airport 7 2220.59
+clemson 12 2202.89
+hum 9 2182.71
+georgia 30 2182.29
+america 66 2178.92
+russia 70 2125.27
+rankin 7 2077.63
+crandon park gardens 6 2055.39
+nws greatfalls 6 2055.39
+mia 17 2028.47
+md 38 1983.71
+orlando 31 1980.51
+atlanta 36 1956.37
+miami 41 1879.84
+john wayne airport 5 1875.83
+potatoe patch 5 1875.83
+ripley sw limestone co 5 1875.83
+huntington beach pier 5 1875.83
+norcross 5 1875.83
+doug hutchcraft” 5 1875.83
+keaton 21 1862.82
+colonie center 7 1859.03
+texas 39 1857.39
+ucf 10 1793.77
+justin bieber 22 1745.93
+sna 5 1712.83
+dgd 5 1712.83
+iphone 43 1711.37
+gms world user 7 1697.66
+lake mary 6 1679.32
+tellico plains 4 1677.32
+the american poet 4 1677.32
+rsw 4 1677.32
+southwest plaza 4 1677.32
+atalaya mountain 4 1677.32
+roasthouse pub 4 1677.32
+houston echelon 4 1677.32
+houston 37 1673.1
+ms 28 1672.22
+jesus 32 1664.39
+facebook 47 1656.38
+starbucks 53 1605.32
+venezuela 32 1590.79
+jolie 5 1586.14
+kanye 23 1578.72
+ohio 23 1568.65
+youtube 30 1560.36
+katie 17 1550.73
+mississippi 8 1543.55
+megan 15 1525.83
+czech republic 31 1523.48
+marietta 7 1519.17
+pittsburgh 20 1510.71
+larry katz 4 1500.66
+walmart supercenter 13 1493.12
+drake 27 1491.28
+tyler 22 1486.35
+stony brook 5 1484.02
+south carolina 12 1476.47
+naples 6 1455.14
+nicolas 6 1455.14
+academy sports 3 1452.14
+cade 3 1452.14
+aseda aiye 3 1452.14
+espn wide world of sports 3 1452.14
+oyigiyigi 3 1452.14
+southwest florida international airport 3 1452.14
+washington international thurgood marshall airport 3 1452.14
+mb 3.2 3 1452.14
+setmiami 3 1452.14
+arstotzka 3 1452.14
+norman-oklahoma city 3 1452.14
+arabaribiti 3 1452.14
+elkridge 3 1452.14
+spurrier 3 1452.14
+coder 3 1452.14
+ski patrol 3 1452.14
+
+=======================================GenerateGraph for CA====================================
+adidas originals 258 11449.7
+ca 177 9618.8
+los angeles 135 9296.39
+san diego 94 7072.71
+justin 115 6262.02
+lax 51 5653.81
+sacramento 57 5563.73
+adidas 73 5409.26
+san jose 47 5301.76
+santa monica 39 5073.88
+los angeles international airport 36 5055.97
+la 118 4890.1
+california 87 4601.21
+oakland 37 4101.78
+sublime 28 4045.61
+long beach 23 3796.9
+twitter 232 3794.31
+fresno 22 3779.22
+tnt 38 3592.58
+michael everson 17 3466.64
+stacey woodroof 17 3466.64
+rome 28 3374.64
+hollywood 37 3355.88
+palm springs 17 3197.41
+west hollywood 14 3144.5
+disneyland 22 3133.27
+starbucks 103 3119.76
+anaheim 16 3087.09
+jacky wu 13 3029.62
+usa 178 2960.81
+perry 25 2925.6
+southern california 13 2919.89
+irvine 13 2919.89
+beverly hills 18 2916.28
+el dorado hills 12 2910.28
+chuck christopherson 12 2910.28
+sf 35 2892.74
+originals 19 2874.11
+vegas 53 2797.77
+burbank 11 2667.75
+ucla 13 2576.63
+northridge 11 2563.53
+bakersfield 11 2563.53
+santa cruz 10 2532.63
+santa ana 12 2521.98
+san mateo 9 2518.98
+california state university 9 2518.98
+kings 28 2470.38
+pasadena 12 2378.43
+usgs 12 2378.43
+north hollywood 8 2374.43
+tustin 8 2374.43
+fullerton 8 2374.43
+angela 57 2275.72
+god 82 2271.31
+chula vista 8 2239.1
+staples center 8 2239.1
+century blvd 7 2220.59
+i-405 nb 7 2220.59
+long beach airport 7 2220.59
+downey 7 2220.59
+caregiver\direct support professional 7 2220.59
+san diego international airport 7 2220.59
+cloverdale 7 2220.59
+sutter health 7 2220.59
+silicon valley 9 2182.71
+socal 10 2170.25
+fairfield 8 2124.6
+sunnyvale 7 2077.63
+peet 7 2077.63
+the geysers 6 2055.39
+san diego mesa college 6 2055.39
+la jolla 6 2055.39
+mira mi 6 2055.39
+san bernardino 6 2055.39
+horsetail fall 2014 6 2055.39
+49ers news 6 2055.39
+zenmobi 6 2055.39
+thousand oaks 6 2055.39
+los gatos 6 2055.39
+florence ave 6 2055.39
+facebook 57 2008.81
+glendale 11 1973.14
+russia 64 1943.11
+niners 8 1940.18
+ml 17 1934.86
+lane 10 1929.43
+arsenal 48 1910.36
+mountain view 6 1903.37
+canada 138 1896.08
+l.a 9 1891.49
+md 36 1879.3
+ca : caregiver\direct support professional 5 1875.83
+i-10 wb 5 1875.83
+central ave 5 1875.83
+fontana 5 1875.83
+oceanside 5 1875.83
+laguna 5 1875.83
+modesto 5 1875.83
+costa mesa 5 1875.83
+
+=======================================GenerateGraph for WA====================================
+wa 132 9432.66
+seattle 106 7117.25
+tacoma 20 3671.49
+seattle-tacoma international airport 8 2374.43
+redmond 8 2374.43
+mp 13 2233.17
+spokane 9 1953.22
+olympia 5 1712.83
+alpental 4 1677.32
+everett 7 1631.33
+bellevue 4 1500.66
+el universal 4 1500.66
+kirkland 5 1484.02
+sea 8 1468.59
+washington state 3 1452.14
+lynnwood 3 1452.14
+centurylink field 3 1452.14
+bellingham 3 1452.14
+a6 3 1452.14
+columbia center 3 1452.14
+seatac 3 1452.14
+milton 5 1266.31
+kelso 3 1257.99
+j cole 6 1223.52
+green river 2 968.093
+pullman 2 968.093
+puget sound 2 968.093
+myanmar 2 968.093
+chris wheeler 2 968.093
+shelton 2 968.093
+mclaughlin 2 968.093
+timbers 2 968.093
+darrell 2 968.093
+renton 2 968.093
+pasco 2 968.093
+felix 5 896.883
+valerie 3 890.412
+robert half 2 838.66
+washington 11 837.478
+joey votto 3 796.726
+microsoft 6 780.597
+paulina 3 759.788
+uw 2 750.331
+hanford 2 750.331
+richland 2 750.331
+grandmas 2 750.331
+queen latifah 2 750.331
+cheney 2 750.331
+starbucks 24 726.935
+twitter 42 686.902
+felix hernandez 2 685.131
+richard sherman 2 685.131
+adam 8 674.007
+lucky 4 648.062
+newcastle 2 634.456
+stevens 2 634.456
+ios 2 593.608
+votto 2 593.608
+mcdonald 9 581.491
+emily 7 575.846
+oz 2 559.774
+hong kong 2 559.774
+kent 4 554.184
+wsu 3 550.723
+tucker 2 531.151
+aidan 2 531.151
+loki 2 531.151
+jody 2 531.151
+natasha 2 531.151
+bay 3 526.367
+paul 6 523.77
+twerk 4 508.525
+amazon 4 508.525
+jake 5 505
+j 3 504.996
+vancouver 6 500.632
+cole 4 487.047
+michael sam 2 485.046
+sap 2 485.046
+bethel 1 484.047
+darren collinson 1 484.047
+mlk 1 484.047
+it 's always sunny 1 484.047
+paine 1 484.047
+tim tebow 1 484.047
+marcus smart 1 484.047
+tsunami 1 484.047
+nitrous 1 484.047
+helix fossil 1 484.047
+the league 1 484.047
+kauai 1 484.047
+app store 1 484.047
+graceland 1 484.047
+john watson 1 484.047
+mariner 1 484.047
+byron 1 484.047
+onedrive 1 484.047
+bayer vs arsenal 1 484.047
+liza 1 484.047
+hay day 1 484.047
+
+=======================================GenerateGraph for IA====================================
+ia 86 7468.2
+des moines 24 3888.37
+iowa 28 3130.91
+ames 13 2821.32
+iowa city 11 2563.53
+webster city 7 2220.59
+albia 5 1875.83
+sioux city 4 1677.32
+state duals 4 1677.32
+web city 4 1677.32
+independence 7 1631.33
+larson 3 1452.14
+cedar rapids 3 1257.99
+iowa state 3 1257.99
+becks 3 1257.99
+nws desmoines 6 1223.52
+leroy 4 1062.3
+isu 4 970.092
+oswald 2 968.093
+service technician 2 968.093
+tarea 2 968.093
+sadler 2 968.093
+willie mays 2 968.093
+davenport 2 968.093
+orson 2 968.093
+chester 3 890.412
+lexi 3 839.661
+duff 2 838.66
+waterloo 2 838.66
+ic 2 838.66
+atlantic 2 838.66
+izzy 3 727.569
+chaco 2 685.131
+girl scouts 2 685.131
+delaney 2 685.131
+field management trainee 2 685.131
+jameis winston 2 685.131
+train crew 3 651.074
+tricia 2 634.456
+allyson 2 634.456
+peyton 4 615.011
+u.s. cellular 3 594.608
+glenwood 2 593.608
+mr 9 588.227
+usa 35 582.181
+kfc 3 564.249
+roosevelt 2 559.774
+altoona 2 559.774
+jj watt 2 559.774
+julio cesar 2 559.774
+jess 3 538.13
+oreos 2 531.151
+willow 2 531.151
+kellogg 3 515.348
+valentine 's day 3 486.047
+retail wireless consultant 2 485.046
+ferrari 2 485.046
+brock 2 485.046
+john wayne 1 484.047
+pretty little liars 1 484.047
+keri hilson 1 484.047
+johnston 1 484.047
+rice krispies 1 484.047
+bangladesh 1 484.047
+jensen 1 484.047
+transformers 1 484.047
+philadelphia 76ers 1 484.047
+poetry slam 1 484.047
+monday 1 484.047
+lake superior 1 484.047
+victoria justice 1 484.047
+forum 1 484.047
+anytime fitness 1 484.047
+percy jackson 1 484.047
+hidden valley 1 484.047
+magic mike 1 484.047
+wayne gretzky 1 484.047
+context-free 1 484.047
+hyvee 1 484.047
+the grammys 1 484.047
+jr smith 1 484.047
+meyer 1 484.047
+jimmy buffett 1 484.047
+tas 1 484.047
+mcbride 1 484.047
+fo 1 484.047
+east village 1 484.047
+orange leaf 1 484.047
+lacy 1 484.047
+lara 1 484.047
+fat joe 1 484.047
+the english 1 484.047
+skyzone 1 484.047
+misty day 1 484.047
+osama 1 484.047
+icon 1 484.047
+olympic hockey 6 460.486
+pcb 3 453.806
+michaela 2 449.214
+jason derulo 2 449.214
+
+=======================================GenerateGraph for OR====================================
+portland 361 15029.1
+gresham 95 8165.25
+portland fire 42 5464.18
+med 41 5272.17
+multnomah county sheriff 29 4386.79
+civil 19 2921.3
+gresham fire 8 2374.43
+oregon 17 2294.54
+pdx 9 2097.43
+hazard 6 1903.37
+corvallis 5 1875.83
+pac12ducks 5 1875.83
+eugene 8 1796.86
+ne 19 1785.28
+beaverton 5 1712.83
+ne division st 4 1677.32
+troutdale 4 1677.32
+portland international airport 4 1677.32
+vice-drugs 4 1677.32
+bill walton 4 1677.32
+almcom 4 1677.32
+hillsboro 4 1500.66
+fairview 3 1452.14
+se stark st 3 1452.14
+forest grove 3 1452.14
+se division st 3 1452.14
+shute park 3 1452.14
+ne burnside rd 3 1452.14
+seahawks 5 1266.31
+multnomah county 4 1187.22
+gerardo ortiz 3 1125.5
+se 10 1072.56
+fred meyer 2 968.093
+nw 2 968.093
+titanic 2 968.093
+circumstance 2 968.093
+harbor 2 968.093
+deven 2 968.093
+salem 5 841.66
+24hourfitness 2 838.66
+emilee 2 838.66
+uo 2 750.331
+mckay 2 750.331
+dutch 2 685.131
+idol 2 685.131
+medford 2 685.131
+jason mraz 2 685.131
+joel 4 660.33
+lowe 2 634.456
+google fiber 7 627.801
+jesus 12 624.145
+dal 2 559.774
+king james 2 559.774
+sarcasm 2 559.774
+god 20 553.978
+java 2 531.151
+fedex 2 531.151
+billy joel 2 506.526
+melissa 3 495.248
+boise 2 485.046
+bertha 1 484.047
+kristen wiiig impersonates harry styles 1 484.047
+sun valley 1 484.047
+oswald 1 484.047
+osaka 1 484.047
+intel 1 484.047
+bette midler 1 484.047
+ror 1 484.047
+king center 1 484.047
+hawthorne 1 484.047
+nicklaus 1 484.047
+industrial 1 484.047
+brendon 1 484.047
+dutch bros 1 484.047
+noodle house 1 484.047
+jim jones 1 484.047
+geek history 1 484.047
+windermere 1 484.047
+urban dictionary 1 484.047
+jensen 1 484.047
+blazers 1 484.047
+childish gambino 1 484.047
+william shakespeare 1 484.047
+fabolous 1 484.047
+clowns 1 484.047
+eviction 1 484.047
+monmouth 1 484.047
+watertown 1 484.047
+cq 1 484.047
+bone thugs 1 484.047
+salami 1 484.047
+the original pancake house 1 484.047
+stephen king 1 484.047
+truckin 1 484.047
+helix fossil 1 484.047
+missionary 1 484.047
+lia 1 484.047
+ap stats 1 484.047
+blue sky 1 484.047
+randy 3 469.092
+
+=======================================GenerateGraph for PA====================================
+pa 324 13442.4
+philadelphia 79 6932.85
+pittsburgh 86 6496.06
+philly 55 4273.31
+usa 240 3992.1
+canada 268 3682.24
+erie 20 3366.64
+latvia 183 3237.25
+philadelphia international airport 11 2785.89
+phl 11 2667.75
+esu 10 2655.75
+harrisburg 10 2655.75
+toyota tundra 8 2374.43
+allentown 8 2374.43
+pittsburgh international airport 8 2374.43
+duquesne 8 2239.1
+emily bett 7 2220.59
+womens intensive arabic 7 2220.59
+king of prussia 7 2220.59
+altoona 7 1959.21
+twitter 118 1929.87
+thon 6 1903.37
+temple university 5 1712.83
+willow grove 4 1677.32
+top20 of harrisburg 4 1677.32
+chevy silverado 4 1677.32
+edinboro 4 1677.32
+penn state 6 1593.45
+pennsylvania 11 1589.35
+temple 9 1579.1
+russia 51 1548.41
+kessel 23 1544.31
+crosby 23 1516.56
+usa hockey 38 1495.23
+penn 9 1485.74
+america 44 1452.61
+te amo 3 1452.14
+adrian ramos 3 1452.14
+hadeeth studies sat 3 1452.14
+south philly 3 1452.14
+brewerytown beats 3 1452.14
+delaware river 3 1452.14
+septa 3 1452.14
+state college 3 1452.14
+camelback mountain resort 3 1452.14
+primanti bros 3 1452.14
+david backes 19 1343.71
+rn tele 5 1327.88
+clarion 4 1268.91
+mauer 4 1268.91
+zach parise 12 1266.99
+kings of leon 6 1260.99
+rena 3 1257.99
+johnstown 3 1257.99
+lenny cooke 3 1257.99
+robin wright 3 1257.99
+el toro 3 1257.99
+iup 3 1257.99
+malcolm x 4 1187.22
+pit 4 1187.22
+accountable healthcare staffing 10 1181.56
+sid 8 1173.15
+finland 24 1157.17
+brooke 11 1152.52
+czech republic 23 1130.32
+bethlehem 3 1125.5
+giant eagle 3 1125.5
+bylsma 5 1123.04
+psu 4 1119.55
+orpik 4 1119.55
+pitt 4 1119.55
+west chester 4 1119.55
+roman 5 1050.83
+sidney crosby 7 1042.31
+arctic monkeys 8 1028.72
+ray lewis 3 1027.7
+winston churchill 3 1027.7
+youtube channel 3 1027.7
+jena 3 1027.7
+dustin brown 15 1010.27
+trends 7 996.949
+weber 13 974.364
+pam 6 972.093
+wawa 4 970.092
+team usa 12 969.27
+hln 2 968.093
+tom hanks 2 968.093
+cpc 2 968.093
+rock bottom 2 968.093
+wing wednesdays 2 968.093
+tamar braxton 2 968.093
+alf 2 968.093
+nbc sports network 2 968.093
+cliff paul 2 968.093
+saint joseph 2 968.093
+jon quick 2 968.093
+baileys 2 968.093
+acme 2 968.093
+grubhub 2 968.093
+eastern conference 2 968.093
+
+=======================================GenerateGraph for VT====================================
+vt 15 2476.24
+vermont 12 2061.39
+stowe 2 968.093
+shannon sharpe 2 838.66
+kobe bryant 2 634.456
+burlington 4 577.945
+albania 1 484.047
+new moon 1 484.047
+robinson cano 1 484.047
+bozeman 1 484.047
+passenger 1 484.047
+uvm 1 484.047
+lula 1 484.047
+volvo 1 419.33
+dizzy wright 1 419.33
+keene 1 419.33
+fenway park 1 419.33
+peanut butter 1 375.166
+tobin 1 375.166
+art history 1 342.566
+vous 1 342.566
+rutgers 1 317.228
+roma 1 317.228
+shaw 1 296.804
+wolves 1 296.804
+kaylee 1 296.804
+macbook pro 1 296.804
+aaa 1 279.887
+snoop 1 279.887
+rite aid 1 265.575
+spain 2 257.179
+gop 1 224.607
+lp 1 217.025
+long island 1 210.165
+warren 1 203.92
+bahamas 1 203.92
+pll 1 198.203
+magic 1 192.943
+einstein 1 192.943
+tlc 1 188.083
+serena 1 183.574
+marty 1 179.377
+carole 1 179.377
+tree 1 175.456
+wtf 1 171.783
+wing 1 159.114
+jennifer lawrence 1 156.364
+connor 1 156.364
+the galaxy 1 153.753
+kennedy 1 151.269
+originals 1 151.269
+rosa 1 146.644
+disneyland 1 142.421
+bieber 1 140.444
+ellen 1 133.288
+jon 1 133.288
+adidas originals 3 133.136
+usa 8 133.07
+pierre 1 131.664
+miller 1 131.664
+czech 1 123.039
+springfield 1 123.039
+france 1 119.322
+dan 1 117.024
+logan 1 113.815
+syracuse 1 110.859
+montreal 1 106.409
+karma 1 102.46
+europe 1 98.9237
+canada 7 96.1779
+harry potter 1 94.5415
+brandon 1 93.3937
+itunes 1 93.3937
+beyonce 1 92.2872
+winter 1 91.7486
+molly 1 91.2195
+tom 1 91.2195
+katie 1 91.2195
+brits 1 91.2195
+netflix 2 89.4659
+backes 1 89.1918
+kyle 1 88.7059
+latvia 5 88.4494
+ben 1 87.7577
+lauren 1 81.5077
+taylor 1 78.682
+hawaii 1 78.0208
+philly 1 77.6965
+chase 1 76.1343
+chicken 1 75.5356
+killin 1 71.9646
+new york 2 71.7217
+mike 1 70.0066
+team canada 1 66.9381
+denver 1 66.3322
+america 2 66.0278
+mcdonald 1 64.6101
+orlando 1 63.8873
+tn 1 59.7221
+jeter 1 57.6658
+
+=======================================GenerateGraph for New Brunswick====================================
+fredericton 4 1677.32
+nb 4 1268.91
+stu 2 634.456
+app store 1 484.047
+on wednesdays 1 484.047
+student union building 1 484.047
+glen healy 1 484.047
+jonna 1 484.047
+claude giroux 1 484.047
+palms 1 484.047
+canada 35 480.89
+conan 1 419.33
+gg 1 419.33
+cullen 1 419.33
+cherie 1 419.33
+latvia 22 389.177
+chloe 3 385.769
+ironman 1 375.166
+manchester united 1 375.166
+branch manager 1 375.166
+webber 1 375.166
+bartulis 1 375.166
+nova scotia 1 342.566
+watson 1 342.566
+flappy bird 3 335.455
+belarus 1 317.228
+rim 1 317.228
+castle 1 317.228
+latvian 2 297.804
+drew doughty 1 296.804
+pei 1 296.804
+maddie 1 296.804
+justin beiber 1 279.887
+cora 1 265.575
+tim peel 1 253.263
+freedom 1 253.263
+halifax 1 253.263
+olivia 2 251.444
+pharrell williams 1 242.523
+sue 1 242.523
+csi 1 242.523
+patrick brazeau 1 233.048
+chicken nuggets 1 233.048
+harper 1 224.607
+madden 1 224.607
+kenzie 1 198.203
+itunes 2 186.787
+barry 1 183.574
+ted nolan 2 180.377
+heather moyse 1 179.377
+bates motel 1 165.083
+costco 1 162.016
+shane 1 159.114
+vodka 1 159.114
+maine 1 153.753
+pepsi 1 151.269
+erica 1 148.902
+gudlevskis 1 146.644
+kristers gudlevskis 1 136.724
+bp 1 134.973
+ottawa 1 134.973
+bryan 1 131.664
+the 1 128.59
+brazil 1 127.131
+angela 3 119.775
+logan 1 113.815
+olympics 2 112.097
+yankee 1 106.409
+youtube 2 104.024
+twitter 6 98.1288
+russia 3 91.0831
+china 1 88.2279
+louis 1 86.3913
+milan 1 85.95
+tampa 1 82.6497
+olympic hockey 1 76.7477
+chicken 1 75.5356
+shea weber 1 74.9511
+weber 1 74.9511
+nhl 1 72.2213
+us 1 72.2213
+team canada 1 66.9381
+sweden 1 66.5323
+sochi 1 66.3322
+mcdonald 1 64.6101
+toronto 1 62.8477
+mexico 1 59.152
+boston 1 46.8488
+miami 1 45.8497
+iphone 1 39.7992
+america 1 33.0139
+gt 1 31.7148
+god 1 27.6989
+amp 1 18.9771
+usa 1 16.6337
+baird 1 6
+radio ckum studios 1 6
+victoria health centre 1 6
+women 's bobsleigh gold 1 6
+sharon stones 1 6
+
+=======================================GenerateGraph for Ontario====================================
+canada 839 11527.6
+toronto 131 8233.05
+latvia 425 7518.2
+ontario 34 4423.39
+team canada 59 3949.35
+ottawa 27 3644.26
+weber 42 3147.94
+crosby 45 2967.18
+subban 20 2633.29
+ted nolan 29 2615.46
+barrie 7 2220.59
+metro toronto convention centre 7 2220.59
+mississauga 7 2220.59
+thunder bay 6 2055.39
+brampton 6 2055.39
+niagara 6 2055.39
+tavares 22 2030.32
+oshawa 6 1903.37
+brad jacobs 6 1903.37
+toronto eaton centre 5 1875.83
+raptors 5 1875.83
+rbc insurance 5 1875.83
+scarborough 5 1875.83
+copps coliseum 5 1875.83
+leafs 5 1875.83
+canadian broadcasting corporation 5 1875.83
+shea weber 25 1873.78
+heather moyse 10 1793.77
+oakville 6 1780.82
+russia 58 1760.94
+carey price 11 1750.25
+hamilton 11 1720
+richmond hill 5 1712.83
+kunitz 12 1709.06
+rick nash 7 1697.66
+telus 4 1677.32
+sudbury 4 1677.32
+jennifer jones 4 1677.32
+guelph 4 1677.32
+cbc 12 1662.55
+canadian 17 1648.52
+duchene 6 1593.45
+rbc 6 1593.45
+burlington 11 1589.35
+arsenal 39 1552.17
+markham 4 1500.66
+blue mountain 4 1500.66
+finland 31 1494.68
+pk subban 6 1455.14
+canada russia 3 1452.14
+timmins 3 1452.14
+ford nation 3 1452.14
+vaughan 3 1452.14
+insurance advisor 3 1452.14
+peterborough 3 1452.14
+soshi 2014 3 1452.14
+patty sharp 3 1452.14
+york university 3 1452.14
+goodlife fitness 3 1452.14
+hudson 's bay 3 1452.14
+cn tower 3 1452.14
+niagara falls 6 1347.64
+laura 10 1301
+babcock 9 1300.38
+patrick sharp 8 1272.91
+steve yzerman 4 1268.91
+kingston 5 1266.31
+tampa bay 6 1260.99
+p.k. subban 3 1257.99
+don cherry 7 1202.48
+chris kunitz 4 1187.22
+sid 8 1173.15
+jacobs 5 1165.24
+patrick brazeau 5 1165.24
+mike babcock 6 1157.66
+bayern 18 1113.45
+kristers gudlevskis 8 1093.79
+nhl 15 1083.32
+canada latvia 8 1079.78
+windsor 4 1062.3
+latvian 7 1042.31
+ripley 3 1027.7
+balotelli 3 1027.7
+shea webber 3 1027.7
+ahl 5 1019.6
+tim peel 4 1013.05
+usa 60 998.025
+sharp 5 991.013
+st marys 2 968.093
+fucking latvia 2 968.093
+south building 2 968.093
+gore 2 968.093
+varlamov 2 968.093
+bran stark 2 968.093
+emarosa 2 968.093
+sydney crosby 2 968.093
+marchand 2 968.093
+the indians 2 968.093
+rockingham 2 968.093
+shego 2 968.093
+
+=======================================GenerateGraph for NY====================================
+ny 519 18246.3
+new york 415 14882.3
+nyc 139 6991.8
+latvia 296 5236.2
+brooklyn 67 5060.89
+canada 366 5028.73
+smw campus 31 4689.33
+usa 275 4574.28
+staten island 26 4136.96
+buffalo 45 3867.75
+highline stages 21 3855.06
+albany 33 3755.91
+kennedy international airport 18 3567.65
+central park 22 3564.34
+angela 87 3473.47
+twitter 211 3450.86
+rochester 28 3445.1
+jfk 23 3424.75
+times square 17 3369.45
+john f 17 3369.45
+syracuse 30 3325.77
+jeter 56 3229.28
+bronx 16 3087.09
+queens 19 3078.3
+new york city 20 3025.38
+mta subway 12 2910.28
+felton 31 2895.21
+moma 13 2821.32
+laguardia 11 2785.89
+lga 11 2785.89
+knicks 34 2771.26
+chelsea 28 2697.7
+astoria 12 2695.28
+starbucks 84 2544.27
+museum of modern art 10 2532.63
+grand central terminal 9 2518.98
+the metropolitan museum of art 9 2518.98
+empire state building 9 2518.98
+derek jeter 53 2490.31
+angola 11 2470.68
+nolan 18 2399.18
+the knicks 21 2390.12
+port authority 8 2374.43
+manhattan 17 2294.54
+jamaica 17 2294.54
+poughkeepsie 8 2239.1
+social media week 7 2220.59
+toy fair 2014 7 2220.59
+brooklyn museum 7 2220.59
+soho 10 2170.25
+flushing 8 2124.6
+facebook 60 2114.53
+long island 10 2101.65
+webster hall 7 2077.63
+fordham 7 2077.63
+yelp 12 2061.39
+kanye 30 2059.2
+naked dove 6 2055.39
+google new york 6 2055.39
+darren collison 14 2022.81
+ub 7 1959.21
+suffolk 7 1959.21
+the standard 7 1959.21
+madison square garden 6 1903.37
+new york sports club 6 1903.37
+the crucible 5 1875.83
+jackson heights 5 1875.83
+dowd 5 1875.83
+upper east side 5 1875.83
+new empire state building 5 1875.83
+columbia university 5 1875.83
+doug wheeler 5 1875.83
+american museum 5 1875.83
+east elmhurst 5 1875.83
+long island city 5 1875.83
+niagara falls 8 1796.86
+ukraine 32 1793.54
+america 54 1782.75
+garden city 6 1780.82
+rainy day 7 1772.84
+reggie bullock 7 1772.84
+tavares 19 1753.46
+russia 57 1730.58
+jt 9 1692.75
+tim hortons 9 1692.75
+usa hockey 43 1691.98
+venezuela 34 1690.22
+kessel 25 1678.6
+highline 4 1677.32
+yungl 4 1677.32
+javits convention center 4 1677.32
+hempstead 4 1677.32
+jacob k 4 1677.32
+rockefeller center 4 1677.32
+syracuse ny 4 1677.32
+central park south 4 1677.32
+new yorkers 4 1677.32
+peek'n peak resort 4 1677.32
+columbus circle 4 1677.32
+herald square 4 1677.32
+
+=======================================GenerateGraph for AZ====================================
+az 204 11607.9
+phoenix 68 5701.24
+tempe 30 4538.06
+tucson 26 3871.45
+scottsdale 23 3726.36
+phx 21 3684.57
+phoenix sky harbor international airport 19 3665.92
+arizona 30 2578.5
+mesa 11 2243.12
+apache junction 6 2055.39
+mo anderson 5 1875.83
+phoenix convention center 5 1875.83
+biltmore fashion park 5 1875.83
+camelback mountain summit 4 1677.32
+arizona state university 4 1677.32
+hamilton dance and 4 1677.32
+keller williams 4 1500.66
+chaparral suites scottsdale 3 1452.14
+dove mountain 3 1452.14
+sedona 3 1452.14
+phoenician health group 3 1452.14
+chase field 3 1452.14
+keller williams family reunion 3 1452.14
+winter season 3 1452.14
+the powder blue 3 1452.14
+presley 3 1452.14
+sheraton phoenix downtown hotel 3 1452.14
+asu 7 1387.42
+rn tele 5 1327.88
+accountable healthcare staffing 11 1299.71
+royce 3 1257.99
+glendale 7 1255.64
+ramirez 3 1125.5
+camelback ranch 3 1027.7
+memorial union 2 968.093
+yaaaas 2 968.093
+la paloma 2 968.093
+brandon gormley 2 968.093
+sprouts farmers market 2 968.093
+lee pace 2 968.093
+aramis ramirez 2 968.093
+legolas 2 968.093
+suns 2 968.093
+nogales 2 968.093
+calderon 2 968.093
+paola 3 839.661
+gilbert 3 839.661
+murica 3 839.661
+mariners 2 838.66
+yuma 2 838.66
+hillsong 2 838.66
+tío simon 2 838.66
+nachos 2 838.66
+goodyear 2 838.66
+winslow 2 838.66
+watermark 2 838.66
+willow 3 796.726
+loki 3 796.726
+jenni 3 796.726
+peoria 3 796.726
+collin 3 759.788
+benghazi 2 750.331
+poulter 2 750.331
+avondale 2 750.331
+s4 2 750.331
+aa 2 750.331
+mexico 12 709.823
+usa 42 698.617
+rickie 2 685.131
+forrest gump 2 685.131
+mcc 2 685.131
+david 9 677.175
+cooper 3 673.821
+eva 4 636.456
+stevens 2 634.456
+alan 3 630.496
+chandler 3 611.76
+australia 5 596.608
+erick 2 593.608
+marc jacobs 2 593.608
+campbell 2 593.608
+chief keef 2 593.608
+rickie fowler 2 593.608
+canes 2 593.608
+palmer 2 593.608
+kate upton 5 590.779
+cabo 2 559.774
+stagecoach 2 559.774
+irs 2 559.774
+isaiah 2 559.774
+tim 5 549.619
+google fiber 6 538.115
+castro 2 531.151
+addison 2 531.151
+vegas 10 527.88
+twitter 32 523.354
+canada 38 522.109
+kid cudi 3 515.348
+liberty 3 515.348
+panda express 3 504.996
+
+=======================================GenerateGraph for MN====================================
+mn 223 12446
+minneapolis 77 7191.32
+minnesota 36 3561.25
+msp 14 3038.35
+nws minneapolis 16 2937.19
+minneapolis-st . paul international airport 10 2655.75
+saint paul 10 2655.75
+usa 127 2112.49
+eden prairie 6 2055.39
+winona 5 1712.83
+mankato 4 1677.32
+downtown minneapolis 4 1677.32
+rex 6 1519.58
+duluth 6 1455.14
+richfield 3 1452.14
+onamia 3 1452.14
+michael clifford 3 1452.14
+trevor potter 3 1452.14
+st paul 3 1452.14
+senior associate 3 1452.14
+cdh 3 1452.14
+st louis park 3 1452.14
+bloomington 7 1350.6
+mississippi river 3 1257.99
+caribou 3 1257.99
+latvia 68 1202.91
+suter 6 1189.22
+university of minnesota 4 1187.22
+zach parise 11 1161.41
+canada 84 1154.13
+deb 3 1125.5
+timberwolves 3 1125.5
+rochester 9 1107.35
+captain america 9 1084.71
+wonderland 3 1027.7
+blaine 3 1027.7
+ipads 2 968.093
+st . cloud 2 968.093
+granlund 2 968.093
+rbc wealth management 2 968.093
+umd 2 968.093
+dunn bros coffee 2 968.093
+st . paul 2 968.093
+xander 2 968.093
+lr 2 838.66
+nam 2 838.66
+cassel 2 838.66
+saint cloud 2 838.66
+us olympic 2 750.331
+pacers 3 699.144
+baja 2 685.131
+cbo 2 685.131
+fazoland 2 685.131
+life time fitness 2 685.131
+finland 14 675.016
+mtv 5 674.864
+pm 2 634.456
+roseville 2 634.456
+mauer 2 634.456
+ashton irwin 2 634.456
+patty kane 3 630.496
+assoc 3 630.496
+ryan suter 3 630.496
+america 19 627.264
+backes 7 624.342
+russia 20 607.221
+wolves 2 593.608
+tlc 3 564.249
+nbcsn 2 559.774
+atletico 2 559.774
+csu 2 559.774
+usa hockey 14 550.876
+prince 4 539.891
+uptown 3 538.13
+olympic hockey 7 537.234
+tony allen 2 531.151
+stewart 2 531.151
+bsu 2 531.151
+atx 2 531.151
+amc 2 531.151
+louis 6 518.348
+iphones 3 515.348
+lou 3 515.348
+the olympics 9 495.056
+twitter 30 490.644
+megan fox 2 485.046
+south dakota 2 485.046
+libby 2 485.046
+bbc 2 485.046
+darin 1 484.047
+jack frost 1 484.047
+twitch plays pokemon 1 484.047
+property brothers 1 484.047
+the u.s 1 484.047
+eagan 1 484.047
+vineland 1 484.047
+kaner 1 484.047
+amp gamble 1 484.047
+walkers 1 484.047
+kristen stewart 1 484.047
+
+=======================================GenerateGraph for Sonora====================================
+sonora 22 3946.28
+hermosillo 18 3567.65
+universidad del valle de mexico 3 1452.14
+ciudad obregón 3 1452.14
+ejército mexicano 3 1452.14
+vueltas 3 1257.99
+valores 2 968.093
+derechos humanos 2 838.66
+aum 1 484.047
+méxico 1 484.047
+jajajajaja 1 484.047
+ando 1 484.047
+pena 1 484.047
+muchas 1 484.047
+angeles 1 484.047
+oxxo 1 484.047
+estos 1 484.047
+centro 2 449.214
+escuela 1 419.33
+guadalajara 1 419.33
+armando 1 419.33
+camilo 1 419.33
+liam payne 1 419.33
+estados unidos 1 419.33
+justicia 1 419.33
+día 1 419.33
+nunca 2 396.405
+rousey 1 375.166
+los brits 1 375.166
+villa 1 342.566
+connie 1 317.228
+el mundo 1 317.228
+pero 2 297.804
+antes 1 296.804
+san luis 1 296.804
+mexico city 1 296.804
+kendall jenner 1 296.804
+nada 2 284.843
+diablo 1 279.887
+daft punk 1 279.887
+excel 1 279.887
+barack obama 1 279.887
+gaby 1 265.575
+evelyn 1 253.263
+leon 1 253.263
+una 1 253.263
+dice 1 253.263
+alexander 1 242.523
+buenos dias 1 242.523
+gracias 2 225.607
+ash 1 217.025
+ella 2 216.247
+jay z 1 210.165
+toby 1 203.92
+al 3 189.566
+hoy 1 183.574
+zoe 1 179.377
+casa 1 168.332
+joel 1 165.083
+harry styles 1 159.114
+carl 1 159.114
+mario 1 146.644
+victor 1 144.486
+boys 1 140.444
+lee 1 140.444
+derek 1 136.724
+chile 1 133.288
+bryan 1 131.664
+la 3 124.325
+burger king 1 120.523
+ozil 1 107.256
+mi 2 99.7564
+twitter 6 98.1288
+harry potter 1 94.5415
+victoria 1 85.95
+colorado 1 85.5155
+ipad 1 75.8332
+mike 1 70.0066
+starbucks 2 60.5779
+mexico 1 59.152
+alex 1 57.7962
+drake 1 55.2326
+california 1 52.8875
+google 1 48.5192
+houston 1 45.2189
+arsenal 1 39.7992
+facebook 1 35.2422
+lt 1 24.7118
+mi campeón 2 12
+sainte marianne 2 12
+educativa dra 2 12
+escuela normal superior 2 12
+corina schelmelkes 2 12
+navojoa 2 12
+la bolsa mexicana 2 12
+harry and liaaaaam 2 12
+estado de sonora 2 12
+mucha suerte &lt 2 12
+lucerna 2 12
+reacción 1 6
+
+=======================================GenerateGraph for NV====================================
+nv 120 8959.66
+las vegas 118 8260.78
+vegas 76 4011.89
+las vegas mccarran international airport 17 3466.64
+reno 19 2921.3
+henderson 16 2545.82
+las vegas convention center 6 2055.39
+magic 9 1736.49
+las vegas strip 4 1677.32
+mandalay bay conference center 4 1677.32
+britney 8 1585.62
+grand canyon 4 1500.66
+project las vegas 3 1452.14
+mandalay bay resort 3 1452.14
+the cosmopolitan 3 1452.14
+encore las vegas 3 1452.14
+amp casino 3 1452.14
+hakkasan las vegas 3 1452.14
+north las vegas 3 1452.14
+sands convention center 3 1452.14
+downtown project container park 3 1452.14
+las vegas mccarran international… 3 1452.14
+gloss 3 1257.99
+big booty 3 1257.99
+planet hollywood 3 1257.99
+audi a5 3 1257.99
+hakkasan 3 1257.99
+nevada 6 1157.66
+hakkasan group 2 968.093
+mike murdock 2 968.093
+margaritaville 2 968.093
+sin city 2 968.093
+v2 2 968.093
+bellagio 2 968.093
+the venetian 2 968.093
+les brown 2 968.093
+hotel 6 954.683
+sam 14 931.452
+ice cube 3 839.661
+mgm 2 838.66
+a$ap ferg 2 838.66
+luxor 2 838.66
+insight 2 750.331
+las 4 717.506
+venezuelan 2 634.456
+rio 2 593.608
+tio simon 2 559.774
+ronnie 3 550.723
+destin 2 531.151
+calum 3 495.248
+modern baseball 1 484.047
+kaskade 1 484.047
+senator 1 484.047
+miranda lambert 1 484.047
+snow white 1 484.047
+lemon pepper 1 484.047
+u.s.a hockey 1 484.047
+hoover dam 1 484.047
+axe 1 484.047
+harrah 1 484.047
+koko 1 484.047
+john glenn 1 484.047
+brits awards 1 484.047
+visitor center 1 484.047
+tabasco 1 484.047
+tesla 1 484.047
+nacho 1 484.047
+tom hanks 1 484.047
+osama 1 484.047
+gaia 1 484.047
+lacoste 1 484.047
+north hall 1 484.047
+princess bride 1 484.047
+gill 1 484.047
+osiris 1 484.047
+washington wizards 1 484.047
+starbucks coffee 1 484.047
+boob 1 484.047
+vegas baby 1 484.047
+casual 1 484.047
+calvin 2 466.096
+hov 2 466.096
+veronica 2 449.214
+karina 2 434.05
+sunset 2 434.05
+president obama 2 420.33
+check-in 1 419.33
+part-time 1 419.33
+enders 1 419.33
+jellyfish 1 419.33
+hot pocket 1 419.33
+white gold 1 419.33
+armstrong 1 419.33
+fergie 1 419.33
+marseille 1 419.33
+brandon belt 1 419.33
+belle 1 419.33
+wooster 1 419.33
+hash house 1 419.33
+sam smith 1 419.33
+
+=======================================GenerateGraph for OK====================================
+tulsa 18 2971.49
+bill nye 20 2932.88
+okc 14 2189.1
+oklahoma city 8 2124.6
+osu 11 2068.91
+university of central oklahoma 5 1875.83
+oklahoma 16 1821.05
+nhk 4 1677.32
+confidential 3 1452.14
+penn square 3 1452.14
+broken arrow 3 1452.14
+rogers state university 3 1452.14
+yo momma's house 3 1257.99
+neil young 3 1125.5
+perk 4 1119.55
+russ 5 1085.12
+lexie 3 1027.7
+ebby 2 968.093
+raising cane 2 968.093
+us-czech 2 968.093
+diane rehm 2 968.093
+lois 2 968.093
+turnpike 2 968.093
+oceano 2 968.093
+norman 5 896.883
+nigeria 2 838.66
+brooks 4 815.68
+shirley 3 796.726
+god 28 775.57
+whitney 5 768.764
+mercy health 4 752.333
+dna 2 750.331
+cna 2 750.331
+sprite 2 750.331
+mike jones 2 685.131
+cac 2 685.131
+maddi 2 685.131
+kylie jenner 2 634.456
+gnc 2 634.456
+mariah 4 605.075
+beverly 2 593.608
+guatemala 2 593.608
+jason aldean 3 564.249
+woodland hills 2 559.774
+isaiah 2 559.774
+durant 4 533.15
+ou 2 531.151
+baker hughes 3 526.367
+jackie 4 508.525
+oral 2 506.526
+ann 2 506.526
+canada-latvia 3 495.248
+marcus 4 492.157
+francis 2 485.046
+furtick 1 484.047
+trig 1 484.047
+garth brooks 1 484.047
+gulf shores 1 484.047
+twitch plays pokemon 1 484.047
+walter 1 484.047
+gary neal 1 484.047
+dominica 1 484.047
+peggy 1 484.047
+david nail 1 484.047
+joplin 1 484.047
+atticus 1 484.047
+lan 1 484.047
+ada 1 484.047
+red robin gourmet burgers 1 484.047
+dwyane wade 1 484.047
+micro 1 484.047
+mechanics 1 484.047
+seminole 1 484.047
+del 1 484.047
+united states marine 1 484.047
+the beast 1 484.047
+b.o.b 1 484.047
+priscilla 1 484.047
+flair 1 484.047
+us olympian 1 484.047
+republicans 1 484.047
+tm 1 484.047
+jetta 1 484.047
+randy savage 1 484.047
+hahahaha 1 484.047
+dr . dre 1 484.047
+dirty diana 1 484.047
+myanmar 1 484.047
+glenda 1 484.047
+russian team 1 484.047
+service technician i 1 484.047
+alayna 1 484.047
+jim jones 1 484.047
+rudy gay 1 484.047
+pilar 1 484.047
+cache 1 484.047
+fs1 1 484.047
+carnegie 1 484.047
+richie incognito 1 484.047
+geometry 1 484.047
+
+=======================================GenerateGraph for TN====================================
+tn 184 10988.9
+nashville 100 6714.39
+ryman auditorium 25 4208.3
+memphis 42 4072.81
+knoxville 29 3965.01
+nashville international airport 11 2785.89
+chattanooga 12 2521.98
+kroc center 8 2374.43
+murfreesboro 8 2374.43
+tennessee 23 2356.58
+moccasin bend 7 2220.59
+clarksville 7 1959.21
+the ryman 7 1959.21
+fall creek falls 5 1875.83
+pinewood social 4 1677.32
+johnson city 4 1677.32
+mtsu 4 1677.32
+lady antebellum 4 1500.66
+east tennessee 4 1500.66
+knox 4 1500.66
+george jones 4 1500.66
+vanderbilt 4 1500.66
+vince gill 3 1452.14
+daisy theatre 3 1452.14
+uncle lou 3 1452.14
+center court 3 1452.14
+browns ferry rd 3 1452.14
+tn assistant store manager 3 1452.14
+david porter 3 1452.14
+cool springs 3 1452.14
+pigeon forge 3 1452.14
+germantown 6 1398.29
+bonnaroo 8 1374.26
+chilli 3 1257.99
+martin 8 1155.89
+sloan 3 1125.5
+belmont 4 1062.3
+aoii 3 1027.7
+brentwood 4 970.092
+chris johnson 2 968.093
+vandy 2 968.093
+trystan 2 968.093
+lone survivor 2 968.093
+grizz 2 968.093
+john bevere 2 968.093
+wildcat 2 968.093
+graceland 2 968.093
+banfield pet hospital 2 968.093
+florida...it 2 968.093
+webb 2 968.093
+mem 2 968.093
+tayshaun prince 2 968.093
+revo 2 968.093
+chacos 3 951.683
+tsu 3 890.412
+tes 2 838.66
+rock of ages 2 838.66
+fuji 2 838.66
+god 30 830.967
+tony allen 3 796.726
+kroger 4 771.773
+elliott 2 750.331
+roo 2 750.331
+ucl 2 750.331
+eric paslay 2 750.331
+alexander 3 727.569
+lebanon 3 699.144
+epoch 2 685.131
+dierks bentley 2 685.131
+girl scouts 2 685.131
+shea weber 9 674.56
+twitter 41 670.547
+kanye west 6 654.075
+franklin 3 651.074
+keith urban 2 634.456
+jamal 2 634.456
+caitlin 3 630.496
+kendall 4 625.456
+crossroads 2 593.608
+canada 42 577.067
+frank 5 574.276
+itunes 6 560.362
+krispy kreme 2 559.774
+kiara 2 559.774
+eno 2 559.774
+smyrna 2 559.774
+tyler 8 540.489
+albert einstein 2 531.151
+camaro 2 531.151
+latvia 29 513.006
+steve jobs 2 506.526
+christ 2 506.526
+jc 2 506.526
+brennan 2 506.526
+outkast 2 506.526
+johnson 3 504.996
+ut 5 498.007
+grey 's anatomy 2 485.046
+bna 1 484.047
+tony bosch 1 484.047
+
+=======================================GenerateGraph for MA====================================
+boston 165 7730.05
+ma 45 5168.48
+worcester 27 4151.32
+sigamos en la lucha 22 3946.28
+st boston 14 3144.5
+new england 24 2756.52
+lowell 9 2390.18
+cuando la libertad 8 2374.43
+entre las patas nunca escondo el rabo 8 2374.43
+valga la pena 8 2374.43
+waltham 8 2374.43
+washington st boston 7 2220.59
+keaton 25 2217.65
+cambridge 11 2180.23
+umass 7 2077.63
+boston logan international airport 6 2055.39
+latvia 110 1945.89
+usa 114 1896.25
+acton 5 1875.83
+south station 5 1875.83
+tasty burger 5 1875.83
+aimee 5 1875.83
+greater boston 5 1875.83
+marlborough 5 1875.83
+framingham 5 1875.83
+mccormick 8 1864.38
+massachusetts 11 1815.91
+canada 132 1813.64
+mullen 7 1772.84
+lynn 8 1681.32
+stuart st 4 1677.32
+leicester 4 1677.32
+brookline 4 1677.32
+north attleboro 4 1677.32
+chestnut hill 4 1677.32
+china pearl restaurant 4 1677.32
+museum of fine arts 4 1677.32
+angela 42 1676.85
+luke bryan 17 1670.42
+bos 5 1484.02
+beverly 5 1484.02
+weymouth 3 1452.14
+western mass 3 1452.14
+crossfit on the hill 3 1452.14
+healthalliance hospital 3 1452.14
+braintree 3 1452.14
+ma assistant store manager 3 1452.14
+ty whitney 3 1452.14
+mount ida 3 1452.14
+ave boston 3 1452.14
+charlestown 3 1452.14
+king mike 3 1452.14
+boston herald 3 1452.14
+natick 3 1452.14
+iphone 36 1432.77
+quincy 5 1399.43
+krejci 6 1398.29
+medford 4 1370.26
+amherst 6 1347.64
+brighton 5 1327.88
+auburn 9 1281.79
+jimbo 4 1268.91
+fenway park 3 1257.99
+dunks 3 1257.99
+boston sports club 3 1257.99
+rockland 3 1257.99
+boston university 3 1257.99
+td garden 3 1257.99
+shrewsbury 3 1257.99
+rondo 23 1216.41
+boston college 4 1187.22
+salem 7 1178.32
+russia 38 1153.72
+david krejci 3 1125.5
+talia 3 1125.5
+twitter 65 1063.06
+jerry 10 1032.14
+yulia lipnitskaya 3 1027.7
+gsu 3 1027.7
+sirius 3 1027.7
+dartmouth 3 1027.7
+bergeron 3 1027.7
+florida 28 1004.1
+newton 5 991.013
+leah 6 990.496
+li 4 970.092
+kentucky derby 2 968.093
+state house 2 968.093
+cape cod 2 968.093
+money baby 2 968.093
+hyde park 2 968.093
+sully 2 968.093
+mit 2 968.093
+kayne west 2 968.093
+family guy 2 968.093
+westfield 3 951.683
+nobel peace prize 3 951.683
+charlie 8 927.395
+harvard 6 922.516
+mother nature 8 910.523
+
+=======================================GenerateGraph for AL====================================
+al 118 7456.24
+alabama 36 3210.9
+birmingham 23 3186.56
+huntsville 17 2920.3
+montgomery 13 2508.26
+jsu 6 2055.39
+ua 10 2039.2
+bama 11 1889.61
+al assistant store manager 5 1875.83
+tuscaloosa 8 1864.38
+wallace 8 1631.36
+saban 5 1586.14
+citi 16 1485.37
+blake crew 3 1452.14
+jchs 3 1452.14
+oak mountain 3 1452.14
+gamma phi 3 1452.14
+riverchase galleria 3 1452.14
+auburn university 3 1452.14
+ramsay 3 1452.14
+mexican cantina 3 1452.14
+spiceworks 3 1452.14
+opelika 3 1452.14
+riverchase 3 1452.14
+auburn arena 3 1452.14
+auburn 9 1281.79
+kristen saban 3 1257.99
+adios 3 1257.99
+arab 3 1125.5
+belk 3 1027.7
+citi trends 8 1017.05
+1st assistant manager 4 1013.05
+usa 59 981.391
+aum 2 968.093
+ashlyn 2 968.093
+jimmy buffet 2 968.093
+east limestone 2 968.093
+war eagle 3 951.683
+mobile 5 940.416
+python 3 839.661
+mcgill 2 838.66
+sga 2 838.66
+cam newton 2 838.66
+wetumpka 2 838.66
+camaro 3 796.726
+bryant 3 759.788
+jags 2 750.331
+nick jacobs 2 750.331
+hbcu 2 750.331
+rhonda 2 750.331
+ncis 2 750.331
+the weeknd 2 685.131
+armed 2 685.131
+dmb 2 685.131
+waffle house 3 651.074
+burke 2 634.456
+sh 2 634.456
+king cake 2 634.456
+lowe 2 634.456
+gamma phi beta 2 634.456
+nick saban 2 634.456
+the olympics 11 605.068
+rosie 3 594.608
+asu 3 594.608
+rod 2 593.608
+2nd assistant manager 2 593.608
+skylar 2 593.608
+ian 5 585.121
+god 21 581.677
+kroger 3 578.83
+twitter 35 572.418
+garrett 3 564.249
+granny 2 559.774
+troy 4 546.897
+blake 4 533.15
+edm 2 531.151
+russians 2 531.151
+destin 2 531.151
+lebron 9 522.538
+malcolm 2 506.526
+vincent 2 506.526
+major league 2 506.526
+haley 4 492.157
+mike 7 490.046
+chs 2 485.046
+west chester university 1 484.047
+nique 1 484.047
+pi phi 1 484.047
+benton 1 484.047
+crawford 1 484.047
+livingston 1 484.047
+cp3 1 484.047
+“the jetsons” 1 484.047
+army 1 484.047
+new york yankees 1 484.047
+b.o.b 1 484.047
+cullman 1 484.047
+daniels 1 484.047
+arby 1 484.047
+st . augustine 1 484.047
+
+=======================================GenerateGraph for HI====================================
+hawaii volcano 16 3362.64
+honolulu 13 3029.62
+hawaii 36 2808.75
+volcano 10 2425.23
+oahu 8 2124.6
+hilo 4 1677.32
+kapolei 4 1677.32
+maui 6 1593.45
+kailua 3 1452.14
+mililani 3 1452.14
+ml 2.3 3 1257.99
+beaufort 2 968.093
+dayum 2 968.093
+us 13 938.877
+usgs 4 792.811
+tnt 8 756.332
+babylon 2 750.331
+md 12 626.434
+philippines 2 593.608
+ml 5 569.077
+press 5 501.467
+andreas 1 484.047
+monte carlo 1 484.047
+ghost town 1 484.047
+vamos milan 1 484.047
+dr dre 1 484.047
+meyer 1 484.047
+7eleven 1 484.047
+king st 1 484.047
+kauai 1 484.047
+scrum 1 484.047
+democrats 1 484.047
+sacramento kings 1 484.047
+rifle 1 484.047
+wales 1 484.047
+brandon belt 1 419.33
+giants 1 419.33
+arch 1 419.33
+kcc 1 419.33
+medical center 1 419.33
+warehouse 1 419.33
+starbucks 13 393.757
+angie 2 376.166
+etsy 1 375.166
+charley 1 375.166
+canadian hockey 1 375.166
+indonesia 1 375.166
+flex team 1 375.166
+zion 1 342.566
+bennett 1 342.566
+balotelli 1 342.566
+git 1 342.566
+worldwide 1 317.228
+japanese 1 317.228
+tricia 1 317.228
+willis 1 296.804
+united states 4 294.191
+pan 1 279.887
+roosevelt 1 279.887
+nails 1 279.887
+iwo jima 1 265.575
+happy hump day 1 265.575
+kathy 1 265.575
+microsoft 2 260.199
+ken 1 253.263
+joaquin 1 253.263
+lamar 1 242.523
+kardashian 1 242.523
+bob dylan 1 242.523
+isu 1 242.523
+street 2 241.046
+geico 1 233.048
+kyra 1 233.048
+oscar 1 224.607
+roger 1 224.607
+vince 1 224.607
+karina 1 217.025
+ashley wagner 1 217.025
+japan 2 211.165
+costa rica 1 210.165
+yaya sanogo 1 210.165
+buzz aldrin 1 210.165
+the capitol 1 203.92
+macy 4 195.315
+todd 1 183.574
+brits 2 182.439
+jack daniels 1 179.377
+mikey 1 179.377
+james franco 1 171.783
+american 1 171.783
+erie 1 168.332
+bruce 1 165.083
+pam 1 162.016
+bruno mars 1 159.114
+art 1 156.364
+mercedes 1 153.753
+usa network 1 151.269
+weber 2 149.902
+trey 1 148.902
+gracie gold 1 140.444
+
+=======================================GenerateGraph for AR====================================
+ar 24 3690.07
+continuum project 8 2374.43
+arkansas 11 1889.61
+little rock 7 1859.03
+conway 6 1679.32
+eric sheninger 3 1452.14
+jonesboro 3 1452.14
+zack towers 3 1452.14
+zach towers 3 1257.99
+fayetteville 8 1230.02
+towers 3 1125.5
+pakistan 4 1013.05
+fay 2 838.66
+norts 2 750.331
+twitter page 2 750.331
+mills 2 685.131
+middle east 2 559.774
+germany 4 520.398
+casino 2 506.526
+hugh hefner 1 484.047
+william shakespeare 1 484.047
+capital city 1 484.047
+james beard foundation 1 484.047
+tao 1 484.047
+james dolan 1 484.047
+arby 1 484.047
+alfred wright 1 484.047
+nathan scott 1 484.047
+mcbride 1 484.047
+las palmas 1 484.047
+uca 1 484.047
+us olympian 1 484.047
+quiznos 1 484.047
+tech 1 484.047
+adrian marcel 1 484.047
+holder 1 484.047
+violet 1 484.047
+chicken express 1 484.047
+algebra 2 1 484.047
+wifey 1 484.047
+alena 1 484.047
+god 17 470.882
+zack 3 469.092
+mechanic 2 466.096
+bill 3 461.258
+crocs 2 449.214
+tupac 2 449.214
+ole miss 2 420.33
+mcdonald's 2 420.33
+lux 1 419.33
+akon 1 419.33
+stevie nicks 1 419.33
+kayak 1 419.33
+flames 1 419.33
+ted cruz 1 419.33
+toro 1 419.33
+florida georgia line” 1 419.33
+state capitol 1 419.33
+tt 1 419.33
+christians 1 419.33
+secretary 1 419.33
+vhs 1 419.33
+springdale 1 419.33
+thea 1 419.33
+gregory 1 419.33
+kiki 1 419.33
+dudley 1 419.33
+union pacific 4 412.858
+vladimir putin 2 385.886
+twitter 23 376.16
+justina 1 375.166
+katelyn 1 375.166
+vin diesel 1 375.166
+grand canyon 1 375.166
+us olympic 1 375.166
+kim possible 1 375.166
+the lion king 1 375.166
+benjamin 1 375.166
+seinfeld 1 375.166
+cole swindell 1 375.166
+attn 1 375.166
+mason 2 367.149
+zach 3 344.566
+kraft foods 1 342.566
+levi strauss &amp 1 342.566
+aloe blacc 1 342.566
+harding 1 342.566
+winston churchill 1 342.566
+taiwan 1 342.566
+ralph lauren 1 342.566
+greene 1 342.566
+brandi 1 342.566
+juniors 1 342.566
+monster 1 342.566
+po 1 342.566
+lion king 1 342.566
+eureka 1 342.566
+reggie 2 324.031
+kevin hart 2 318.228
+alma 1 317.228
+
+=======================================GenerateGraph for NM====================================
+nm 37 4757.81
+albuquerque 13 2280.92
+louisiana blvd 5 1875.83
+new mexico 7 1631.33
+las cruces 3 1452.14
+brayden 3 1257.99
+abq 3 1257.99
+hobbs 3 1125.5
+david guetta 3 1125.5
+unm 2 968.093
+amazing grace 2 968.093
+town hall 2 968.093
+west coast 3 839.661
+cottonwood 2 838.66
+spm 2 838.66
+jim morrison 2 685.131
+carlsbad 2 685.131
+alameda 2 593.608
+santa fe 2 531.151
+morris 2 506.526
+edward cullen 1 484.047
+payson 1 484.047
+gamma 1 484.047
+cache 1 484.047
+marvin williams 1 484.047
+mandi 1 484.047
+bigfoot 1 484.047
+dr . dre 1 484.047
+assembly hall 1 484.047
+rft 2 449.214
+victor 3 433.459
+nyquil 2 420.33
+picasso 1 419.33
+cristian 1 419.33
+village inn 1 419.33
+faried 1 419.33
+lena 1 419.33
+paco 1 419.33
+phs 1 419.33
+goldfish 1 419.33
+nob hill 1 419.33
+chile 3 399.863
+wendy davis 1 375.166
+arab 1 375.166
+oli sykes 1 375.166
+chanel 1 375.166
+vp 1 375.166
+south padre 1 375.166
+roo 1 375.166
+zimmerman 1 375.166
+cleopatra 1 375.166
+roshe 1 375.166
+hunter moore 1 375.166
+gonzo 1 375.166
+christ jesus 1 342.566
+roswell 1 342.566
+the devil 1 342.566
+edith 1 342.566
+kathleen 1 342.566
+bakery service team member 1 342.566
+wb 1 342.566
+lobo 1 342.566
+luis 2 330.165
+andre 2 330.165
+andrew 3 329.771
+farmington 1 317.228
+donnie 1 317.228
+dmc 1 317.228
+clovis 1 317.228
+cake 1 317.228
+american indian 1 317.228
+cameron 2 302.538
+nemo 1 296.804
+beta 1 296.804
+viagra 1 296.804
+romeo santos 1 296.804
+allen 2 288.972
+lexi 1 279.887
+prius 1 279.887
+nicks 1 279.887
+hogan 1 279.887
+jody 1 265.575
+lolo jones 1 265.575
+tom brady 1 265.575
+spurs 1 265.575
+nas 1 265.575
+fort wayne 1 265.575
+iss 1 253.263
+empire 1 253.263
+wikipedia 1 253.263
+micah 1 253.263
+mario kart 1 253.263
+derrick rose 1 253.263
+aj 1 253.263
+zumba 1 253.263
+econ 2 251.444
+prepared foods service team member 1 242.523
+preston 1 242.523
+ferrari 1 242.523
+senate 1 242.523
+
+=======================================GenerateGraph for WV====================================
+wv 32 4163.19
+morgantown 11 2667.75
+wvu 3 1125.5
+shepherd 2 968.093
+d2 2 838.66
+czech rep 2 750.331
+st pete 2 750.331
+bdubs 2 685.131
+carson 3 673.821
+stephen a 3 578.83
+west virginia 2 559.774
+registered nurse job 2 559.774
+durant 4 533.15
+frisco 2 531.151
+jimmy john 2 531.151
+gina 3 526.367
+usa 30 499.012
+eisenhower 1 484.047
+durantula 1 484.047
+glover 1 484.047
+wanelo 1 484.047
+yassss 1 484.047
+rednecks 1 484.047
+elton john 1 484.047
+bayern munich vs arsenal 1 484.047
+barrett 1 484.047
+rents 1 484.047
+national anthem 1 484.047
+ray ray 1 484.047
+miner 1 484.047
+hhs 1 484.047
+sunnyside 1 484.047
+walkers 1 484.047
+chicago pd 1 484.047
+alena 1 484.047
+eliza 1 484.047
+service center 1 484.047
+steele 1 484.047
+daniels 1 484.047
+ne 5 469.812
+san juan 2 466.096
+charlie conway 1 419.33
+jameson 1 419.33
+paul walker 1 419.33
+redman 1 419.33
+the dmv 1 419.33
+virginia tech 1 419.33
+urbana 1 419.33
+interior 1 419.33
+dominican 1 419.33
+tony hawk 1 419.33
+dizzy wright 1 419.33
+bronson 1 419.33
+lamont 1 419.33
+karli 1 419.33
+the czechs 1 419.33
+vera bradley 1 419.33
+dark horse 2 396.405
+amp stitch 2 396.405
+marshall 2 385.886
+kevin spacey 2 385.886
+jackie 3 381.394
+spring hill 1 375.166
+the bozzuto group 1 375.166
+baby jesus 1 375.166
+phi kappa psi 1 375.166
+standard 1 375.166
+df 1 375.166
+shania twain 1 375.166
+zeus 1 375.166
+ciara 1 375.166
+khan 1 375.166
+moe 's southwest grill 1 375.166
+candace 1 375.166
+huntington 1 375.166
+winchester 1 375.166
+claire underwood 1 375.166
+snyder 1 375.166
+gotham 1 375.166
+index 1 375.166
+terri 1 375.166
+poulter 1 375.166
+grady 1 375.166
+clark 2 367.149
+delaney 1 342.566
+this olympics 1 342.566
+kraft foods 1 342.566
+poli 1 342.566
+richard sherman 1 342.566
+the cowboys 1 342.566
+dgd 1 342.566
+forrest gump 1 342.566
+red cross 1 342.566
+charleston 3 329.771
+dominique 1 317.228
+english professor 1 317.228
+katt williams 1 317.228
+hayley 1 317.228
+americans 1 317.228
+bridgeport 1 317.228
+
+=======================================GenerateGraph for ID====================================
+id 19 2337.75
+boise 7 1697.66
+idaho falls 2 968.093
+idaho 5 877.279
+moscow 3 839.661
+carli 2 750.331
+kandi 2 593.608
+corey smith 1 484.047
+twat 1 484.047
+dubois 1 484.047
+fred meyer 1 484.047
+kristina 1 484.047
+granger 1 484.047
+caldwell 1 484.047
+train crew 2 434.05
+ronald reagan 1 419.33
+twit 1 419.33
+lyfe jennings 1 419.33
+mexicali 1 419.33
+psychology 1 419.33
+yates 1 419.33
+brandon stanton 1 419.33
+sav 1 419.33
+phoebe 1 419.33
+khan 1 375.166
+state street 1 375.166
+post office 1 375.166
+flappy 1 375.166
+twitters 1 375.166
+tarzan 1 342.566
+tilly 1 342.566
+jason mraz 1 342.566
+eagle 1 342.566
+medicaid 1 317.228
+camille 1 317.228
+christina 2 312.728
+peyton 2 307.505
+viagra 1 296.804
+flint 1 296.804
+cosmo 1 296.804
+garden city 1 296.804
+nova 1 279.887
+fresenius medical care 1 279.887
+db 1 265.575
+iwo jima 1 265.575
+broccoli 1 265.575
+john wall 1 253.263
+rot 1 253.263
+steve jobs 1 253.263
+pharrell williams 1 242.523
+park city 1 242.523
+hayden 1 242.523
+the moon 1 242.523
+bora bora 1 233.048
+eugene 1 224.607
+candy 1 217.025
+starbucks 7 212.023
+fallon 1 210.165
+union pacific 2 206.429
+the capitol 1 203.92
+jade 1 203.92
+durham 1 192.943
+emerson 1 192.943
+lucas 1 192.943
+pedro 1 188.083
+wednesdays 1 183.574
+gossip girl 1 183.574
+shakira 1 179.377
+carly 1 175.456
+bob marley 1 168.332
+sf 2 165.299
+daisy 1 165.083
+temporary sales associate 1 165.083
+gracie 1 162.016
+pam 1 162.016
+mac miller 1 159.114
+christmas 2 158.721
+vegas 3 158.364
+kentucky 1 153.753
+hca 1 151.269
+kristen wiig 1 148.902
+verizon 1 148.902
+u.s 1 144.486
+jean 1 144.486
+us 2 144.443
+cali 2 141.443
+lilo 1 138.546
+paige 1 136.724
+aaron 1 133.288
+city 1 125.722
+mcdonalds 2 119.734
+ms 2 119.444
+ac 1 118.156
+perry 1 117.024
+jackson 1 115.924
+taco bell 2 113.803
+jim 1 112.803
+johnny 1 109.012
+anna 1 108.123
+ipod 1 107.256
+
+=======================================GenerateGraph for GA====================================
+ga 275 12334.6
+atlanta 142 7716.78
+atl 49 4751.61
+hartsfield-jackson atlanta international airport 30 4612.58
+georgia 46 3346.18
+savannah 19 2388.72
+macon 11 2387.27
+shaw industries 7 1959.21
+savannah ga 5 1875.83
+lenox square 5 1875.83
+dunwoody 5 1875.83
+augusta 9 1835.28
+decatur 8 1796.86
+orange crush 4 1677.32
+alexander lake 4 1677.32
+newnan 4 1677.32
+valdosta 6 1593.45
+marta 4 1500.66
+alpharetta 4 1500.66
+w atlanta 3 1452.14
+verde taqueria 3 1452.14
+georgia state university 3 1452.14
+susie angie 3 1452.14
+hopper 3 1452.14
+bantam 3 1452.14
+buford 3 1452.14
+georgia day 3 1452.14
+wilcox 3 1452.14
+lake mayer park 3 1452.14
+arjun 3 1452.14
+athens 11 1414.49
+smyrna 5 1399.43
+marietta 6 1302.15
+yik yak 3 1257.99
+georgia southern 3 1257.99
+sandy springs 3 1257.99
+lenox 3 1257.99
+uga 4 1187.22
+accountable healthcare staffing 10 1181.56
+statesboro 3 1125.5
+emory 3 1125.5
+tate 4 1062.3
+ait 3 1027.7
+gsu 3 1027.7
+roswell 3 1027.7
+dekalb 3 1027.7
+brandy 2 968.093
+lennox 2 968.093
+value village 2 968.093
+georgia tech 2 968.093
+scad 2 968.093
+acm 2 968.093
+wall st 2 968.093
+falcons 2 968.093
+jo 3 951.683
+albany 8 910.523
+twitter 55 899.514
+google fiber 10 896.859
+sav 2 838.66
+wwf 2 838.66
+north campus 2 838.66
+lobster 2 838.66
+lpn 2 838.66
+amor 3 796.726
+god 28 775.57
+rn 8 756.332
+woodstock 2 750.331
+melrose 2 750.331
+grady 2 750.331
+ami 2 750.331
+civic center 2 750.331
+neiman marcus 2 750.331
+december 2 750.331
+dese 2 750.331
+cna 2 750.331
+ec 2 750.331
+columbus 9 747.372
+ellie 5 733.22
+venice 3 727.569
+duluth 3 727.569
+tim riggins 3 727.569
+lacey 3 699.144
+geico 3 699.144
+lebron 12 696.718
+teague 2 685.131
+carver 2 685.131
+tim mcgraw 2 685.131
+martina 2 685.131
+freddie 2 685.131
+the boro 2 685.131
+napa 3 673.821
+sean paul 2 634.456
+rebelution 2 634.456
+cobb 2 634.456
+chickfila 3 630.496
+dalton 2 593.608
+ipad air 2 593.608
+satan 2 593.608
+lola 3 578.83
+russell 3 578.83
+
+=======================================GenerateGraph for DC====================================
+dc 124 7086.97
+washington 78 5938.48
+national museum 11 2785.89
+national air 10 2655.75
+united states 35 2574.17
+union station 8 1940.18
+washington monument 5 1875.83
+d.c 8 1681.32
+georgetown cupcake 4 1677.32
+american indian 5 1586.14
+natural history 6 1519.58
+polina edmunds 7 1471.16
+ross greene 3 1452.14
+women pac 3 1452.14
+ogilvy 3 1452.14
+united states 's trends 3 1452.14
+czech republic 4-1 5 1266.31
+library of congress 3 1257.99
+washington dc 3 1125.5
+georgetown 6 1101.45
+ukrainians 2 968.093
+washington d.c 2 968.093
+douglass 2 968.093
+washington wizards 2 968.093
+black dynamite 2 968.093
+iraq 3 951.683
+au 4 898.428
+national 3 890.412
+white house 5 877.279
+luigi 3 839.661
+aca 2 838.66
+kyiv 2 838.66
+prez 2 838.66
+senses 2 750.331
+the bozzuto group 2 750.331
+dalai lama 2 750.331
+greene 2 685.131
+keynote 2 634.456
+kiev 6 619.287
+middle east 2 559.774
+clark 3 550.723
+twitter 33 539.709
+google fiber 6 538.115
+homer bailey 7 535.074
+iphone 13 517.39
+metro 3 504.996
+android 5 498.007
+venezuela 10 497.122
+rotunda 1 484.047
+uncle ben 1 484.047
+clown crisis 1 484.047
+mali 1 484.047
+ccm 1 484.047
+edmunds 1 484.047
+conor 1 484.047
+roselinde torres 1 484.047
+glover 1 484.047
+geek history 1 484.047
+github 1 484.047
+tm 1 484.047
+tpa 1 484.047
+gentlemen 1 484.047
+green machine 1 484.047
+emacs 1 484.047
+university of phoenix 1 484.047
+lillard 1 484.047
+lviv 1 484.047
+gu 1 484.047
+hu 1 484.047
+east end 1 484.047
+johns 1 484.047
+fda 1 484.047
+blackburn 1 484.047
+woody allen 1 484.047
+diet pepsi 1 484.047
+clarendon 1 484.047
+bruce springsteen 1 484.047
+howard 3 469.092
+dunkin donuts 2 466.096
+harvard 3 461.258
+noodles 2 434.05
+carol 2 420.33
+alec 2 420.33
+dallas buyers club 1 419.33
+ja 1 419.33
+nixon 1 419.33
+cosi 1 419.33
+secretary 1 419.33
+coca cola 1 419.33
+tae 1 419.33
+natalia 1 419.33
+sanders 1 419.33
+cunningham 1 419.33
+beard foundation 1 419.33
+um 1 419.33
+tony parker 1 419.33
+nancy pelosi 1 419.33
+wholefoods 1 419.33
+bryn 1 419.33
+psychology 1 419.33
+
+=======================================GenerateGraph for NJ====================================
+nj 446 17150.5
+xfactor pls 172 11144.7
+revelation blue : the living waters 20 3761.66
+jersey city 15 3152.48
+ewr 12 2910.28
+newark 22 2862.19
+newark liberty international airport 11 2785.89
+panera bread 26 2626
+atlantic city 12 2315.32
+huntington beach 11 2311.82
+jersey 18 2238.46
+cherry hill 7 2220.59
+barnabas health 7 2220.59
+hourly associate 16 2187.59
+usa 126 2095.85
+hoboken 7 2077.63
+paramus 7 2077.63
+njt 5 1875.83
+mama steph 5 1875.83
+rutgers business school 5 1875.83
+short hills 4 1677.32
+parsippany 4 1677.32
+piscataway 4 1677.32
+river horse 4 1677.32
+the mitten 4 1677.32
+new jersey 10 1650.83
+bergen 4 1500.66
+brookdale 3 1452.14
+paterson 3 1452.14
+shady katie 3 1452.14
+usa bobsled team 3 1452.14
+pequannock 3 1452.14
+newport centre 3 1452.14
+cody janks 3 1452.14
+south orange 3 1452.14
+new jersey state 3 1452.14
+toms river 3 1452.14
+fort dix 3 1452.14
+montclair 3 1452.14
+victor train 3 1452.14
+revelation blue : the 3 1452.14
+morristown high school 3 1452.14
+camden 6 1398.29
+rowan 4 1370.26
+philly 17 1320.84
+twitter 80 1308.38
+canada 94 1291.53
+caesar 4 1268.91
+rutgers 4 1268.91
+latvia 70 1238.29
+darren collison 8 1155.89
+neptune 3 1125.5
+trenton 5 1123.04
+starbucks 37 1120.69
+sofia 3 1027.7
+dustin brown 15 1010.27
+ocean 6 990.496
+thornton 6 990.496
+mhs 4 970.092
+franklin avenue 2 968.093
+woodbury 2 968.093
+kenilworth 2 968.093
+u2 2 968.093
+lynda 2 968.093
+scarlett 2 968.093
+tim hardaway 2 968.093
+medical director 2 968.093
+james beard foundation 2 968.093
+flemington 2 968.093
+morristown 2 968.093
+tamia 2 968.093
+if knicks 2 968.093
+angela 24 958.198
+felton 10 933.937
+dunkin donuts 4 932.191
+arsenal 23 915.382
+callahan 6 907.613
+elizabeth 5 896.883
+knicks 11 896.585
+derek jeter 19 892.754
+kessel 13 872.87
+union 5 858.913
+harden 4 840.661
+lauryn hill 3 839.661
+zidlicky 2 838.66
+new brunswick 2 838.66
+tanya 2 838.66
+burn notice 2 838.66
+bjswholesale club 2 838.66
+shady 2 838.66
+yaaaaas 2 838.66
+ac 7 827.091
+avocado 3 796.726
+the knicks 7 796.707
+liz 6 789.987
+wayne 6 789.987
+phil kessel 8 786.078
+colombia 4 771.773
+kesler 4 771.773
+reggie bullock 3 759.788
+
+=======================================GenerateGraph for San Francisco====================================
+san francisco 170 9448.22
+sf 32 2644.79
+opened graffiti 7 2220.59
+conservatory of flowers 7 2220.59
+ca 29 1575.96
+city college 3 1452.14
+crissy field 3 1452.14
+monterey blvd 3 1452.14
+kite hill open space 3 1452.14
+square hq 3 1452.14
+ocean beach 3 1452.14
+san francisco va medical center 3 1452.14
+nob hill 3 1257.99
+iphone 29 1154.18
+blue bottle coffee 3 1027.7
+twitter hq 2 968.093
+san pablo 2 968.093
+common arsenal 2 968.093
+the door 2 968.093
+golden gate park 2 968.093
+james beard award 3 890.412
+the bay 2 838.66
+kearney 2 838.66
+pothole 2 838.66
+mog 2 838.66
+golden gate bridge 3 796.726
+terra 3 796.726
+robby 2 750.331
+union square 2 750.331
+south bay 2 685.131
+bart 2 634.456
+simon 3 630.496
+yaya sanogo 3 630.496
+chinatown 2 559.774
+bsu 2 531.151
+msn 1 484.047
+cyclist 1 484.047
+ricky martin 1 484.047
+wonder woman 1 484.047
+samuel l 1 484.047
+bebo 1 484.047
+waller 1 484.047
+amp fitch 1 484.047
+github 1 484.047
+intersection 1 484.047
+zoe barnes 1 484.047
+mandarin 1 484.047
+sfc 1 484.047
+clarendon 1 484.047
+strider 1 484.047
+api 1 484.047
+macbook air 1 484.047
+washington square park 1 484.047
+ken ham 1 484.047
+in vein 1 484.047
+women 's gold 1 484.047
+lucia 1 484.047
+king street 1 484.047
+senator 1 484.047
+pulp fiction 1 484.047
+mount everest 1 484.047
+hyde 1 484.047
+oval office 1 484.047
+philz coffee 1 484.047
+itunes radio 2 434.05
+cbs 2 420.33
+dachis group 1 419.33
+rust 1 419.33
+al gore 1 419.33
+north lake 1 419.33
+istanbul 1 419.33
+dropbox 1 419.33
+shin 1 419.33
+jerry seinfeld 1 419.33
+khl 1 419.33
+michaels 1 419.33
+google capital 1 419.33
+rails 1 419.33
+guess i'm 1 419.33
+music festival 1 419.33
+sloane 1 419.33
+napoli 1 419.33
+kate moss 1 419.33
+jenkins 1 419.33
+sv 1 419.33
+renee 2 407.84
+bay area 2 407.84
+disney princess 1 375.166
+dominion 1 375.166
+melvin 1 375.166
+twin peaks 1 375.166
+healy 1 375.166
+hq 1 375.166
+rocco 1 375.166
+jos 1 375.166
+officeteam 1 375.166
+daily 1 375.166
+civic center 1 375.166
+jana 1 375.166
+roc 1 375.166
+
+=======================================GenerateGraph for British Columbia====================================
+vancouver 53 4422.25
+bc 44 3636.59
+ml 24 2731.57
+canada 194 2665.5
+british columbia 9 2390.18
+britannia beach 5 1875.83
+britannia 5 1875.83
+princeton 7 1772.84
+latvia 100 1768.99
+christy clark 4 1677.32
+surrey 4 1677.32
+vancouver international airport 3 1452.14
+big white resort 3 1452.14
+canuck 3 1452.14
+yaletown 3 1452.14
+tnt 15 1418.12
+canucks 6 1398.29
+nanaimo 3 1257.99
+scandinavia 3 1125.5
+yvr 3 1125.5
+north america 7 1113.8
+tbl 2 968.093
+ranger 4 868.099
+weber 11 824.462
+team canada 12 803.257
+kasi 2 750.331
+ovie 2 750.331
+latvian 5 744.51
+richmond 7 712.053
+john tavares 5 702.218
+john green 2 685.131
+granville 2 685.131
+jim hughson 2 634.456
+kaillie humphries 3 630.496
+mike babcock 3 578.83
+babcock 4 577.945
+rob ford 2 559.774
+tv 4 539.891
+ottawa 4 539.891
+argentina 3 538.13
+nolan 4 533.15
+giroux 2 531.151
+melbourne 2 531.151
+subban 4 526.658
+shea weber 7 524.657
+russia 17 516.137
+nhl 7 505.549
+pk 3 495.248
+sidney 2 485.046
+pk subban 2 485.046
+abbott 1 484.047
+pak 1 484.047
+turks 1 484.047
+blue sky 1 484.047
+buffy 1 484.047
+fd 1 484.047
+julianna 1 484.047
+the gold 1 484.047
+student union building 1 484.047
+the latvian goalie 1 484.047
+spider 1 484.047
+rushmore 1 484.047
+janet mock 1 484.047
+guardian 1 484.047
+geek history 1 484.047
+the blades 1 484.047
+songza 1 484.047
+kristin wiig 1 484.047
+tracey 1 484.047
+jacqueline 1 484.047
+petro canada 1 484.047
+peach 1 484.047
+teemu 1 484.047
+globe 1 484.047
+joseph gordon-levitt 1 484.047
+goliath 1 484.047
+lululemon 1 484.047
+latvian goalie 1 484.047
+kickstarter 1 484.047
+fiddler 1 484.047
+glen healy 1 484.047
+alhambra 1 484.047
+walkers 1 484.047
+ipad 6 454.999
+ted nolan 5 450.942
+harper 2 449.214
+keith 3 446.706
+nash 3 439.932
+pink floyd 2 434.05
+finland 9 433.939
+metallica 2 420.33
+ml 2.3 1 419.33
+oilers 1 419.33
+iginla 1 419.33
+iraqi 1 419.33
+pacific ocean 1 419.33
+waka 1 419.33
+cullen 1 419.33
+the lions 1 419.33
+ei 1 419.33
+
+=======================================GenerateGraph for Coahuila de Zaragoza====================================
+coahuila 15 3152.48
+saltillo 10 2655.75
+coahuila de zaragoza 5 1875.83
+ramos arizpe 5 1875.83
+piedras negras 4 1677.32
+carmen romano 4 1677.32
+innovación productiva 3 1452.14
+matamoros 2 968.093
+plaza real 2 968.093
+universidad del valle 2 968.093
+uvm 2 968.093
+bueno 3 951.683
+cinco 2 838.66
+barack obama 2 559.774
+h-e-b 1 484.047
+blanco 1 484.047
+gómez palacio 1 484.047
+manda 1 484.047
+essien 1 484.047
+instituto tecnológico 1 484.047
+oxxo 1 484.047
+toluca 2 466.096
+atlas 1 419.33
+benjamin franklin 1 419.33
+era 1 419.33
+manuel neuer 2 407.84
+minnie 1 375.166
+gran 1 375.166
+viernes 1 375.166
+santos 1 375.166
+plaza 1 342.566
+royals 1 342.566
+leopoldo lópez 1 342.566
+nos 1 317.228
+todas 1 317.228
+camino 1 317.228
+esta 1 317.228
+bass 1 317.228
+bayern münchen 1 317.228
+true love 1 317.228
+aqui 1 296.804
+prince royce 1 296.804
+alameda 1 296.804
+lorde 1 296.804
+nada 2 284.843
+central 1 279.887
+milan 3 257.85
+monterrey 3 253.998
+del arsenal 1 242.523
+durango 1 242.523
+gracias 2 225.607
+centro 1 224.607
+estas 1 224.607
+nunca 1 198.203
+hoy 1 183.574
+las 1 179.377
+baker hughes 1 175.456
+cara 1 175.456
+norway 1 168.332
+luis 1 165.083
+génesis carmona 1 159.114
+wall street 1 159.114
+mexico 2 118.304
+don 1 115.924
+ella 1 108.123
+arsenal 2 79.5985
+venezuela 1 49.7122
+miami 1 45.8497
+facebook 1 35.2422
+charles dickens 2 12
+saltillo coahuila 2 12
+emilio antonio rivera duarte 2 12
+hospital universitario 2 12
+la feria internacional 2 12
+torreón 2 12
+vera la champions 2 12
+monclova 2 12
+office depot 1 6
+mcdonald 's reforma 1 6
+registro publico gobierno 1 6
+la campaña 1 6
+colonia la minita 1 6
+villarreal 1 6
+la casa 1 6
+luxiérnaga creative studio 1 6
+enteh casa 1 6
+moriré 1 6
+elle style- grandes 1 6
+del periférico 1 6
+la pirámide azul 1 6
+la pestaña 1 6
+mercado de abastos benito juárez 1 6
+la ballena feliz 1 6
+módulo 1 6
+este dom 1 6
+lázaro cárdenas 1 6
+jajajajajajajaja hay 1 6
+kendall schmidt 1 6
+instalación de software 1 6
+biblioparque saltillo sur 1 6
+
+=======================================GenerateGraph for MO====================================
+mo 167 10096.6
+kansas city 37 4329.89
+st . louis 35 3753.95
+saint louis 17 3466.64
+saint luke 12 2796.57
+mizzou 13 2650.96
+springfield 21 2583.83
+blue springs 8 2374.43
+jefferson city 7 2220.59
+spd 6 2055.39
+gateway arch 5 1875.83
+carthage 5 1875.83
+mizzou wireless 5 1875.83
+crown center 4 1677.32
+mo job 4 1677.32
+st louis 7 1631.33
+hailey owens 8 1543.55
+stl 8 1543.55
+mercy health 8 1504.67
+kc 7 1471.16
+don draper 3 1452.14
+top20 of st 3 1452.14
+kansas city international airport 3 1452.14
+patient care associate 3 1452.14
+bethesda health group 3 1452.14
+art institute of st 3 1452.14
+lees summit 3 1452.14
+mci 3 1452.14
+cape girardeau 3 1452.14
+helzberg penguin plaza 3 1452.14
+webster groves 3 1452.14
+columbia 12 1341.82
+owens 5 1327.88
+the blues 4 1268.91
+st charles 3 1257.99
+missouri 7 1134.11
+shattenkirk 3 1027.7
+duran duran 2 968.093
+shiv 2 968.093
+joplin 2 968.093
+saint charles 2 968.093
+rolla 2 968.093
+steel panther 2 968.093
+myers 3 951.683
+usa 55 914.856
+teal bunbury 3 890.412
+kansas 7 889.919
+boston marathon 3 839.661
+the arsenal 2 838.66
+rachel ray 2 838.66
+the hunger 2 838.66
+canada 58 796.903
+qdoba 3 759.788
+ima stoner 2 750.331
+chanel 2 750.331
+pietrangelo 2 750.331
+wood 2 750.331
+petro 2 750.331
+blues 3 699.144
+latvia 39 689.905
+chesterfield 2 685.131
+tj oshie 4 673.328
+andy 6 665.154
+david backes 9 636.496
+marilyn manson 2 593.608
+bill nye 4 586.576
+holly 3 578.83
+oshie 3 564.249
+msu 3 564.249
+us-canada 2 559.774
+tom brady 2 531.151
+dollar general corporation 2 531.151
+sami 2 531.151
+god 19 526.279
+louis 6 518.348
+lou 3 515.348
+super bowl 3 515.348
+ai 3 515.348
+peter 4 514.358
+hayden 2 485.046
+michael sam 2 485.046
+intern 2 485.046
+civics 1 484.047
+five_guys 1 484.047
+northwestern mutual 1 484.047
+dyson 1 484.047
+washington square park 1 484.047
+taj mahal 1 484.047
+phil fucking kessel 1 484.047
+monet 1 484.047
+sfc 1 484.047
+nugget 1 484.047
+denzel washington 1 484.047
+wi-fi 1 484.047
+jetta 1 484.047
+slu 1 484.047
+pcc 1 484.047
+wells 1 484.047
+multi-tasking 1 484.047
+hay day 1 484.047
+
+=======================================GenerateGraph for OH====================================
+ohio 89 6070
+columbus 64 5314.65
+cleveland 54 4594.73
+cincinnati 36 4134.79
+kent 24 3325.1
+toledo 17 3120.76
+mansfield 15 2386.71
+elyria 8 2374.43
+bg 9 2279.36
+dayton 13 2233.17
+usa 134 2228.92
+gov kasich 6 2055.39
+akron 8 2026.1
+twitter 115 1880.8
+cavs 12 1876.37
+i-271 sb 5 1875.83
+wbc 6 1780.82
+homer bailey 22 1681.66
+chester ave 4 1677.32
+i-90 eb 4 1677.32
+tuc 4 1677.32
+grass grass 4 1677.32
+red velvet cafe 4 1677.32
+buildthefuture rep ryan 4 1677.32
+dion 5 1586.14
+athens 12 1543.07
+canton 10 1537.53
+america 45 1485.63
+mr . president barack hussein obama 3 1452.14
+bromley 3 1452.14
+westboro baptist church 3 1452.14
+kettering 3 1452.14
+ohio university 3 1452.14
+barberton 3 1452.14
+ysu 3 1452.14
+tuttle crossing 3 1452.14
+latos 3 1452.14
+kevin martin 3 1452.14
+cbus 3 1452.14
+cueto 3 1452.14
+anderson towne center 3 1452.14
+latvia 81 1432.88
+the cavs 7 1427.44
+canada 102 1401.45
+blue ash 4 1370.26
+sinclair 4 1370.26
+bailey 12 1319.09
+harrison barnes 7 1285.02
+tom cruise 5 1266.31
+bedford 6 1260.99
+eastlake 3 1257.99
+westboro baptist 3 1257.99
+pretty ricky 3 1257.99
+findlay 3 1257.99
+kent state 3 1257.99
+youngstown 3 1257.99
+indians 5 1212.62
+oh 4 1187.22
+ksu 5 1165.24
+candace 3 1125.5
+medina 3 1125.5
+kay kay 3 1125.5
+browns 4 1119.55
+homer 5 1085.12
+joey votto 4 1062.3
+jesus 20 1040.24
+esther 3 1027.7
+lima 3 1027.7
+bob evans 3 1027.7
+keyshia cole 3 1027.7
+juliet 5 991.013
+general assembly 2 968.093
+amp gamble 2 968.093
+owl city 2 968.093
+demetrius 2 968.093
+flordia 2 968.093
+mixx 2 968.093
+ohio governor 2 968.093
+uncle joe 2 968.093
+ccm 2 968.093
+ansonia 2 968.093
+jarrod 2 968.093
+lukes 2 968.093
+velma 2 968.093
+bynum 2 968.093
+camila 2 968.093
+jhené aiko 2 968.093
+lil wayne 7 957.07
+clifton 3 951.683
+chipotle 14 948.82
+god 34 941.763
+ohio state 4 932.191
+baker 4 932.191
+russia 30 910.831
+luol deng 6 907.613
+michaela 4 898.428
+votto 3 890.412
+arturs irbe 3 890.412
+taco bell 15 853.525
+austin rivers 4 840.661
+
+=======================================GenerateGraph for CT====================================
+ct 212 11407.6
+danbury 12 2910.28
+new haven 8 2374.43
+uconn 8 2124.6
+ct assistant store manager 6 2055.39
+woodbury ski area 5 1875.83
+boston post rd 5 1875.83
+connecticut 11 1851.65
+stamford 5 1712.83
+storrs 4 1677.32
+quinnipiac 4 1677.32
+hamden 4 1677.32
+waterbury 4 1677.32
+west haven 4 1677.32
+south norwalk 3 1452.14
+norwalk 3 1452.14
+danbury hospital 3 1452.14
+north haven 5 1327.88
+hartford 5 1266.31
+avon 4 1187.22
+punta cana 3 1125.5
+starbucks 37 1120.69
+stratford 2 968.093
+washington avenue 2 968.093
+mill road 2 968.093
+west hartford 2 968.093
+hourly associate 7 957.07
+new england 8 918.841
+us hockey 4 898.428
+yale 3 890.412
+usa 51 848.321
+suzy 2 838.66
+western 2 838.66
+marquis 2 838.66
+guilford 2 838.66
+panera bread 8 808
+tom cruise 3 759.788
+df 2 750.331
+temple 4 701.823
+latin 2 685.131
+shamrock 3 673.821
+citizens financial group 3 673.821
+xavier 3 651.074
+eastern 2 634.456
+french montana 2 634.456
+supernatural 2 634.456
+canada 46 632.026
+derek jeter 13 610.832
+ed sheeran 2 593.608
+york 2 593.608
+unh 2 593.608
+latvia 32 566.076
+aids 2 559.774
+usa vs canada 3 550.723
+cher 2 531.151
+belgium 2 531.151
+tmz 2 531.151
+usa hockey 13 511.528
+twitter 31 506.999
+discovery 2 506.526
+lady 2 485.046
+el pueblo 1 484.047
+ry 1 484.047
+travis barker 1 484.047
+american express 1 484.047
+the english 1 484.047
+reggie evans &amp 1 484.047
+roseanne 1 484.047
+xander 1 484.047
+tic tac 1 484.047
+lula 1 484.047
+russian olympic 1 484.047
+velma 1 484.047
+boomer 1 484.047
+mckenzie 1 484.047
+leila 1 484.047
+academy 1 484.047
+dinosaur bar-b-que 1 484.047
+midget 1 484.047
+snow white 1 484.047
+wayne gretzky 1 484.047
+taryn 1 484.047
+jeff teague 1 484.047
+spinal tap 1 484.047
+amp kane 1 484.047
+amp kanye 1 484.047
+omer asik 1 484.047
+nick cave 1 484.047
+kdtrey5 1 484.047
+park street 1 484.047
+mr . smith 1 484.047
+adam levine 1 484.047
+longhorn 1 484.047
+stephen king 1 484.047
+the gold 1 484.047
+mazda 1 484.047
+wu tang 1 484.047
+eduardo nunez 1 484.047
+mcmahon 1 484.047
+louis hair 1 484.047
+
+=======================================GenerateGraph for MI====================================
+mi 204 10175.2
+michigan 111 7522.78
+detroit 67 5340.33
+grand rapids 20 3671.49
+ann arbor 21 3607.43
+usa 173 2877.64
+sterling heights 11 2785.89
+kalamazoo 9 2518.98
+lansing 9 2390.18
+canada 164 2253.31
+cmu 8 2239.1
+romulus 7 2220.59
+east lansing 6 2055.39
+bryan smith 5 1875.83
+connie helton 5 1875.83
+latvia 104 1839.75
+meijer 6 1780.82
+flint 6 1780.82
+battle creek 6 1780.82
+secretary of state 5 1712.83
+allendale 4 1677.32
+wayne county airport 4 1677.32
+charles comstock 4 1677.32
+shortsbrewing @ where white gurl 4 1677.32
+metro detroit 4 1677.32
+muskegon 4 1500.66
+waterford 4 1500.66
+mi house 3 1452.14
+grosse pointe music academy 3 1452.14
+boyne mountain resort 3 1452.14
+southfield 3 1452.14
+trooper 3 1452.14
+chrysler warren truck assembly plant 3 1452.14
+n beacon blvd 3 1452.14
+oakland university 3 1452.14
+brandon romero 3 1452.14
+judge rhodes 3 1452.14
+grand valley state university 3 1452.14
+shannon comstock 3 1452.14
+cedar springs 3 1452.14
+ferndale 3 1452.14
+ypsilanti 3 1452.14
+web 4 1370.26
+twitter 77 1259.32
+mason county 3 1257.99
+new black 3 1257.99
+trooper butterfield 3 1257.99
+kaya 3 1257.99
+brand new 5 1212.62
+angela 29 1157.82
+university of michigan 3 1125.5
+young jeezy 3 1125.5
+kzoo 3 1125.5
+birmingham 8 1108.37
+usa hockey 27 1062.4
+florida 29 1039.97
+james taylor 3 1027.7
+macomb 3 1027.7
+dearborn 3 1027.7
+brando 3 1027.7
+mr harris 2 968.093
+berkley 2 968.093
+chicago bulls 2 968.093
+saginaw 2 968.093
+wayne state 2 968.093
+rochester hills 2 968.093
+bradley beal 2 968.093
+the gym 2 968.093
+rip bryan 2 968.093
+emacs 2 968.093
+geodude 2 968.093
+franklin st 2 968.093
+northern michigan 2 968.093
+biggby coffee 2 968.093
+baby boomer 2 968.093
+crescent electric supply 2 968.093
+verona 2 968.093
+remember the titans 2 968.093
+mott 2 968.093
+farmington 3 951.683
+leland 3 951.683
+josh smith 3 951.683
+lincoln park 3 951.683
+msu 5 940.416
+dwight howard 5 940.416
+liz 7 921.651
+northern 4 898.428
+northwood 3 890.412
+plymouth 4 868.099
+taylor 11 865.502
+catherine 3 839.661
+enders 2 838.66
+celia 2 838.66
+lili 2 838.66
+justin moore 2 838.66
+remy 2 838.66
+wrigley 2 838.66
+belle isle 2 838.66
+belleville 2 838.66
+big rapids 2 838.66
+
+=======================================GenerateGraph for Alberta====================================
+calgary 65 6565
+alberta health 57 6373.64
+ab 50 5450.62
+alberta health services 26 4292.15
+tec centre 7 2220.59
+alberta 11 2180.23
+bareback boss 5 1875.83
+canada 107 1470.15
+nurse 8 1468.59
+bow trail 3 1452.14
+calgary international airport 3 1452.14
+undergrad nurse 3 1452.14
+gr9 art gallery tour 3 1452.14
+licensed practical nurse 5 1399.43
+edmonton 4 1268.91
+papa jack 2 968.093
+jacobs 4 932.191
+lpn 2 838.66
+banff 2 838.66
+iii 2 750.331
+latvians 2 685.131
+humphries 2 634.456
+jim hughson 2 634.456
+weber 8 599.609
+the national 2 593.608
+pei 2 593.608
+cbc 4 554.184
+nolan 4 533.15
+repost 2 531.151
+duchene 2 531.151
+latvia 29 513.006
+mercedes-benz 1 484.047
+san nicolas 1 484.047
+sunnyside 1 484.047
+globe 1 484.047
+siena 1 484.047
+the fins 1 484.047
+service representative trainee 1 484.047
+women 's gold 1 484.047
+azusa 1 484.047
+yanks 2 466.096
+rogers 2 466.096
+logan 4 455.261
+kaillie humphries 2 420.33
+dover 2 420.33
+cannon 1 419.33
+the sabres 1 419.33
+inglewood 1 419.33
+leigh 1 419.33
+iginla 1 419.33
+canada” 1 419.33
+crosby 6 395.625
+teddy 1 375.166
+teddy nolan 1 375.166
+elvis presley 1 375.166
+alzheimer 1 375.166
+gonzo 1 375.166
+corey perry 1 375.166
+eiffel tower 1 375.166
+etsy 1 375.166
+ted nolan 4 360.753
+heather moyse 2 358.753
+china 4 352.912
+gravity 2 350.911
+philip 1 342.566
+mills 1 342.566
+iv 1 342.566
+shea webber 1 342.566
+bert 1 342.566
+team canada 5 334.69
+se 3 321.767
+north american 1 317.228
+burke 1 317.228
+oshawa 1 317.228
+venezuelan 1 317.228
+alma 1 317.228
+mercedes 2 307.505
+shea weber 4 299.804
+dt 1 296.804
+sana 1 296.804
+nash 2 293.288
+canadian 3 290.915
+xmas 1 279.887
+roads 1 279.887
+np 1 279.887
+halloween 1 279.887
+ovechkin 2 269.946
+windsor 1 265.575
+delay 1 265.575
+service representative 1 265.575
+subban 2 263.329
+wii 1 253.263
+joaquin 1 253.263
+women 2 246.079
+russia 8 242.888
+bob dylan 1 242.523
+brentwood 1 242.523
+apple tv 1 242.523
+ii 1 242.523
+mandy 1 242.523
+
+=======================================GenerateGraph for TX====================================
+tx 1047 27339.7
+houston 266 12028.2
+dallas 204 10331.9
+san antonio 103 8138.96
+austin 164 8033.66
+baylor health 75 7320.69
+texas 141 6715.17
+memorial hermann 63 6551.11
+baylor health care system 36 5055.97
+dfw 38 4943.78
+houston methodist hospital 26 4292.15
+el paso 29 4252.68
+baylor 28 3987.8
+rn 41 3876.2
+twitter 220 3598.06
+rondo 60 3173.25
+plano 15 3152.48
+jay fam 14 3144.5
+galveston 14 3038.35
+fort worth 14 3038.35
+dfw airport 13 3029.62
+san marcos 19 3023.16
+city of houston 11 2785.89
+aus 11 2785.89
+iah 11 2785.89
+corpus christi 11 2785.89
+round rock 10 2655.75
+college station 10 2655.75
+george bush intercontinental airport 10 2655.75
+pearland 10 2655.75
+pv 11 2563.53
+austin bergstrom international airport 9 2518.98
+tx customer service representative 9 2518.98
+old red museum 8 2374.43
+san antonio international airport 8 2374.43
+arlington 17 2355.28
+parsons 19 2267.11
+lubbock 10 2246.07
+god 81 2243.61
+garland 8 2239.1
+tamucc 8 2239.1
+state dept 8 2239.1
+mckinney 7 2220.59
+whataburger 8 2124.6
+heb 7 2077.63
+crowley 7 2077.63
+knop 6 2055.39
+rn ii 6 2055.39
+i-45 inbound 6 2055.39
+tx assistant store manager 6 2055.39
+irving 10 2039.2
+rev 6 1903.37
+tellepsen 5 1875.83
+associate inside sales account manager 5 1875.83
+mamacita 5 1875.83
+unt 5 1875.83
+prn 5 1875.83
+william barber 5 1875.83
+denton 5 1875.83
+northwest vista college 5 1875.83
+clarkson 5 1875.83
+white genocide 5 1875.83
+cedar hill 5 1875.83
+utsa 5 1875.83
+port arthur 5 1875.83
+north texas 5 1875.83
+toluca 8 1864.38
+waco 8 1864.38
+southlake 6 1780.82
+carrollton 6 1780.82
+richardson 6 1780.82
+baker hughes 10 1754.56
+sxsw 10 1717.83
+flex 14 1704.66
+lbj 7 1697.66
+albert 10 1683.32
+kenneth bae 4 1677.32
+m university 4 1677.32
+downtown austin 4 1677.32
+pit bull 4 1677.32
+san angelo 4 1677.32
+neveah 4 1677.32
+lufkin 4 1677.32
+michael berry 4 1677.32
+icu 4 1677.32
+amc willowbrook 4 1677.32
+sam houston 4 1677.32
+josh gordon 4 1677.32
+austin texas 4 1677.32
+jessika 4 1677.32
+jacob 14 1622.94
+ft 17 1597.36
+atx 6 1593.45
+taco bell 28 1593.25
+killeen 5 1586.14
+grapevine 5 1586.14
+ibm 5 1586.14
+accountable healthcare staffing 13 1536.03
+pg 6 1519.58
+leslie 6 1519.58
+
+=======================================GenerateGraph for Sinaloa====================================
+sinaloa 16 2937.19
+culiacan 6 2055.39
+mazatlan 3 1452.14
+mazatlán 3 1452.14
+harmon hall 3 1452.14
+expoagro 3 1452.14
+sin 7 1202.48
+facultad de medicina 2 750.331
+aqui 2 593.608
+tienen 1 484.047
+méxico 1 484.047
+nogales 1 484.047
+primera 1 484.047
+esperanza 1 484.047
+centro histórico 1 484.047
+verve 1 484.047
+gracias 4 451.214
+bebe 1 419.33
+venga arsenal 1 419.33
+emilio 1 419.33
+jamás 1 419.33
+guadalajara 1 419.33
+escuela 1 419.33
+alguien 1 375.166
+las 2 358.753
+abraham 1 342.566
+ella 3 324.37
+kiwi 1 296.804
+bambi 1 279.887
+uf 1 253.263
+bien 1 192.943
+shakira 1 179.377
+andrea 1 175.456
+para 1 159.114
+nada 1 142.421
+lee 1 140.444
+rihanna 1 110.859
+queen 1 108.123
+kim yuna 1 107.256
+milan 1 85.95
+victoria 1 85.95
+la 2 82.8831
+sf 1 82.6497
+david 1 75.2416
+al 1 63.1885
+mexico 1 59.152
+alex 1 57.7962
+dallas 1 50.6467
+mi 1 49.8782
+venezuela 1 49.7122
+iphone 1 39.7992
+expo agro sinaloa 2 12
+edificio dafi 2 12
+carnitas 2 12
+gracias vida 1 6
+tienda telmex 1 6
+fascinante 1 6
+vemma 1 6
+el bibiano 1 6
+tirri 1 6
+flightless bird 1 6
+gracias paco 1 6
+facebook del papa 1 6
+luchando 1 6
+periodico noroeste 1 6
+tiene vergara 1 6
+liam fuckkkkk¡¡ 1 6
+nueva 1 6
+las ventajas 1 6
+la gran plaza 1 6
+silent hill 1 6
+amado nervo 1 6
+jardín de niños 1 6
+verdaaaad 1 6
+judith 1 6
+fresh boutique 1 6
+gracias anita 1 6
+ayuntamiento 1 6
+delta consultores 1 6
+mismas 1 6
+holi soy un panda 1 6
+operativo 1 6
+sedesol 1 6
+cambio 1 6
+leo vela 1 6
+asco jajajajajajajajajajaj 1 6
+mzt 1 6
+los olivos 1 6
+cerrando 1 6
+volto pro brasil 1 6
+crossfit 767 culiacán 1 6
+el gallitto 1 6
+birriería el diez 1 6
+aeropuerto internacional general rafael buelna 1 6
+imelda castro 1 6
+el festival 1 6
+silva mi david 1 6
+universidad san sebastián 1 6
+parque las riveras 1 6
+vacas 1 6
+
+=======================================GenerateGraph for ND====================================
+bismarck 4 1500.66
+daryl 4 1370.26
+north dakota 4 1119.55
+dickinson 2 968.093
+grand forks 2 968.093
+fargo 3 890.412
+edith 2 685.131
+chiro 1 484.047
+the lodge 1 484.047
+alanis 1 484.047
+anthony hamilton 1 484.047
+clans 1 484.047
+spring lake park 1 484.047
+bret 1 484.047
+lativa 2-1 1 484.047
+dunn bros coffee 1 484.047
+kellogg #transportation #job : part time merchandiser 1 484.047
+mckenzie 1 484.047
+mahatma gandhi 1 484.047
+netherlands 2 466.096
+montana 2 466.096
+suzy 1 419.33
+cassadee pope 1 419.33
+hahaha 1 419.33
+vince carter 1 419.33
+zane 1 419.33
+fuji 1 419.33
+bistro 1 419.33
+the capitol 2 407.84
+calc 2 407.84
+janice 1 375.166
+ceelo green 1 375.166
+timberwolves 1 375.166
+jason kidd 1 375.166
+jodi 1 375.166
+hillary clinton 1 375.166
+tarzan 1 342.566
+mike jones 1 342.566
+c.s. lewis 1 342.566
+mines 1 342.566
+watson 1 342.566
+u.s. hockey 1 317.228
+japan 3 316.748
+old navy 1 296.804
+russian hockey team 1 296.804
+lhs 1 296.804
+kip moore 1 296.804
+kareem 1 296.804
+super 1 296.804
+canada 21 288.534
+bon iver 1 279.887
+caitlyn 1 279.887
+james van riemsdyk 1 279.887
+west coast 1 279.887
+robyn 1 279.887
+joan 1 279.887
+mount rushmore 1 265.575
+ithaca 1 265.575
+albert einstein 1 265.575
+jules 1 253.263
+universal 1 253.263
+mack 1 242.523
+porter 1 242.523
+senate 1 242.523
+mona 1 242.523
+parise 2 236.312
+usa hockey 6 236.09
+richard 1 233.048
+benny 1 233.048
+thompson 1 233.048
+stanley cup 1 233.048
+pacers 1 233.048
+con-way 1 233.048
+jason derulo 1 224.607
+jenn 1 217.025
+tvs 1 217.025
+usa 13 216.239
+latvia 12 212.279
+zach parise 2 211.165
+ryan suter 1 210.165
+imagine dragons 1 210.165
+development 1 210.165
+warren 1 203.92
+emirates 1 203.92
+dunn 1 198.203
+the servant 1 192.943
+omg 1 188.083
+oshie 1 188.083
+msu 1 188.083
+becky 1 179.377
+rocky 1 179.377
+mel 1 175.456
+kellogg 1 171.783
+union 1 171.783
+doc emrick 1 171.783
+bob marley 1 168.332
+bill russell 1 168.332
+bates motel 1 165.083
+barnes 1 165.083
+george 1 165.083
+
+=======================================GenerateGraph for Chihuahua====================================
+chihuahua 3 1452.14
+centro histórico 1 484.047
+vamos milan 1 484.047
+guadalupe 2 420.33
+printer 1 419.33
+seas 1 419.33
+les 1 375.166
+ecuador 1 375.166
+bolivia 1 375.166
+lorena 1 375.166
+leopoldo lopez 1 342.566
+alejandro 1 342.566
+pues 1 317.228
+bill gates 1 317.228
+nos 1 317.228
+martha 1 317.228
+tnt 3 283.624
+pan 1 279.887
+fernando 1 279.887
+barack obama 1 279.887
+jorge 1 265.575
+yolo 1 210.165
+renee 1 203.92
+bien 1 192.943
+el arsenal 1 192.943
+gabby 1 188.083
+costco 1 162.016
+pero 1 148.902
+nada 1 142.421
+manhattan 1 134.973
+vine 1 123.039
+cuba 1 120.523
+gracias 1 112.803
+reggie evans 1 100.293
+marcus thornton 1 100.293
+young 1 98.9237
+jason terry 1 91.7486
+brooklyn 1 75.5356
+obama 1 72.7431
+mexico 1 59.152
+angela 1 39.9249
+facebook 1 35.2422
+roberto fierro villalobos 2 12
+aeropuerto internacional gral 2 12
+cuu 2 12
+nuestro gerente 2 12
+twitter-thajcina fb-cestina whatsapp-slovencina 1 6
+trinidad arteaga 1 6
+itesm campus chihuahua 1 6
+toma 1 6
+icsa-uacj 1 6
+epccj 1 6
+instituto de la cultura 1 6
+la rosa 1 6
+buenos dias guapos 1 6
+lopez obrador 1 6
+universidad palmore 1 6
+por las 1 6
+ciudad deportiva 1 6
+diablos maldita gripe 1 6
+pedro aemando chávez 1 6
+el mollete cafeteria 1 6
+central de autobuses ( cd . juarez 1 6
+uacj 1 6
+cat stevens 1 6
+hotel plaza chihuahua 1 6
+de gerentes pacífico 1 6
+m 4.0 1 6
+abrazote¡¡ 1 6
+pedro armando chávez 1 6
+garcía luna 1 6
+construimos futuro 1 6
+house of cards hahahaha 1 6
+ciudad juárez 1 6
+pica 1 6
+laboratio de dexter 1 6
+unidad deportiva uacj 1 6
+reunion regional pacífico 1 6
+directora @secsonora 1 6
+imogen heap 1 6
+juntos construimos futuro 1 6
+mua para el ninis 1 6
+cd . juarez 1 6
+hola babys 1 6
+liacsa san felipe 1 6
+cecati 1 6
+realiza fem 1 6
+oficinas transito poniente 1 6
+enel palacio 1 6
+hangar gobierno 1 6
+el presidente peña 1 6
+unidep 1 6
+el ninis 1 6
+crema 1 6
+clinica medica mirador 1 6
+delicias 1 6
+erika y al lic 1 6
+chiquita 1 6
+anuncia iberdrola 1 6
+teofilo borunda 1 6
+
+=======================================GenerateGraph for WI====================================
+wi 151 9956.55
+milwaukee 63 6069.82
+wisconsin 32 3896.38
+madison 40 3669.94
+kenosha 10 2655.75
+green bay 9 2021.46
+american family insurance 5 1875.83
+pleasant prairie 5 1875.83
+bishop khaan 5 1875.83
+brookfield 5 1875.83
+scott walker 6 1679.32
+green infrastructure 4 1677.32
+marquette 6 1455.14
+whitewater 3 1452.14
+student union 3 1452.14
+bradley center 3 1452.14
+menomonee falls 3 1452.14
+wisconsin department of children and families 3 1452.14
+terminix 3 1452.14
+witi 3 1452.14
+janesville 3 1452.14
+appleton 3 1452.14
+mayfair 3 1452.14
+wausau 3 1452.14
+walker 7 1387.42
+nasa 5 1165.24
+state street 3 1125.5
+racine 2 968.093
+starlight 2 968.093
+panerabread 2 968.093
+branch 2 968.093
+khs 2 968.093
+systems engineer 2 968.093
+rory 3 951.683
+usa 53 881.589
+davies 2 838.66
+canada 60 824.382
+natasha 3 796.726
+u.s. cellular 4 792.811
+jimmy johns 6 780.597
+helen 3 759.788
+frosted flakes 2 750.331
+retail wireless consultant 3 727.569
+bm 2 685.131
+kayne 2 685.131
+tyco 3 651.074
+noodles 3 651.074
+bill cosby 2 634.456
+citi trends : store sales associate 3 630.496
+latvia 34 601.456
+jefferson 2 593.608
+ed sheeran 2 593.608
+utica 2 559.774
+lamborghini 2 559.774
+usa olympic 2 559.774
+ems 2 559.774
+alyssa 4 554.184
+usa hockey 14 550.876
+bp 4 539.891
+mark twain 2 531.151
+enterprise 2 531.151
+billy joel 2 506.526
+social media 3 495.248
+twitter 30 490.644
+pam 3 486.047
+msnbc 2 485.046
+durango 2 485.046
+chevy 2 485.046
+phil 5 484.858
+wing wednesdays 1 484.047
+the killers 1 484.047
+cate 1 484.047
+lan 1 484.047
+silverstein 1 484.047
+blazers 1 484.047
+bach 1 484.047
+riga 1 484.047
+flair 1 484.047
+travis barker 1 484.047
+axel 1 484.047
+verona 1 484.047
+nacho 1 484.047
+washington avenue 1 484.047
+dodgeball 1 484.047
+dbz 1 484.047
+warner 1 484.047
+botany 1 484.047
+meryl davis 1 484.047
+the usa 1 484.047
+autozone 1 484.047
+taj mahal 1 484.047
+yuri 1 484.047
+alyson 1 484.047
+looney tunes 1 484.047
+photo 1 484.047
+catalina 1 484.047
+alena 1 484.047
+kristin wiig 1 484.047
+friend zone 1 484.047
+archer 1 484.047
+
+=======================================GenerateGraph for SD====================================
+sioux falls 6 2055.39
+rapid city sd 3 1452.14
+south dakota 5 1212.62
+sd 7 1113.8
+kip moore 3 890.412
+lila 2 593.608
+microbiology 1 484.047
+kleenex 1 484.047
+willie nelson 1 484.047
+uncle phil 1 484.047
+black hills 1 484.047
+newman 1 419.33
+lj 1 419.33
+rascal flatts 1 419.33
+george clooney 1 419.33
+norma 1 419.33
+cassadee pope 1 419.33
+aberdeen 1 419.33
+seinfeld 1 375.166
+tianna gregory 1 375.166
+whoopi goldberg 1 375.166
+patterson 1 375.166
+ida 1 375.166
+bill murray 1 375.166
+western civ 1 375.166
+ian poulter 1 342.566
+samsung 1 317.228
+chris young 1 317.228
+gq 1 317.228
+ducks 1 317.228
+adidas originals 7 310.652
+penguin island 1 296.804
+egg 1 296.804
+fowler 1 279.887
+tom petty 1 279.887
+alabama 3 267.575
+perth 1 265.575
+bk 1 265.575
+maple 1 265.575
+planet fitness 1 253.263
+hayden 1 242.523
+kardashian 1 242.523
+sanford 1 242.523
+team usa 3 242.317
+tuukka rask 1 233.048
+big mac 1 224.607
+ohana 1 224.607
+us hockey 1 224.607
+coach carter 1 217.025
+caitlin 1 210.165
+metallica 1 210.165
+kevin love 2 206.429
+chuck bass 1 179.377
+mikey 1 179.377
+jess 1 179.377
+usa-canada 1 175.456
+merica 1 175.456
+american 1 171.783
+fb 2 170.175
+marissa 1 165.083
+barnes 1 165.083
+temporary sales associate 1 165.083
+tanner 1 165.083
+hunter 1 156.364
+randy 1 156.364
+michael jackson 1 153.753
+jenna 1 140.444
+duke 1 138.546
+apple 1 133.288
+pierre 1 131.664
+bar 1 131.664
+semi 1 130.1
+amazon 1 127.131
+kansas 1 127.131
+india 1 121.762
+panera 1 120.523
+house 1 119.322
+australia 1 119.322
+pat 1 118.156
+dan 1 117.024
+hs 1 114.855
+flappy bird 1 111.818
+johnny 1 109.012
+grace 1 109.012
+sun 1 105.583
+zach parise 1 105.583
+alexis 1 101.722
+harry potter 1 94.5415
+madison 1 91.7486
+miami 2 91.6995
+katie 1 91.2195
+nicole 1 88.2279
+adam 1 84.2508
+usa 5 83.1687
+katy perry 1 83.0413
+instagram 1 80.7725
+iphone 2 79.5985
+justin bieber 1 79.3604
+san diego 1 75.2416
+adidas 1 74.0994
+
+=======================================GenerateGraph for Baja California====================================
+alberto oviedo mota 12 2910.28
+tijuana 13 2650.96
+baja california 8 2374.43
+aeropuerto internacional de tijuana 5 1875.83
+tij 5 1875.83
+ensenada 4 1677.32
+mexicali 3 1257.99
+españa 2 968.093
+mexico 15 887.279
+universidad autónoma 2 750.331
+carlos barra 2 750.331
+centro 3 673.821
+el padre palmar 2 634.456
+gracias 5 564.017
+valle 1 484.047
+hercules 1 484.047
+las palmas 1 484.047
+facultad 2 466.096
+sos venezuela 1 419.33
+gracias a dios 1 375.166
+indonesia 1 375.166
+audio 1 342.566
+tango 1 317.228
+el 1 317.228
+romero 1 317.228
+leonardo dicaprio 1 317.228
+sos 2 307.505
+luigi 1 279.887
+buenos 1 279.887
+los 1 279.887
+vicky 1 265.575
+cornell 1 253.263
+info 1 242.523
+ii 1 242.523
+bruno 1 242.523
+australia 2 238.643
+estas 1 224.607
+cafe 1 224.607
+rft 1 224.607
+ultra 1 210.165
+el arsenal 1 192.943
+tj 1 188.083
+milan 2 171.9
+casa 1 168.332
+bc 2 165.299
+pam 1 162.016
+harvard 1 153.753
+dale 1 153.753
+venezuela 3 149.137
+pero 1 148.902
+el paso 1 146.644
+chile 1 133.288
+sean 1 127.131
+city 1 125.722
+ml 1 113.815
+ella 1 108.123
+queen 1 108.123
+mark 1 106.409
+android 1 99.6014
+china 1 88.2279
+nicole 1 88.2279
+bayern munich 1 86.3913
+joe 1 80.057
+arsenal 2 79.5985
+san antonio 1 79.019
+al 1 63.1885
+vegas 1 52.788
+youtube 1 52.0121
+mi 1 49.8782
+starbucks 1 30.289
+lt 1 24.7118
+vinicola adobe guadalupe 2 12
+maxine woodside 2 12
+sala 2 12
+poblado la misión 2 12
+instituto tecnologico de tijuana 1 6
+willi brian 1 6
+mazunte 1 6
+cadena dial 2013 1 6
+banco de sangre imss 1 6
+por venezuela desde tijuana 1 6
+culinary art school 1 6
+rey león 1 6
+account service representative 1 6
+lucerna hotel tijuana 1 6
+cross lopez 1 6
+políticas públicas 1 6
+sesión con padres 1 6
+gerard 1 6
+palacio azteca hotel 1 6
+puppy love 1 6
+el hubiera no existe 1 6
+jacu espresso bar 1 6
+tv tijuana 1 6
+oaxaca mexico 1 6
+baja california campus tijuana 1 6
+jacu brew bar 1 6
+mercado hidalgo 1 6
+trance music 1 6
+cocina integral 1 6
+
+=======================================GenerateGraph for Durango====================================
+durango 8 1940.18
+iu 4 898.428
+ave maria 1 484.047
+gómez palacio 1 484.047
+miss turismo 1 419.33
+la champions 1 419.33
+derecho 1 375.166
+tania 1 375.166
+estado 1 375.166
+temple university 1 342.566
+mujeres 1 317.228
+alison 1 279.887
+te 1 265.575
+facultad 1 233.048
+dios 1 198.203
+rihanna 1 110.859
+venezuela 2 99.4244
+victoria 1 85.95
+vancouver 1 83.4386
+obama 1 72.7431
+twitter 3 49.0644
+parque nazas 2 12
+edificio central ujed 2 12
+cucurumbé plaza nova 1 6
+super fitness damas 1 6
+exporienta en tu escuela 1 6
+expo virtual 2014 1 6
+jardin de niños howard gardner 1 6
+scotiabank jardines 1 6
+secretaria de salud 1 6
+mugres nervios 1 6
+génesis carmona era miss turismo 1 6
+ciencias políticas 1 6
+mariscos los tiburoneros 1 6
+televisa 1 6
+pagando monster 1 6
+cendi 1 6
+maldito maduro 1 6
+café central palacio de zambrano 1 6
+excelente día amig@s 1 6
+comiendo 1 6
+mc donalds 1 6
+mujeres indígenas 1 6
+hospital general durango 1 6
+bahía de kino 1 6
+andar tan 1 6
+atendiendo 1 6
+igualdad y derechos para todas 1 6
+saludos maestro 1 6
+vips felipe pescador 1 6
+hacia 1 6
+panteon de oriente 1 6
+italian coffee constitucion 1 6
+sep durango 1 6
+facultad de… 1 6
+karina palencia 1 6
+contra 1 6
+reprobadas 1 6
+asamblea electiva movimiento 1 6
+guadalupe victoria 1 6
+parque industrial lagunero 1 6
+la ventana 1 6
+wallander 1 6
+mexico avanza 1 6
+
+=======================================GenerateGraph for Mexico====================================
+trap mountain 8 2374.43
+charles 9 1383.77
+buenos dias 2 485.046
+evergreen 1 375.166
+sinaloa 2 367.149
+clarissa 1 342.566
+cosmo 1 296.804
+collin 1 253.263
+lubbock 1 224.607
+michelle rodriguez 1 224.607
+edgar 1 210.165
+alan 1 210.165
+jupiter 1 203.92
+mexico 2 118.304
+uk 1 115.924
+arizona 1 85.95
+nc 2 81.7724
+matt 1 75.2416
+twitter 3 49.0644
+facebook 1 35.2422
+buen dia 1 6
+victor garcia 1 6
+manda md 1 6
+burro mesa 1 6
+san benito 1 6
+daily special 1 6
+sfi=151 ssn=134 1 6
+tom berninger 1 6
+west texas 1 6
+meu 1 6
+saludos desde mazatlan 1 6
+esperamos pronto puedas 1 6
+costa marinera 1 6
+mexico😑 1 6
+
+=======================================GenerateGraph for Saskatchewan====================================
+sk 7 2077.63
+stormy 's executive team 3 1452.14
+regina 4 868.099
+canada post 2 750.331
+rider 2 685.131
+rbc wealth management 1 484.047
+incase 1 484.047
+sandis ozolins 1 484.047
+tramp 1 484.047
+comics 1 484.047
+teemu 1 484.047
+canada 31 425.931
+semi-finals 1 419.33
+kathryn 1 419.33
+cadbury 1 419.33
+canada 1 1 419.33
+oilers 1 419.33
+tsn 1 375.166
+soviet russia 1 342.566
+kaetlyn osmond 1 342.566
+mighty ducks 1 342.566
+belarus 1 317.228
+latvia 17 300.728
+norris 1 296.804
+red 1 279.887
+petr nedved 1 265.575
+tim peel 1 253.263
+joaquin 1 253.263
+harold 1 253.263
+pk subban 1 242.523
+sandis ozolinsh 1 224.607
+ahl 1 203.92
+sochi olympics 1 203.92
+team canada 3 200.814
+lindsay 1 188.083
+manchester 1 183.574
+adidas originals 4 177.515
+barcelona 1 168.332
+bc 2 165.299
+patrick sharp 1 159.114
+carey price 1 159.114
+russian 1 156.364
+indian 1 156.364
+weber 2 149.902
+nash 1 146.644
+babcock 1 144.486
+netflix 3 134.199
+microsoft 1 130.1
+peter 1 128.59
+putin 1 120.523
+wendy 1 103.986
+luke 1 102.46
+calgary 1 101
+europe 1 98.9237
+amanda 1 93.3937
+tavares 1 92.2872
+russia 3 91.0831
+ted nolan 1 90.1883
+miley 1 86.8396
+brit awards 1 84.6661
+vancouver 1 83.4386
+brown 1 83.0413
+ryan 1 80.4123
+olympic hockey 1 76.7477
+ipad 1 75.8332
+shea weber 1 74.9511
+nhl 1 72.2213
+the brits 1 71.7107
+disney 1 66.9381
+usa 4 66.535
+crosby 1 65.9374
+ray rice 1 63.535
+mexico 1 59.152
+ukraine 1 56.0483
+youtube 1 52.0121
+angela 1 39.9249
+arsenal 1 39.7992
+iphone 1 39.7992
+lt 1 24.7118
+amp 1 18.9771
+twitter 1 16.3548
+saskatoon 2 12
+tompkins 2 12
+hamhuis 1 6
+hope tavares 1 6
+oufff 1 6
+coach nolan 1 6
+corey price 1 6
+women bobsleigh 1 6
+pioneer co-op 1 6
+didith 1 6
+jerry oc 1 6
+tsn2 1 6
+tlds 1 6
+uncle elton 1 6
+chartwells 1 6
+xbox minecraft 1 6
+hasek 1 6
+roberto luongo 1 6
+jesus fucking christ 1 6
+
+=======================================GenerateGraph for Canada====================================
+bill c-422 3 1452.14
+vaina 1 484.047
+bernie 1 342.566
+nos 1 317.228
+vs arsenal 1 279.887
+cher 1 265.575
+mp 1 171.783
+dale 1 153.753
+pero 1 148.902
+kristers gudlevskis 1 136.724
+adidas originals 2 88.7576
+james 1 83.4386
+justin bieber 1 79.3604
+the olympics 1 55.0062
+justin 1 54.4523
+venezuela 1 49.7122
+canada 1 13.7397
+vous portez l'ain 2 12
+apagueeeeeeeeei ueheuhe 1 6
+vivacious vixen 1 6
+tlr nada 1 6
+olavo fontoura 1 6
+maduro hablando 1 6
+maduro asesino 1 6
+hola samuel 1 6
+amo minha rola 1 6
+astro do rock kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk 1 6
+aqui manoo 1 6
+talvez 1 6
+pqp 1 6
+arena anhembi av 1 6
+hotel saskatchewan 1 6
+selena internet 1 6
+
+=======================================GenerateGraph for Aguascalientes====================================
+aguascalientes 25 4208.3
+ags 22 3779.22
+universidad autónoma 2 750.331
+oxxo 1 484.047
+alguien 1 375.166
+leon 1 253.263
+san juan 1 233.048
+cafe 1 224.607
+vine 1 123.039
+michelle 1 123.039
+ezra 1 121.762
+burger king 1 120.523
+gracias 1 112.803
+ella 1 108.123
+universidad cuauhtémoc 2 12
+residencial pulgas panda norte 1 6
+llego obama 1 6
+super megarecomiendo 1 6
+issea 1 6
+rincon de romos 1 6
+gimnasio universitario 1 6
+angelica rivera 1 6
+fundacion médica 1 6
+el carnes 1 6
+tecnológico 1 6
+terry y lisa 1 6
+monterrey campus aguascalientes 1 6
+torre plaza bosques 1 6
+nissan mexicana 1 6
+cafeteria sur 1 6
+fundación médica 1 6
+miércoles ger 1 6
+pinche madre 1 6
+palacio de gobierno 1 6
+mi rey 1 6
+el campirano 1 6
+escuela primaria rafael arellano valle 1 6
+velaria 1 6
+fernando de la mora 1 6
+acuática 1 6
+palacio legislativo 1 6
+palacio de justicia 1 6
+centro comercial villasunción 1 6
+colegio esperanza 1 6
+axa 1 6
+hotel quinta real 1 6
+la caliente 1 6
+bbva bancomer 1 6
+instituto aguascalientes 1 6
+dif 1 6
+expoforo 1 6
+centenario hospital miguel hidalgo 1 6
+14va zona militar 1 6
+katie bell 1 6
+alebrije 1 6
+
+=======================================GenerateGraph for Prince Edward Island====================================
+charlottetown 3 1452.14
+healy 2 750.331
+heather moyse 4 717.506
+pei 2 593.608
+cornwall 1 484.047
+ave maria 1 484.047
+english muffin 1 342.566
+cedric 1 342.566
+austria 1 342.566
+oh canada 1 296.804
+bobsled 1 279.887
+pp 1 242.523
+olympic gold 1 217.025
+gold 2 216.247
+kaillie humphries 1 210.165
+breaking news 1 203.92
+canada 13 178.616
+latvia 9 159.209
+patrick sharp 1 159.114
+henderson 1 159.114
+yoga 1 146.644
+sid 1 146.644
+heather 1 146.644
+scott 1 115.924
+karma 1 102.46
+victoria 1 85.95
+dr 1 67.9865
+olympic 1 67.3515
+seattle 1 67.1439
+sochi 1 66.3322
+the olympics 1 55.0062
+finland 1 48.2155
+netflix 1 44.7329
+russia 1 30.361
+usa 1 16.6337
+twitter 1 16.3548
+upei 2 12
+upei women 2 12
+holland college 2 12
+union place 1 6
+amp kaillie 1 6
+montague 1 6
+stargate 1 6
+jonathon toews 1 6
+victor von doom 1 6
+pei heather moyse 1 6
+chaste lovely lady 1 6
+marn 1 6
+viciousness 1 6
+moyse gold 1 6
+vancouver-ish 1 6
+golden girls 1 6
+islander @heathermoyse 1 6
+iayisha 1 6
+the islands 1 6
+smallness 1 6
+yukon gold 1 6
+cmon guys 1 6
+
+=======================================GenerateGraph for KY====================================
+ky 81 5489.6
+louisville 35 3948.12
+whitfield 10 2655.75
+i-69 6 2055.39
+ed whitfield 5 1875.83
+kentucky 11 1691.28
+congressman whitfield 4 1677.32
+john lewis 4 1677.32
+lexington 10 1620.16
+kentucky state capitol 3 1452.14
+shawnee park 3 1452.14
+paducah 4 1370.26
+eku 4 1370.26
+frankfort 4 1187.22
+uofl 3 1125.5
+dupont 2 968.093
+seaho 2 968.093
+selma 2 968.093
+rupert holmes 2 968.093
+mchs 2 968.093
+glasgow 2 968.093
+murray 5 964.716
+rick pitino 3 890.412
+bonnaroo 5 858.913
+fazoli 2 838.66
+gomez 2 838.66
+uk 7 811.47
+ffa 2 750.331
+seinfeld 2 750.331
+florence 4 687.13
+dunbar 2 685.131
+bowling green 2 685.131
+lex 3 673.821
+reggie 4 648.062
+henderson 4 636.456
+whitehall 2 634.456
+panama 5 628.61
+irene 2 593.608
+kaylee 2 593.608
+hobby lobby 2 593.608
+kroger 3 578.83
+homer bailey 7 535.074
+jimmy johns 4 520.398
+bg 2 506.526
+qdoba 2 506.526
+apple tv 2 485.046
+karissa 1 484.047
+college of charleston 1 484.047
+green river 1 484.047
+young man 1 484.047
+illmatic 1 484.047
+clans 1 484.047
+blue sky 1 484.047
+tarleton 1 484.047
+frazier 1 484.047
+marshall henderson 1 484.047
+steven glansberg 1 484.047
+nettie 1 484.047
+kentucky derby 1 484.047
+colt ford 1 484.047
+apush 1 484.047
+merry 1 484.047
+casper 1 484.047
+st . augustine 1 484.047
+edgar allan poe 1 484.047
+monmouth 1 484.047
+tipsy 1 484.047
+randee 1 484.047
+austin dillon 1 484.047
+zak 1 484.047
+unk 1 484.047
+cinci 1 484.047
+new moon 1 484.047
+elmwood 1 484.047
+kori 1 484.047
+darin 1 484.047
+patio 1 484.047
+crenshaw 1 484.047
+dominica 1 484.047
+super nintendo 1 484.047
+mike emrick 1 484.047
+annabelle 1 484.047
+edgewood 1 484.047
+website 1 484.047
+autism 1 484.047
+dawson 1 484.047
+saul 1 484.047
+pale ale 1 484.047
+aerosmith 1 484.047
+patrick stewart 1 484.047
+richmond rd 1 484.047
+newport 3 477.342
+stats 2 449.214
+twitter 27 441.58
+sunset 2 434.05
+puma 2 420.33
+laila 1 419.33
+joanne 1 419.33
+mason county 1 419.33
+ct fletcher 1 419.33
+
+=======================================GenerateGraph for Manitoba====================================
+winnipeg 19 3078.3
+mb 15 2576.74
+manitoba 8 2374.43
+the forks 3 1452.14
+pav 3 1257.99
+canada post 2 750.331
+canada 52 714.464
+bowie 1 484.047
+declan 1 484.047
+claude giroux 1 484.047
+lasagna 1 484.047
+russian team 1 484.047
+nicholas 1 484.047
+tom steyer 1 484.047
+machine gun kelly 1 484.047
+centre 1 484.047
+ben scrivens 1 484.047
+jets 1 419.33
+cannon 1 419.33
+john kerry 1 419.33
+dena 1 419.33
+gluten 1 419.33
+djs 1 419.33
+protesters sanctions 1 419.33
+canadian hockey 1 375.166
+monreal 1 375.166
+three days grace 1 375.166
+on 1 375.166
+premier league 1 375.166
+shell 1 375.166
+champs 1 375.166
+arsene wenger 1 375.166
+leno 1 342.566
+team canada 5 334.69
+iraq 1 317.228
+cube 1 317.228
+canada gold 1 317.228
+sid 2 293.288
+latvia 16 283.038
+south korea 1 279.887
+lowry 1 279.887
+ted nolan 3 270.565
+duchene 1 265.575
+melbourne 1 265.575
+ovi 1 265.575
+terry 2 254.263
+queen b 1 253.263
+pavelec 1 253.263
+san fran 1 233.048
+jacobs 1 233.048
+patrick brazeau 1 233.048
+roger 1 224.607
+renee 1 203.92
+sweden 3 199.597
+greg 1 198.203
+finland 4 192.862
+toews 1 188.083
+cream 1 188.083
+robben 1 183.574
+quebec 1 179.377
+usa-canada 1 175.456
+carly 1 175.456
+gibbs 1 171.783
+ukraine 3 168.145
+london 2 166.877
+george 1 165.083
+joy 1 162.016
+bs 1 162.016
+canadians 1 156.364
+charles 1 153.753
+engineering 1 153.753
+the galaxy 1 153.753
+matt 2 150.483
+shea weber 2 149.902
+weber 2 149.902
+latvian 1 148.902
+nash 1 146.644
+heather 1 146.644
+us 2 144.443
+shannon 1 142.421
+cbc 1 138.546
+ottawa 1 134.973
+seattle 2 134.288
+nolan 1 133.288
+wayne 1 131.664
+subban 1 131.664
+ontario 1 130.1
+sanogo 1 130.1
+the 1 128.59
+czech 1 123.039
+joey 1 123.039
+university 1 120.523
+france 1 119.322
+dan 1 117.024
+neuer 1 114.855
+san jose 1 112.803
+the olympics 2 110.012
+dave 1 109.012
+st . louis 1 107.256
+ozil 1 107.256
+
+=======================================GenerateGraph for Baja California Sur====================================
+la paz 11 2387.27
+baja california sur 6 2055.39
+bcs 5 1586.14
+puerto los cabos 3 1452.14
+cabo san lucas 3 1125.5
+cabo 4 1119.55
+denis 1 484.047
+méxico 1 484.047
+el pueblo 1 484.047
+amiga 1 484.047
+mog 1 419.33
+universidad autónoma 1 375.166
+gracias a dios 1 375.166
+dos 1 342.566
+aeropuerto internacional 1 317.228
+todas 1 317.228
+buenos 1 279.887
+brennan 1 253.263
+bianca 1 233.048
+san jose 2 225.607
+estas 1 224.607
+centro 1 224.607
+ariel 1 198.203
+canadians 1 156.364
+duty 1 146.644
+chile 1 133.288
+andrew 1 109.924
+ella 1 108.123
+bc 1 82.6497
+al 1 63.1885
+miami 1 45.8497
+los cabos international airport 2 12
+sjd 2 12
+club de playa campestre 1 6
+pagando 1 6
+vamos pueblo 1 6
+mx 1 6
+juego 1 6
+viiiieraaaan 1 6
+los cabos 1 6
+crit la paz 1 6
+uva vinifera 1 6
+puerto de pichilingue 1 6
+corea 1 6
+viña del mar 1 6
+convención bdf 1 6
+ay bruno 1 6
+cabovillasbeach resort &amp spa 1 6
+cafe kehylin 1 6
+royal solaris los cabos 1 6
+aeropuerto international de los cabos 1 6
+capella pedregal 1 6
+la cara 1 6
+el squid… 1 6
+jell-o 1 6
+lola montes 1 6
+todo pc 1 6
+carnitas don abraham 1 6
+azul nivea 1 6
+baja cantina 1 6
+licuado verde 1 6
+hilton los cabos beach &amp 1 6
+londres 1 6
+grupo antyr 1 6
+parque 1 6
+el squid roe 1 6
+innovasport 1 6
+mog fight 1 6
+al choro soria 1 6
+the shoppes 1 6
+bianca , malditas 1 6
+santa maría d iquique 1 6
+casino central 1 6
+me cabo 1 6
+coordinación estatal 1 6
+
+=======================================GenerateGraph for San Luis Potosí====================================
+san luis potosi 10 2655.75
+san luis 4 1187.22
+mexico city 2 593.608
+sears 2 506.526
+mario kart 2 506.526
+alexander 2 485.046
+ando 1 484.047
+jamas 1 419.33
+escuela 1 419.33
+la champions 1 419.33
+jenni rivera 1 419.33
+derechos humanos 1 419.33
+donkey kong 1 419.33
+extraño 1 419.33
+vista 1 375.166
+khan 1 375.166
+cac 1 342.566
+aventura 1 342.566
+lauryn williams 1 342.566
+vi 1 317.228
+este 1 317.228
+vietnam 1 317.228
+van gogh 1 317.228
+kendall 2 312.728
+o2 1 242.523
+estas 1 224.607
+lady gaga 1 192.943
+pedro 1 188.083
+massachusetts 1 165.083
+para 1 159.114
+nada 1 142.421
+juan 1 134.973
+liz 1 131.664
+madrid 1 120.523
+mexico 2 118.304
+twitter 7 114.484
+champions league 1 104.775
+harry 1 89.6859
+london 1 83.4386
+john 1 79.3604
+al 1 63.1885
+youtube 1 52.0121
+venezuela 1 49.7122
+la 1 41.4416
+facebook 1 35.2422
+ciudad valles 2 12
+nwa tv title 1 6
+la oruga 1 6
+la fiera 1 6
+debo 1 6
+xtreme gym 1 6
+pantalla 1 6
+plaza tangamanga 1 6
+nextel 1 6
+ucem 1 6
+facultad de derecho 1 6
+auto deportivo 2 1 6
+mi matamoros 1 6
+prince= female bruno mars 1 6
+jodete kendall 1 6
+la playa 1 6
+linda muchas gracias 1 6
+tesoreria municipal 1 6
+colibrí tours 1 6
+mariano arista inpode 1 6
+alberca gral 1 6
+supremo tribunal 1 6
+ciudad 1 6
+luis y guille 1 6
+claro anita 1 6
+martha debayle 1 6
+y erendira 1 6
+hora de aventura 1 6
+el departamento 1 6
+perras 1 6
+mis güeras 1 6
+newman le gane 1 6
+conferencia competitividad 1 6
+esas amigas 1 6
+el che guevara 1 6
+santa madre 1 6
+queen eva 1 6
+universidad potosina 1 6
+delitos sexuales 1 6
+auditorio leopoldo cordero 1 6
+consejo de la judicatura federal 1 6
+espinoza paz 1 6
+muchas felicidades 1 6
+aeropuerto internacional ponciano arriaga 1 6
+representando a la musica regional mexicana 1 6
+tongolele 1 6
+de marlboro 1 6
+la salazar 1 6
+jacinto cuevas 1 6
+snacks mix 1 6
+muchas gracias pao 1 6
+la casa 1 6
+psychiatry 1 6
+papeleo 1 6
+saludos marco 1 6
+
+=======================================GenerateGraph for NH====================================
+nh 32 4623.56
+boston 50 2342.44
+nashua 5 1712.83
+loon mountain 4 1677.32
+unh 5 1484.02
+new hampton 3 1452.14
+new hampshire 4 1119.55
+david krejci 2 750.331
+pumpkin 2 593.608
+valentines day 3 550.723
+manchester 3 550.723
+jon 4 533.15
+concord 3 515.348
+myrtle beach 3 515.348
+cornell 2 506.526
+wu tang 1 484.047
+yaaaas 1 484.047
+discount furniture 1 484.047
+mozart 1 484.047
+kellogg #transportation #job : part time merchandiser 1 484.047
+maddy 1 484.047
+jedi 1 484.047
+lil snupe 1 484.047
+amazon prime 1 484.047
+captain parise 1 484.047
+woody allen 1 484.047
+yassssss 1 484.047
+planet earth 1 484.047
+bach 1 484.047
+usda 1 484.047
+north pole 1 484.047
+plymouth 2 434.05
+toni 2 420.33
+dover 2 420.33
+american red cross 1 419.33
+main st 1 419.33
+liv 1 419.33
+backstreet boys 1 419.33
+electric 1 419.33
+canadiens 1 419.33
+napoli 1 419.33
+shields 1 419.33
+tuukka 1 419.33
+the disco 1 419.33
+billy currington 1 419.33
+rask 1 419.33
+keene 1 419.33
+stoke 1 419.33
+colton 2 407.84
+durham 2 385.886
+larkin 1 375.166
+easton corbin 1 375.166
+cis 1 375.166
+ehs 1 375.166
+twitters 1 375.166
+olive 1 375.166
+charlie sheen 1 375.166
+katelyn 1 375.166
+celtic 1 375.166
+justina 1 375.166
+macaroni 1 375.166
+daily 1 375.166
+unlv 1 375.166
+cleveland browns 1 375.166
+brits 4 364.878
+new england 3 344.566
+tri 1 342.566
+french 1 342.566
+big daddy v 1 342.566
+secretary of state 1 342.566
+eileen 1 342.566
+tarzan 1 342.566
+ridley 1 342.566
+ondrej pavelec 1 342.566
+tree hill 1 342.566
+chaz 1 342.566
+mother nature 3 341.446
+salem 2 336.664
+ortiz 1 317.228
+bill cosby 1 317.228
+hilton garden inn 1 317.228
+saturn 1 317.228
+alpha 1 317.228
+ally 1 317.228
+sos 2 307.505
+callahan 2 302.538
+yale 1 296.804
+hanover 1 296.804
+bob costas 1 296.804
+brad paisley 1 296.804
+otis 1 296.804
+claremont 1 296.804
+cs 1 296.804
+canada 21 288.534
+mackenzie 1 279.887
+catherine 1 279.887
+fresenius medical care 1 279.887
+north dakota 1 279.887
+keegan 1 279.887
+usa hockey 7 275.438
+
+=======================================GenerateGraph for MS====================================
+ms 32 1911.11
+hattiesburg 6 1903.37
+starkville 5 1875.83
+justkaking custom cakes bakery 5 1875.83
+gulfport 3 1452.14
+marcus garvey 2 968.093
+tupelo 2 968.093
+mississippi 5 964.716
+thor 3 890.412
+ole miss 4 840.661
+biloxi 2 838.66
+oxford 4 771.773
+jackson 6 695.546
+alpha 2 634.456
+zoey 2 485.046
+fbi 2 485.046
+anthony hamilton 1 484.047
+peele 1 484.047
+furtick 1 484.047
+x-men 1 484.047
+wade bosh 1 484.047
+jarvis 1 484.047
+willie nelson 1 484.047
+kevin malone 1 484.047
+swayze 1 484.047
+snoop dog 1 484.047
+amp kanye 1 484.047
+marshall henderson 1 484.047
+ian 4 468.097
+chili 2 434.05
+peter pan 2 420.33
+cadillac 1 419.33
+ron swanson 1 419.33
+sga 1 419.33
+police academy 1 419.33
+korn 1 419.33
+pilottravel center 1 419.33
+ag 1 419.33
+meridian 1 419.33
+kathryn 1 419.33
+saints 1 419.33
+yass 1 419.33
+kokomo 1 419.33
+justin moore 1 419.33
+amp bar 2 396.405
+jennifer 2 385.886
+msu 2 376.166
+temporary sales 1 375.166
+gotham 1 375.166
+neptune 1 375.166
+desoto 1 375.166
+shayne 1 375.166
+sec network 1 375.166
+devine 1 375.166
+god 13 360.086
+the joker 1 342.566
+chaco 1 342.566
+apple pie 1 342.566
+ace hood 1 342.566
+martin luther 1 342.566
+levi strauss &amp 1 342.566
+glo 1 342.566
+winona 1 342.566
+grill 2 336.664
+olympic games 1 317.228
+krystal 1 317.228
+haven 1 317.228
+connie 1 317.228
+bria 1 317.228
+patty 1 317.228
+leland 1 317.228
+ray allen 1 317.228
+pringles 1 317.228
+avengers 1 317.228
+louisiana 2 312.728
+jada pinkett smith 1 296.804
+emojis 1 296.804
+rio 1 296.804
+danny glover 1 296.804
+xi 1 296.804
+zaxby 1 296.804
+jones 2 280.887
+emergency service 1 279.887
+polina 1 279.887
+eno 1 279.887
+radiohead 1 279.887
+scott walker 1 279.887
+garfield 1 279.887
+ja rule 1 279.887
+pizza hut 2 273.449
+tay 1 265.575
+rich homie quan 1 265.575
+pbs 1 265.575
+laurel 1 265.575
+latvia canada 1 265.575
+lord jesus 1 265.575
+broccoli 1 265.575
+bradley cooper 1 253.263
+idgaf 1 253.263
+cinnamon toast crunch 1 253.263
+
+=======================================GenerateGraph for Nuevo León====================================
+nl 92 7989.24
+monterrey 92 7789.28
+san pedro garza garcía 23 4035.48
+nuevo leon 15 3058.8
+nuevo león 12 2910.28
+santa catarina 10 2655.75
+san nicolás de los garza 9 2518.98
+apodaca 8 2374.43
+facultad 10 2330.48
+miss turismo carabobo 2013 9 2279.36
+los garza 6 2055.39
+monterrey general mariano escobedo 6 2055.39
+aeropuerto internacional 6 1903.37
+mty 5 1875.83
+san pedro garza garcia 5 1875.83
+guadalupe 8 1681.32
+vissi 4 1677.32
+piel 4 1677.32
+sienna 4 1677.32
+udem 4 1677.32
+falleció génesis carmona 5 1586.14
+barra 5 1586.14
+nuevo 4 1500.66
+prepa udem 3 1452.14
+escobedo 3 1452.14
+clima 3 1452.14
+ciencias de la comunicación uanl 3 1452.14
+rockean 3 1452.14
+magic piano 3 1452.14
+sports world 3 1452.14
+aulas 3 1452.14
+jorge urdiales 3 1452.14
+urgentefalleció génesis carmona 3 1452.14
+san pedro 3 1257.99
+arena 4 1187.22
+el arsenal 6 1157.66
+facultad de medicina 3 1125.5
+una 4 1013.05
+del arsenal 4 970.092
+san nicolas 2 968.093
+centro 4 898.428
+ella 8 864.986
+dvd 4 840.661
+la fonda 2 838.66
+la champions 2 838.66
+tú 2 838.66
+carlos barra 2 750.331
+arco 2 750.331
+rectoría 2 750.331
+viernes 2 750.331
+blanca 2 750.331
+cuando 3 727.569
+chile 5 666.438
+este 2 634.456
+el mundo 2 634.456
+al arsenal 2 634.456
+nunca 3 594.608
+bien 3 578.83
+fernando 2 559.774
+uno 2 559.774
+hoy 3 550.723
+las 3 538.13
+mexico 9 532.368
+le 2 531.151
+cd 2 531.151
+dice 2 506.526
+inter 1 484.047
+yaaaaa 1 484.047
+esos 1 484.047
+pepe treviño 1 484.047
+visto 1 484.047
+primera 1 484.047
+canal 1 484.047
+tiene 1 484.047
+lingling qi 1 484.047
+aquí 1 484.047
+reynosa 1 484.047
+al bayern 1 484.047
+genesis carmona 1 484.047
+de sciglio 1 484.047
+plaza real 1 484.047
+ando 1 484.047
+siemens 1 484.047
+brits awards 1 484.047
+jajajajaja 1 484.047
+rami 1 484.047
+universidad del valle 1 484.047
+vamos milan 1 484.047
+h-e-b 1 484.047
+neta 1 484.047
+el estado 1 484.047
+para 3 477.342
+vida 2 449.214
+venezuela 9 447.41
+pero 3 446.706
+nada 3 427.264
+vargas 1 419.33
+diego costa 1 419.33
+justicia 1 419.33
+pastel 1 419.33
+
+=======================================GenerateGraph for NC====================================
+nc 385 15741.2
+charlotte 82 6318.92
+raleigh 48 5564.37
+greensboro 40 5085.25
+north carolina 31 3298.69
+fayetteville 19 2921.3
+asheville 13 2919.89
+durham 14 2701.21
+ecu 11 2667.75
+nc assistant store manager 9 2518.98
+chapel hill 11 2311.82
+unc 15 2306.29
+wilmington 15 2167.29
+wrightsville beach 7 2077.63
+uncg 6 2055.39
+winston salem 5 1875.83
+nc customer service representative 5 1875.83
+greenville 12 1815.23
+triangle 7 1772.84
+clt 5 1712.83
+dook 5 1712.83
+winston-salem 4 1677.32
+cora bella 4 1677.32
+aunty maya 4 1677.32
+parole software 4 1677.32
+duke 11 1524.01
+claremont 5 1484.02
+elon 3 1452.14
+marcus paige 3 1452.14
+kilah 3 1452.14
+rick thames 3 1452.14
+uncw 3 1452.14
+guilford county 3 1452.14
+ralls 3 1452.14
+huntersville 3 1452.14
+the plantation 3 1452.14
+charlotte douglas international airport 3 1452.14
+tommy hayfield hayfield 3 1452.14
+fort bragg 3 1452.14
+siler city 3 1452.14
+morrisville 3 1452.14
+grayson 4 1370.26
+carolina 12 1297.48
+boone 6 1260.99
+statesville 3 1257.99
+records 4 1187.22
+google fiber 13 1165.92
+wolfpack 3 1125.5
+wake forest 3 1125.5
+cary 3 1125.5
+rdu 3 1125.5
+southpark 3 1125.5
+ciaa 4 1119.55
+citi 11 1021.19
+bojangles 2 968.093
+mcmahon 2 968.093
+kevin costner 2 968.093
+north hills 2 968.093
+rock hill 2 968.093
+kangaroo express 2 968.093
+mrs . smith 2 968.093
+regina george 2 968.093
+drexel 2 968.093
+trade deadline mania 2 968.093
+billy graham 2 968.093
+raleigh-durham 2 968.093
+citi trends : store sales 2 968.093
+climax 2 968.093
+costner 2 968.093
+campbell 3 890.412
+turner 3 839.661
+rocky mount 2 838.66
+memorial day 2 838.66
+luxor 2 838.66
+black mountain 2 838.66
+spring ball 2 838.66
+elf 2 838.66
+temporary sales associate 5 825.413
+brooks orpik 3 796.726
+starbucks 26 787.513
+god 28 775.57
+citi trends 6 762.788
+twitter 46 752.321
+sheetz 2 750.331
+jennings 2 750.331
+ed hardy 2 750.331
+hot sauce 2 750.331
+staley 2 750.331
+gemini 2 750.331
+semin 2 750.331
+james dean 2 750.331
+usa 45 748.519
+google 15 727.787
+sanford 3 727.569
+trends 5 712.107
+steve 7 712.053
+belk 2 685.131
+bakery service team member 2 685.131
+aoii 2 685.131
+blair 4 673.328
+
+=======================================GenerateGraph for FL====================================
+fl 596 19179.6
+miami 173 7932.01
+orlando 105 6708.16
+florida 178 6383.23
+jacksonville 60 6192.87
+miami beach 47 5398.19
+tallahassee 34 4842.33
+lake buena vista 35 4785.35
+tampa 57 4711.04
+south beach 27 3740.74
+magic kingdom® park 18 3567.65
+dj g'3 17 3466.64
+disney 50 3346.9
+venezuela 63 3131.87
+orlando international airport 13 3029.62
+beach 28 2808.21
+fort lauderdale 16 2693.31
+coral springs 11 2667.75
+animal kingdom 11 2667.75
+daytona beach 12 2521.98
+mackey graham &amp 9 2518.98
+fsu 14 2511.27
+epic real estate solutions 8 2374.43
+fort lauderdale beach 8 2374.43
+vendetta fighter 8 2374.43
+daytona 19 2337.75
+key west 11 2311.82
+winter park 9 2279.36
+ormond beach 7 2220.59
+universal studios florida 7 2220.59
+lincoln road 7 2220.59
+boca raton 7 2077.63
+famu 7 2077.63
+usf 7 2077.63
+magic kingdom 6 2055.39
+cinderella castle 6 2055.39
+legoland® florida 6 2055.39
+hollywood studios 6 2055.39
+depsi 6 2055.39
+marco island 6 2055.39
+palm beach gardens 6 2055.39
+lakeland 10 1929.43
+epcot 6 1903.37
+roy chaderton 6 1903.37
+base superstore 5 1875.83
+st petersburg 5 1875.83
+publix super market 5 1875.83
+miami area home 5 1875.83
+expedition everest 5 1875.83
+legoland driving school 5 1875.83
+orange park 5 1875.83
+twitter 111 1815.38
+ucf 10 1793.77
+jeter 31 1787.64
+amp cafe 6 1780.82
+pensacola 7 1772.84
+cork 5 1712.83
+fau 5 1712.83
+ocala 5 1712.83
+palm beach 6 1679.32
+lta cakin 4 1677.32
+fort myers beach 4 1677.32
+daytona international speedway 4 1677.32
+georges st 4 1677.32
+west palm beach 4 1677.32
+epic hotel 4 1677.32
+kirkman road 4 1677.32
+makeovers by luis canas 4 1677.32
+marble bank building 4 1677.32
+minion mayhem 4 1677.32
+lake wales 4 1677.32
+mco 4 1677.32
+gladys murray 4 1677.32
+david 's cafe 4 1677.32
+luisa ortega 4 1677.32
+live greyhound racing 4 1677.32
+jobs regional sales executive 4 1677.32
+valencia 11 1663.96
+super market 5 1586.14
+colgate 5 1586.14
+lounge 5 1586.14
+cocoa beach 5 1586.14
+lauderdale 5 1586.14
+kristers 6 1519.58
+gainesville 7 1519.17
+doral 4 1500.66
+aventura mall 4 1500.66
+clearwater beach 4 1500.66
+winter haven 4 1500.66
+publix 5 1484.02
+boone 7 1471.16
+semoran boulevard 3 1452.14
+pembroke pines 3 1452.14
+miami airport convention center 3 1452.14
+davie 3 1452.14
+w south beach 3 1452.14
+koko ray &amp 3 1452.14
+hialeah 3 1452.14
+national hotel 3 1452.14
+uefa champions league 3 1452.14
+Time is : 4.62324 s

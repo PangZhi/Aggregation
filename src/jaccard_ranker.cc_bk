@@ -1,0 +1,112 @@
+// Copyright (c) 2014, Jing Fan. All Rights Reserved.
+
+#include "aggregation/ranker/jaccard_ranker.h"
+
+#include <algorithm>
+#include <iostream>
+#include <unordered_set>
+
+#include "aggregation/idf_gen.h"
+
+namespace aggregation {
+
+struct Vertex {
+  Vertex(const int o_index) : index(o_index), score(0) {}
+  Vertex(const int o_index, const double o_score)
+      : index(o_index), score(o_score) {}
+  bool operator < (const Vertex& v) const {
+    return score > v.score;
+  } 
+  int index;
+  double score;
+  
+};
+
+struct PageRankEdge {
+  PageRankEdge(const int o_index) : index(o_index), weight(0.15) {}
+  PageRankEdge(const int o_index, const double o_weight)
+      : index(o_index), weight(o_weight) {}
+  int index;
+  double weight;
+};
+
+double JaccardRanker::GetJaccardSimlarity(const Post& p1, const Post& p2) {
+  std::unordered_set<Token> union_tokens(p1.tokens.begin(), p1.tokens.end());
+  std::unordered_set<Token> intersect_tokens;
+  for (const Token& t : p2.tokens) {
+    if (union_tokens.find(t) == union_tokens.end()) {
+      intersect_tokens.insert(t);
+    }
+  }
+  union_tokens.insert(p2.tokens.begin(), p2.tokens.end());
+  return (static_cast<double>(intersect_tokens.size()) / union_tokens.size());
+}
+
+void PageRank(std::vector<Vertex>& vertices, std::vector<std::vector<PageRankEdge> >& edges, const int max_iter = 10) {
+  int size = vertices.size();
+  std::vector<double> sum_weight(size);
+  // Calculate sum of weight for every vertex.
+  for (int i = 0; i < size; ++i) {
+    for (auto& e : edges[i]) {
+      sum_weight[i] += e.weight;
+    }
+  }
+  
+  int loop_cnt = 0;
+  while (loop_cnt < max_iter) {
+    for (int i = 0; i < size; ++i) {
+      double sum = 0;
+      for (auto& e : edges[i]) {
+        sum += vertices[e.index].score * e.weight / sum_weight[e.index]; 
+      }
+      vertices[i].score = 0.15 + 0.85 * sum;
+    }
+    ++loop_cnt;
+  }
+  std::sort(vertices.begin(), vertices.end());
+}
+
+void JaccardRanker::Rank(const std::vector<Post>& posts,
+                         const int knum,
+                         const int backup_num,
+                         Graph* graph,
+                         Graph* backup_graph) {
+  int size = posts.size();
+  std::vector<Vertex> vertices;
+  for (int i = 0 ; i < size; ++i) {
+    vertices.push_back(Vertex(i));   
+  }
+  std::vector<std::vector<PageRankEdge> > edges(size);
+                           for (int i = 0 ; i < size; ++i) {
+                             for (int j = i + 1; j < size; ++j) {
+                               double sim = GetJaccardSimlarity(posts[i], posts[j]); 
+                               if ( sim < 0.1) {
+                                 continue;
+                               }
+                               edges[i].push_back(PageRankEdge(j, sim));
+                               edges[j].push_back(PageRankEdge(i, sim));
+                             }
+                           }
+  PageRank(vertices, edges);
+                           for (int i = 0; i < size / 2; ++i) {
+                             const std::vector<Token>& tokens = posts[vertices[i].index].tokens;
+                             for (const Token& t : tokens) {
+                               std::cout << t.name << " ";
+                             }
+                             std::cout << vertices[i].score << std::endl;
+                           }
+
+                           
+}
+
+
+void JaccardRanker::Rank(const std::vector<Graph*>& graphs,
+                         const int knum,
+                         const int backup_num,
+                         Graph* graph,
+                         Graph* backup_graph) {
+
+}
+
+
+} // namespace aggregation

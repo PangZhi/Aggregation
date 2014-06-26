@@ -1,0 +1,82 @@
+usage: ./bin/main and enter aggregation_dimension in (0, 1, 2, 3)
+0: Date
+1: Hour
+2: State
+3: City
+
+KeywordNumber : 20
+DataDirectory : /u/f/a/fanj/TwitterTag2/
+CorpusDirectory : ~/corpus/
+RankMethod : Jaccard
+usa-2014-02-19_2.txt
+/u/f/a/fanj/TwitterTag2//usa-2014-02-19_2.txt
+Read post 10000
+Read post 20000
+Read post 30000
+Read post 40000
+Read post 50000
+Read post 60000
+Read post 70000
+Read post 80000
+Read post 90000
+Read post 100000
+Read post 110000
+Read post 120000
+Read post 130000
+Read post 140000
+Read post 150000
+Read post 160000
+Read post 170000
+Read post 180000
+Read post 190000
+Read post 200000
+Read post 210000
+Read post 220000
+Read post 230000
+Read post 240000
+Read post 250000
+Read post 260000
+Read post 270000
+Read post 280000
+Read post 290000
+Read post 300000
+Read post 310000
+Read post 320000
+Read post 330000
+Read post 340000
+Read post 350000
+Read post 360000
+Read post 370000
+Read post 380000
+Read post 390000
+Read post 400000
+Read post 410000
+Read post 420000
+Read post 430000
+Read post 440000
+Read post 450000
+Read post 460000
+Read post 470000
+Read post 480000
+Read post 490000
+Read post 500000
+Read post 510000
+Read post 520000
+Read post 530000
+Read post 540000
+Read post 550000
+Read post 560000
+Read post 570000
+Read post 580000
+Read post 590000
+Read post 600000
+Read post 610000
+Read post 620000
+Read post 630000
+Read post 640000
+Read post 650000
+Read post 660000
+Read post 670000
+Read post 680000
+Read post 690000
+Please enter the aggregation dimension and keyword number
