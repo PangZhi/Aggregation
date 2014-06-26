@@ -1,6 +1,6 @@
 KeywordNumber : 20
-DataDirectory : /u/f/a/fanj/dataset/arXiv/metadata-2013-processed/
-CorpusDirectory : /u/f/a/fanj/dataset/arXiv/metadata-2013-processed/
+DataDirectory : 
+CorpusDirectory : 
 RankMethod : Tfidf
 Schema : date;area;subarea 
 #Hierarchy : child-parent;child-parent
